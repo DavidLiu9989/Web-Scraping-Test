@@ -16,7 +16,9 @@ import string
 INFRA_TERMS = [
     "data center", "data centre", "datacenter", "datacentre",
     "cloud service", "cloud services", "cloud provider", "cloud computing",
-    "cloud infrastructure", "hyperscale", "colocation", "co-location",
+    "cloud infrastructure", "cloud resilience", "cloud security",
+    "cloud sovereignty", "cloud switching", "sovereign cloud",
+    "hyperscale", "colocation", "co-location",
     "digital infrastructure", "server farm", "compute infrastructure",
     "ai infrastructure", "iaas", "paas",
 ]
