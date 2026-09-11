@@ -53,6 +53,7 @@ def generate_insights(new_items: list[dict]) -> str:
             "countries": a["countries"],
             "topics": a["topics"],
             "doc_type": a["doc_type"],
+            "language": a.get("language", "en"),
             "published_at": a["published_at"],
             "source": a["source"],
             "url": a["url"],

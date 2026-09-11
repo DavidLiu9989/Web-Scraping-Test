@@ -12,15 +12,24 @@ centers and cloud services**, across two policy areas:
 Instead of googling repeatedly, run `regwatch` periodically. It:
 
 1. **Scrapes** Google News RSS queries and regulator/trade-press feeds
-   (no API keys required for scraping).
+   (no API keys required for scraping) — in English **and** in native
+   languages (Spanish, German, French, Portuguese, Italian, Dutch,
+   Indonesian, Japanese, Korean, Chinese, Vietnamese), so a Spanish Real
+   Decreto covered only by Spanish press is still caught.
 2. **Classifies** each item — relevance score, topics, jurisdictions, and
-   document stage (consultation → draft → enacted → guidance).
-3. **Stores** everything in SQLite with per-run history, so each scrape knows
+   document stage (consultation → draft → enacted → guidance), using
+   multilingual keyword lists; the item's language is auto-detected.
+3. **Translates** relevant non-English items to English via Claude (batch,
+   one call per scrape), keeping the original title/text alongside and
+   re-classifying on the translated text. Without an API key, items are
+   kept in their original language and flagged `untranslated` — never
+   dropped.
+4. **Stores** everything in SQLite with per-run history, so each scrape knows
    exactly what is new versus already seen.
-4. **Exports** an LLM-friendly corpus (`data/corpus.jsonl` and
+5. **Exports** an LLM-friendly corpus (`data/corpus.jsonl` and
    `data/corpus.md`) that you can hand to an LLM together with your own
    policy documents to compare what's new vs. existing.
-5. **Generates a digest** (`reports/latest-digest.md`) of developments new
+6. **Generates a digest** (`reports/latest-digest.md`) of developments new
    since the previous scrape — and, when an Anthropic API key is available,
    appends an LLM-written **Policy Insights** section: stringency signals,
    emerging regulatory areas, and suggested follow-ups for policy makers.
@@ -34,7 +43,8 @@ pip install -r requirements.txt
 python -m regwatch run
 
 # Or step by step
-python -m regwatch scrape          # fetch + classify + store new items
+python -m regwatch scrape          # fetch + classify + store + translate new items
+python -m regwatch translate       # translate stored non-English items
 python -m regwatch export          # write data/corpus.jsonl + data/corpus.md
 python -m regwatch digest          # write reports/digest-<timestamp>.md
 python -m regwatch digest --stdout # print instead of writing
@@ -44,6 +54,7 @@ python -m regwatch sources         # show configured feeds
 Useful flags:
 
 - `--no-llm` — skip the LLM insights section (digest is still generated)
+- `--no-translate` — skip machine translation of non-English items
 - `--no-content` — skip fetching full article text (much faster)
 - `-v` — verbose logging
 - `--db path.db`, `--config path.yaml` — override defaults
@@ -88,8 +99,11 @@ to enable LLM insights in scheduled runs; trigger manually via
 
 Everything is configured in [`config/sources.yaml`](config/sources.yaml):
 
-- **`google_news_queries`** — add/remove search queries (each expands into a
-  Google News RSS feed per configured locale).
+- **`google_news_queries`** — add/remove English search queries (each expands
+  into a Google News RSS feed per configured locale).
+- **`international_queries`** — native-language queries, each with its own
+  Google News locale (`hl`/`gl`/`ceid`). Add a query in any language to widen
+  non-English coverage; detection, gating and translation are automatic.
 - **`rss_feeds`** — direct RSS/Atom feeds (regulators, ministries, trade press).
 - **`google_news_locales`** — add locales to surface region-specific coverage.
 - **`relevance_threshold`** — raise for precision, lower for recall.

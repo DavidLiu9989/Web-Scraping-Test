@@ -70,8 +70,15 @@ def build_digest(db: Database, use_llm: bool = True) -> str:
         lines.append("")
         for a in items:
             topics = ", ".join(a["topics"]) or "general"
+            lang_note = ""
+            if a.get("language", "en") != "en":
+                lang_note = (
+                    f"; translated from {a['language']}"
+                    if a.get("translated")
+                    else f"; original in {a['language']}, untranslated"
+                )
             lines.append(
-                f"- **{a['title']}** ({a['doc_type']}; {topics}) — "
+                f"- **{a['title']}** ({a['doc_type']}; {topics}{lang_note}) — "
                 f"{a['source']}, {a['published_at'] or 'date unknown'}  \n"
                 f"  {a['url']}"
             )

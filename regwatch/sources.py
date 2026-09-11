@@ -46,6 +46,19 @@ def load_config(path: str | Path | None = None) -> SourceConfig:
             )
             feeds.append(Feed(url=url, label=f"{label} [{loc['gl']}]", kind="google-news"))
 
+    for entry in raw.get("international_queries") or []:
+        query = entry["query"]
+        label = entry.get("label") or query[:40]
+        url = (
+            "https://news.google.com/rss/search?"
+            f"q={quote_plus(query + ' when:30d')}"
+            f"&hl={entry['hl']}&gl={entry['gl']}&ceid={quote_plus(entry['ceid'])}"
+        )
+        feeds.append(
+            Feed(url=url, label=f"{label} [{entry['gl']}/{entry['hl']}]",
+                 kind="google-news")
+        )
+
     for entry in raw.get("rss_feeds") or []:
         feeds.append(
             Feed(url=entry["url"], label=entry.get("label") or entry["url"], kind="rss")

@@ -18,6 +18,7 @@ from .db import Database, utcnow
 EXPORT_FIELDS = [
     "url", "title", "source", "published_at", "first_seen_at",
     "countries", "topics", "doc_type", "relevance_score", "snippet",
+    "language", "translated", "original_title",
 ]
 
 
@@ -71,6 +72,15 @@ def export_markdown(db: Database, path: str | Path) -> int:
             lines.append(f"- **Jurisdictions:** {', '.join(art['countries']) or 'unattributed'}")
             lines.append(f"- **Topics:** {', '.join(art['topics']) or 'general'}")
             lines.append(f"- **Document stage:** {art['doc_type']}")
+            if art.get("language", "en") != "en":
+                note = (
+                    "machine-translated to English"
+                    if art.get("translated")
+                    else "untranslated"
+                )
+                lines.append(f"- **Language:** {art['language']} ({note})")
+                if art.get("original_title"):
+                    lines.append(f"- **Original title:** {art['original_title']}")
             lines.append(f"- **Published:** {art['published_at'] or 'unknown'}")
             lines.append(f"- **Source:** {art['source']} — {art['url']}")
             lines.append("")

@@ -33,6 +33,15 @@ def main(argv: list[str] | None = None) -> int:
         "--no-content", action="store_true",
         help="skip fetching full article text (faster)",
     )
+    p_scrape.add_argument(
+        "--no-translate", action="store_true",
+        help="skip translating non-English items to English",
+    )
+
+    sub.add_parser(
+        "translate",
+        help="translate stored non-English items to English (needs ANTHROPIC_API_KEY)",
+    )
 
     p_export = sub.add_parser("export", help="export LLM-friendly corpus")
     p_export.add_argument("--out-dir", default=DEFAULT_EXPORT_DIR)
@@ -52,6 +61,7 @@ def main(argv: list[str] | None = None) -> int:
     p_run = sub.add_parser("run", help="scrape + export + digest (periodic entrypoint)")
     p_run.add_argument("--no-content", action="store_true")
     p_run.add_argument("--no-llm", action="store_true")
+    p_run.add_argument("--no-translate", action="store_true")
     p_run.add_argument("--export-dir", default=DEFAULT_EXPORT_DIR)
     p_run.add_argument("--report-dir", default=DEFAULT_REPORT_DIR)
 
@@ -76,6 +86,10 @@ def main(argv: list[str] | None = None) -> int:
     try:
         if args.command == "scrape":
             _scrape(db, config, not args.no_content)
+            if not args.no_translate:
+                _translate(db)
+        elif args.command == "translate":
+            _translate(db)
         elif args.command == "export":
             _export(db, args.out_dir, args.format)
         elif args.command == "digest":
@@ -86,6 +100,8 @@ def main(argv: list[str] | None = None) -> int:
                 print(f"digest written to {path}")
         elif args.command == "run":
             _scrape(db, config, not args.no_content)
+            if not args.no_translate:
+                _translate(db)
             _export(db, args.export_dir, "both")
             path = write_digest(db, args.report_dir, use_llm=not args.no_llm)
             print(f"digest written to {path}")
@@ -101,6 +117,17 @@ def _scrape(db: Database, config, fetch_content: bool) -> None:
         f"run #{stats['run_id']}: {stats['entries_seen']} entries seen, "
         f"{stats['new_articles']} new, {stats['new_relevant']} new relevant"
     )
+
+
+def _translate(db: Database) -> None:
+    from .translate import translate_pending
+
+    try:
+        n = translate_pending(db)
+        if n:
+            print(f"translated {n} non-English item(s) to English")
+    except Exception as e:  # no credentials, network, refusal
+        print(f"translation skipped ({e}); non-English items kept untranslated")
 
 
 def _export(db: Database, out_dir: str, fmt: str) -> None:

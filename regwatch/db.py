@@ -32,7 +32,11 @@ CREATE TABLE IF NOT EXISTS articles (
     relevance_score REAL NOT NULL DEFAULT 0,
     relevant INTEGER NOT NULL DEFAULT 0,
     snippet TEXT,
-    content TEXT
+    content TEXT,
+    language TEXT NOT NULL DEFAULT 'en',
+    original_title TEXT,
+    original_snippet TEXT,
+    translated INTEGER NOT NULL DEFAULT 0
 );
 
 CREATE INDEX IF NOT EXISTS idx_articles_run ON articles(first_seen_run);
@@ -50,6 +54,20 @@ class Database:
         self.conn = sqlite3.connect(str(path))
         self.conn.row_factory = sqlite3.Row
         self.conn.executescript(SCHEMA)
+        self._migrate()
+
+    def _migrate(self) -> None:
+        """Add columns introduced after a database was first created."""
+        cols = {r[1] for r in self.conn.execute("PRAGMA table_info(articles)")}
+        for name, decl in [
+            ("language", "TEXT NOT NULL DEFAULT 'en'"),
+            ("original_title", "TEXT"),
+            ("original_snippet", "TEXT"),
+            ("translated", "INTEGER NOT NULL DEFAULT 0"),
+        ]:
+            if name not in cols:
+                self.conn.execute(f"ALTER TABLE articles ADD COLUMN {name} {decl}")
+        self.conn.commit()
 
     def close(self) -> None:
         self.conn.close()
@@ -103,8 +121,9 @@ class Database:
             INSERT INTO articles (
                 url, title, normalized_title, source, source_feed, published_at,
                 first_seen_at, first_seen_run, countries, topics, doc_type,
-                relevance_score, relevant, snippet, content
-            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                relevance_score, relevant, snippet, content,
+                language, original_title, original_snippet, translated
+            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
             """,
             (
                 art["url"],
@@ -122,10 +141,46 @@ class Database:
                 1 if art.get("relevant") else 0,
                 art.get("snippet"),
                 art.get("content"),
+                art.get("language", "en"),
+                art.get("original_title"),
+                art.get("original_snippet"),
+                1 if art.get("translated") else 0,
             ),
         )
         self.conn.commit()
         return cur.lastrowid
+
+    def pending_translations(self) -> list[dict]:
+        """Relevant non-English articles not yet translated."""
+        return [
+            self._to_dict(r)
+            for r in self.conn.execute(
+                "SELECT * FROM articles WHERE relevant = 1 AND translated = 0 "
+                "AND language != 'en' ORDER BY id"
+            )
+        ]
+
+    def apply_translation(
+        self, article_id: int, title: str, snippet: str, classification: dict
+    ) -> None:
+        """Store the English translation and updated classification."""
+        self.conn.execute(
+            """
+            UPDATE articles SET title = ?, snippet = ?, translated = 1,
+                countries = ?, topics = ?, doc_type = ?, relevance_score = ?
+            WHERE id = ?
+            """,
+            (
+                title,
+                snippet,
+                json.dumps(classification["countries"]),
+                json.dumps(classification["topics"]),
+                classification["doc_type"],
+                classification["relevance_score"],
+                article_id,
+            ),
+        )
+        self.conn.commit()
 
     def relevant_articles(self, since_run: int | None = None) -> list[dict]:
         """Relevant articles, optionally only those first seen after run `since_run`."""

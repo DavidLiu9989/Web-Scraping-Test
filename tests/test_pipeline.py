@@ -134,7 +134,68 @@ def test_pipeline():
     print("pipeline: OK")
 
 
+SPANISH_ENTRY = entry(
+    "España aprueba un real decreto con requisitos de eficiencia energética "
+    "para los centros de datos - El País",
+    "https://example.com/es-decreto",
+    "El Gobierno de España ha aprobado un real decreto que impone requisitos "
+    "de eficiencia energética y de reutilización del calor residual a los "
+    "centros de datos, con sanciones por incumplimiento a partir de 2027.",
+)
+
+CANNED_TRANSLATION = {
+    "title": "Spain approves Real Decreto (Royal Decree) with energy "
+             "efficiency requirements for data centers",
+    "snippet": "The Spanish government approved a royal decree imposing "
+               "energy efficiency and waste heat reuse requirements on data "
+               "centers, with penalties for non-compliance from 2027.",
+}
+
+
+def test_multilingual():
+    import regwatch.translate as tr
+
+    with tempfile.TemporaryDirectory() as tmp:
+        tmp = Path(tmp)
+        db = Database(tmp / "test.db")
+        scraper = Scraper(db, fake_config(), fetch_content=False)
+        scraper._fetch_feed = lambda feed: [SPANISH_ENTRY]
+        stats = scraper.run()
+        assert stats["new_relevant"] == 1, stats
+
+        # Stored in Spanish, gated by multilingual keywords, tagged correctly
+        art = db.relevant_articles()[0]
+        assert art["language"] == "es", art["language"]
+        assert "Spain" in art["countries"], art
+        assert art["doc_type"] == "enacted", art
+        assert "sustainability" in art["topics"], art
+        assert db.pending_translations(), "should be queued for translation"
+
+        # Translation applied (LLM stubbed out)
+        original = tr.translate_batch
+        tr.translate_batch = lambda items: {items[0]["id"]: dict(CANNED_TRANSLATION)}
+        try:
+            n = tr.translate_pending(db)
+        finally:
+            tr.translate_batch = original
+        assert n == 1
+
+        art = db.relevant_articles()[0]
+        assert art["translated"] == 1
+        assert art["title"].startswith("Spain approves"), art["title"]
+        assert art["original_title"].startswith("España"), art["original_title"]
+        assert art["doc_type"] == "enacted", art  # stage survives re-classification
+        assert not db.pending_translations()
+
+        # Untranslated fallback is visible in the digest; translated note too
+        digest = build_digest(db, use_llm=False)
+        assert "translated from es" in digest, digest
+        db.close()
+    print("multilingual: OK")
+
+
 if __name__ == "__main__":
     test_classify()
     test_pipeline()
+    test_multilingual()
     print("all tests passed")

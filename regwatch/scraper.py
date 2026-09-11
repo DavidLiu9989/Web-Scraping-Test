@@ -12,6 +12,7 @@ from urllib.parse import urlparse
 import feedparser
 import requests
 from bs4 import BeautifulSoup
+import py3langid as langid
 
 from .classify import classify, normalize_title
 from .db import Database
@@ -25,6 +26,15 @@ USER_AGENT = (
 )
 FETCH_TIMEOUT = 20
 FEED_DELAY_SECONDS = 1.0  # politeness delay between feed fetches
+
+def _detect_language(text: str) -> str:
+    if len(text) < 20:  # too short to detect reliably
+        return "en"
+    try:
+        lang, _score = langid.classify(text)
+        return lang
+    except Exception:
+        return "en"
 
 
 def _session() -> requests.Session:
@@ -161,6 +171,7 @@ class Scraper:
             return None
 
         snippet = _clean_snippet(getattr(entry, "summary", ""))
+        language = _detect_language(f"{title}. {snippet}".strip(". "))
         result = classify(title, snippet)
         relevant_so_far = result["relevance_score"] >= self.config.relevance_threshold
 
@@ -189,6 +200,9 @@ class Scraper:
                 "relevant": relevant,
                 "snippet": snippet,
                 "content": content,
+                "language": language,
+                "original_title": title if language != "en" else None,
+                "original_snippet": snippet if language != "en" else None,
             }
         )
         return relevant
