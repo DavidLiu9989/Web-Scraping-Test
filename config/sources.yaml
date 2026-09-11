@@ -1,0 +1,75 @@
+# Sources for the regwatch scraper.
+#
+# Two kinds of sources:
+#   google_news_queries: turned into Google News RSS search feeds (no API key needed).
+#     Each query is scoped with when:30d so a scrape only looks at the recent window.
+#   rss_feeds: direct RSS/Atom feeds from regulators, ministries and trade press.
+#
+# Add or remove entries freely - the scraper classifies and filters everything
+# it fetches, so a slightly-too-broad source is fine.
+
+google_news_queries:
+  # Security & resilience of digital infrastructure
+  - query: '"data center" regulation security requirements'
+    label: dc-security-regulation
+  - query: '"data centre" regulation resilience'
+    label: dc-resilience-regulation
+  - query: 'cloud services regulation security government'
+    label: cloud-security-regulation
+  - query: 'critical infrastructure designation "data center"'
+    label: dc-critical-infrastructure
+  - query: 'cloud resilience requirements financial OR government'
+    label: cloud-resilience
+  - query: 'data center incident reporting requirements'
+    label: dc-incident-reporting
+  - query: 'cloud sovereignty requirements law'
+    label: cloud-sovereignty
+
+  # Sustainability of digital infrastructure
+  - query: '"data center" energy efficiency regulation'
+    label: dc-energy-regulation
+  - query: '"data centre" sustainability requirements law'
+    label: dc-sustainability
+  - query: '"data center" water usage rules'
+    label: dc-water
+  - query: 'data center moratorium OR restrictions planning'
+    label: dc-moratorium
+  - query: 'data center carbon reporting mandate'
+    label: dc-carbon-reporting
+  - query: 'data center grid connection rules'
+    label: dc-grid
+
+  # Draft instruments / consultations (catch early-stage activity)
+  - query: 'data center draft bill OR consultation OR "public comment"'
+    label: dc-drafts
+  - query: 'cloud services licensing framework new'
+    label: cloud-licensing
+
+rss_feeds:
+  # Trade / industry press with strong regulatory coverage
+  - url: https://www.datacenterdynamics.com/en/rss/
+    label: datacenterdynamics
+  - url: https://www.datacenterknowledge.com/rss.xml
+    label: datacenterknowledge
+
+# Google News localization. Add more locales to widen coverage of
+# non-English announcements (results still classify fine if titles
+# mention countries/regulators in English).
+google_news_locales:
+  - hl: en-US
+    gl: US
+    ceid: "US:en"
+  - hl: en-SG
+    gl: SG
+    ceid: "SG:en"
+  - hl: en-GB
+    gl: GB
+    ceid: "GB:en"
+
+# Articles scoring below this relevance threshold are stored but marked
+# irrelevant and excluded from exports/digests. See regwatch/classify.py.
+relevance_threshold: 3.0
+
+# Only keep items published within this many days (guards against feeds
+# resurfacing old stories).
+max_age_days: 45

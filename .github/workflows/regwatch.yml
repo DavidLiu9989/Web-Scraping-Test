@@ -1,0 +1,44 @@
+name: regwatch scheduled scrape
+
+on:
+  schedule:
+    # Every Monday and Thursday at 06:00 UTC. Adjust to taste;
+    # twice a week matches the pace of regulatory news well.
+    - cron: "0 6 * * 1,4"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Scrape, export and generate digest
+        env:
+          # Optional: add this repo secret to enable the LLM policy-insights
+          # section of the digest. Without it, the structured digest still runs.
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python -m regwatch -v run
+
+      - name: Commit results
+        run: |
+          git config user.name "regwatch-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/ reports/
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "regwatch: scheduled scrape $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
