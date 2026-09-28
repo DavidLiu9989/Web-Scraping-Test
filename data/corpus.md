@@ -1,7 +1,7 @@
 # Data Center & Cloud Services Regulatory Corpus
 
-Generated: 2026-09-24T10:36:26Z  
-Articles: 519  
+Generated: 2026-09-28T12:07:52Z  
+Articles: 580  
 Scope: regulatory requirements for security & resilience and sustainability of data centers and cloud services, worldwide.
 
 Each item carries structured metadata (jurisdiction, topics, document stage, date, source) so an LLM can compare this corpus against other policy documents.
@@ -212,7 +212,68 @@ Denmark Publishes Emergency Grid Law That Puts Data Centers Last Bloomberg.com
 Denmark Publishes Emergency Grid Law That Puts Data Centers Last Energy Connects
 
 
-## European Union (7 items)
+## European Union (9 items)
+
+### Sponsored: Sustainable data center backup power is a strategy, not a battery chemistry
+
+- **Jurisdictions:** European Union, United States, Ireland, India
+- **Topics:** security-resilience, sustainability
+- **Document stage:** news
+- **Published:** 2026-09-26T15:00:00Z
+- **Source:** www.datacenterdynamics.com — https://www.datacenterdynamics.com/en/opinions/sustainable-data-center-backup-power-is-a-strategy-not-a-battery-chemistry/
+
+Data centers continue to walk the tightrope of meeting burgeoning power demands, while also fulfilling sustainability aims and obligations
+
+<details><summary>Full text</summary>
+
+John Gagge is vice president of business development, network and infrastructure solutions at EnerSys
+Data centers continue to walk the tightrope of meeting burgeoning power demands, while also fulfilling sustainability aims and obligations
+The International Energy Agency (IEA) notes that global data center electricity demand grew by 17 percent in 2025 , while consumption from data centers serving AI applications grew 50 percent in the same period.
+Meanwhile, governments at international, national, and regional levels continue to tighten sustainability obligations on the industry.
+Two of the most pertinent recent examples come from the European Union (EU). In Ireland, data centers with connections of 10 MVA or more must provide matching dispatchable generation or storage and source 80 percent of their annual electricity demand from new renewable generation within the country.
+Across the whole of the EU, data centers exceeding 500kW in total capacity must report annually on energy efficiency, water consumption, renewable energy, and waste heat reuse – supporting the EU’s new sustainability rating framework .
+As workload profiles diversify, specifying a UPS energy storage system should become increasingly workload-led; AI training, AI inference, high-performance compute (HPC), cloud, storage, and enterprise applications all have different workload profiles and meeting the backup power requirements of each application requires tailored UPS energy storage systems.
+Backup power – including UPS energy storage – should be a key component of any data center’s sustainability strategy. However, a workload-led UPS energy storage strategy should shape sustainability strategy – not the other way around.
+In other words, rather than fixate on factors like battery chemistry, data centers should focus on how to appropriately address the sustainability challenges of their site’s workload profile.
+AI growth is accelerating data center power demand, but the increasingly common label of ‘AI data center’ conceals significant differences between different AI applications. Training involves processing large datasets to build or refine an AI model, while inference uses a trained model to respond to real-world requests.
+These applications create distinct power profiles. Training can involve synchronized power draw across large GPU clusters, with demand fluctuating within milliseconds. Inference is generally more distributed and user-driven, creating bursts of activity across individual servers as requests rise and fall.
+The distinction will become increasingly important. JLL forecasts that “AI workloads could represent 50 percent of all data center capacity by 2030,” up from approximately 25 percent in 2025. It also identifies 2027 as a potential inflection point when inference could overtake training as the dominant AI requirement.
+The differences between non-AI workload profiles will also remain important, given that non-AI applications could still make up half of all demand by 2030. Cloud platforms, storage environments, and enterprise systems will continue to present different combinations of latency sensitivity, utilization patterns, data availability requirements, and power stability.
+Traditionally, UPS batteries have operated primarily as reserve assets, providing immediate ride-through following a loss of grid power. AI training introduces a different challenge: electrical demand can change at enormous scale and exceptional speed.
+Training clusters coordinate thousands of GPUs, causing substantial portions of the load to rise and fall together. Transitions between active computation and checkpointing can occur in milliseconds. The North American Electric Reliability Corporation (NERC) describes one 50MW block of a 200MW training facility in which demand changed sharply over approximately 250 milliseconds , alongside continuing fluctuations during the training run. These characteristics place different demands on electrical infrastructure than the comparatively stable profiles of conventional data centers.
+Consequently, some UPS energy storage systems may need to contribute to load smoothing during normal operation, rather than only remaining passive until an outage. This is not simply a matter of increasing battery capacity. It may require an architecture capable of rapid response, high-power discharge, and more frequent cycling. Lithium-ion systems are receiving attention for these applications.
+Battery research defines energy efficiency as the ratio between discharged energy and the energy required for charging. Efficiency changes with operating conditions, including temperature, discharge current, and cut-off voltage, and can decline as a battery ages.
+Regular cycling also makes energy efficiency a more significant sustainability consideration. Every charge-discharge cycle loses some energy, so the battery must draw more electricity than it subsequently returns.
+When cycling is infrequent – such as in systems used primarily for reserve power – these losses may represent a relatively small part of lifetime energy use. However, when storage repeatedly and regularly absorbs and releases power to manage workload fluctuations – such as in the case of dynamic data center workloads – even modest inefficiencies can accumulate, increasing grid consumption and associated Scope 2 emissions.
+The sustainability question is therefore not simply whether lithium-ion is used, but how efficiently the complete system will cycle under the workload’s actual power profile throughout its service life.
+For many data center workloads, UPS energy storage still serves primarily as reserve power.
+Even among AI applications, Microsoft research found that although individual servers in AI inference data centers can experience sharp peaks, demand becomes less extreme when aggregated across a cluster, leaving substantially more power headroom than AI training. For many inference environments, UPS energy storage may therefore retain its established role: providing immediate reserve power during an outage rather than routinely supporting workload fluctuations.
+A similar principle applies across many non-AI environments, including cloud, storage, and enterprise. Their demand may vary considerably, but it is not generally characterized by the coordinated, cluster-wide GPU power swings associated with large training jobs. Where power demand remains manageable at system level, the priority is reliable standby capacity rather than frequent battery cycling.
+However, waiting in reserve does not mean there are no sustainability-related challenges. Lead-acid batteries – still used in a lot of data center reserve power applications – are typically maintained on float charge , meaning a continuous low-level charging voltage is applied to keep them fully charged and ready for use. Because some energy is lost during this process, less-efficient systems require more electricity to maintain readiness. Across a large UPS energy storage installation, these ongoing losses can increase facility electricity consumption and could contribute to Scope 2 emissions.
+Some sustainability considerations will continue to apply regardless of workload profile.
+One is energy density: a more energy-dense system may provide the required backup capacity within a smaller footprint, potentially reducing the quantity of racks, enclosures, cabling, and structural materials required. This can improve overall resource efficiency, particularly where space is constrained. Moreover, greater energy density can reduce the amount of energy required for cooling demand, potentially helping reduce Scope 2 emissions.
+Sustainability must also extend beyond operation to the battery’s full lifecycle. The IEA estimates that scaling up critical-mineral recycling could reduce the need for new mining supply by 25 percent to 40 percent by mid-century. It also reports that recycled critical minerals generate, on average, 80 percent fewer greenhouse-gas emissions than primary materials from mining.
+Lifecycle responsibility is increasingly becoming a regulatory requirement. The EU Batteries Regulation addresses batteries from material sourcing and carbon footprint through to collection, recycling, and material recovery, including industrial batteries used in energy infrastructure.
+As a major battery user, the data center industry must therefore plan for traceability, responsible removal, and recycling from the procurement stage, rather than treating end-of-life management as an afterthought.
+As data center power demands continue to grow rapidly, the challenge for backup power infrastructure is not only the scale of demand, but also the diversification in workload profiles. The industry should take a workload-led approach to UPS energy storage – specifying the UPS energy storage system to fit the workload.
+Sustainability challenges can vary, depending on a data center’s workload profile. Dynamic workloads can bring challenges around energy efficiency during charge- and discharge cycles. Meanwhile, UPS energy storage systems used primarily for reserve power can come with energy efficiency challenges around float charging.
+The industry cannot follow a UPS energy storage strategy to fit sustainability goals. Instead, data centers should allow their workload-led UPS energy storage system to shape their sustainability strategy.
+EnerSys remains committed not only to guiding the industry towards the most effective backup power strategies, but also to helping data centers tackle sustainability challenges, regardless of workload profile.
+The differences between power-dense training and low-latency distributed inference show why the AI era calls for workload-led UPS battery selection
+The new offering helps data centers control dynamic changes in power demands, including AI-driven workloads
+Advanced battery technology from EnerSys has not only helped the Milan data center overcome critical operational hurdles, but also positioned it for long-term sustainability and resilience
+
+</details>
+
+### European Commission Proposes Mandatory Sustainability Label for Data Centres - Latham & Watkins LLP
+
+- **Jurisdictions:** European Union
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-09-25T12:31:59Z
+- **Source:** Latham & Watkins LLP — https://news.google.com/rss/articles/CBMiqwFBVV95cUxOblllSXJfNzdHQkN6ckhsOGRTMGlzYmVFX0Nkd093V3pQVm80Qk5hcDhENk1vajVSeHJrc2tYZkNlbEViT0FENjF1QWxocE8zOWZOLVl5QnRpTXM0bmpPSDZ6T0FDSjJfMXlWcllnRHgzRmFVNXhXWUJXZF8yMnhadXlqckltVlRUSTl3MXE0SDgwQnZ2R1BNZGNVeFRSMF9hX2x0QUJGSWk3SjQ?oc=5
+
+European Commission Proposes Mandatory Sustainability Label for Data Centres Latham & Watkins LLP
 
 ### EU Launches Data Center Energy Efficiency Rating Labels, Plans Mandatory Thresholds by 2027 - finance.biggo.com
 
@@ -345,7 +406,134 @@ Want more Data Center Knowledge stories in your Google search results?
 EU bereitet Mindeststandards für die Energieeffizienz von Rechenzentren vor pv magazine Deutschland
 
 
-## India (11 items)
+## India (16 items)
+
+### Indiantown attorney drafting data center moratorium - Hometown News Treasure Coast
+
+- **Jurisdictions:** India
+- **Topics:** sustainability
+- **Document stage:** draft
+- **Published:** 2026-09-28T04:00:00Z
+- **Source:** Hometown News Treasure Coast — https://news.google.com/rss/articles/CBMi3AFBVV95cUxOXy1iQ2o5S0NFQ0JzMVpvZVJlSVREcGd5bnZJdWtiVVVvS3FFS0FKWVp1eUREWm40ejhFV0s3NjRuNkpsQUNBdnBrUlRmaXZiOVk5Wl9WT2VwQUV6M05oRDBBMkx3ZzRDdEtLdlFaTW5zUzJVcXZ3Nl9pOFdBY1dyaGthNEVBOHowdUxDZlZEekp0SlJsQ2tBTjNLR2x4Ym9VSFZ5R0NHdTBuNmg5VkY2ajFfUC02MzBaYmE0MklRZHl4ME9PZ2w2N3Iyd2RXbjR0cXdiQUJheXdyTGJm?oc=5
+
+Indiantown attorney drafting data center moratorium Hometown News Treasure Coast
+
+### Sponsored: Sustainable data center backup power is a strategy, not a battery chemistry
+
+- **Jurisdictions:** European Union, United States, Ireland, India
+- **Topics:** security-resilience, sustainability
+- **Document stage:** news
+- **Published:** 2026-09-26T15:00:00Z
+- **Source:** www.datacenterdynamics.com — https://www.datacenterdynamics.com/en/opinions/sustainable-data-center-backup-power-is-a-strategy-not-a-battery-chemistry/
+
+Data centers continue to walk the tightrope of meeting burgeoning power demands, while also fulfilling sustainability aims and obligations
+
+<details><summary>Full text</summary>
+
+John Gagge is vice president of business development, network and infrastructure solutions at EnerSys
+Data centers continue to walk the tightrope of meeting burgeoning power demands, while also fulfilling sustainability aims and obligations
+The International Energy Agency (IEA) notes that global data center electricity demand grew by 17 percent in 2025 , while consumption from data centers serving AI applications grew 50 percent in the same period.
+Meanwhile, governments at international, national, and regional levels continue to tighten sustainability obligations on the industry.
+Two of the most pertinent recent examples come from the European Union (EU). In Ireland, data centers with connections of 10 MVA or more must provide matching dispatchable generation or storage and source 80 percent of their annual electricity demand from new renewable generation within the country.
+Across the whole of the EU, data centers exceeding 500kW in total capacity must report annually on energy efficiency, water consumption, renewable energy, and waste heat reuse – supporting the EU’s new sustainability rating framework .
+As workload profiles diversify, specifying a UPS energy storage system should become increasingly workload-led; AI training, AI inference, high-performance compute (HPC), cloud, storage, and enterprise applications all have different workload profiles and meeting the backup power requirements of each application requires tailored UPS energy storage systems.
+Backup power – including UPS energy storage – should be a key component of any data center’s sustainability strategy. However, a workload-led UPS energy storage strategy should shape sustainability strategy – not the other way around.
+In other words, rather than fixate on factors like battery chemistry, data centers should focus on how to appropriately address the sustainability challenges of their site’s workload profile.
+AI growth is accelerating data center power demand, but the increasingly common label of ‘AI data center’ conceals significant differences between different AI applications. Training involves processing large datasets to build or refine an AI model, while inference uses a trained model to respond to real-world requests.
+These applications create distinct power profiles. Training can involve synchronized power draw across large GPU clusters, with demand fluctuating within milliseconds. Inference is generally more distributed and user-driven, creating bursts of activity across individual servers as requests rise and fall.
+The distinction will become increasingly important. JLL forecasts that “AI workloads could represent 50 percent of all data center capacity by 2030,” up from approximately 25 percent in 2025. It also identifies 2027 as a potential inflection point when inference could overtake training as the dominant AI requirement.
+The differences between non-AI workload profiles will also remain important, given that non-AI applications could still make up half of all demand by 2030. Cloud platforms, storage environments, and enterprise systems will continue to present different combinations of latency sensitivity, utilization patterns, data availability requirements, and power stability.
+Traditionally, UPS batteries have operated primarily as reserve assets, providing immediate ride-through following a loss of grid power. AI training introduces a different challenge: electrical demand can change at enormous scale and exceptional speed.
+Training clusters coordinate thousands of GPUs, causing substantial portions of the load to rise and fall together. Transitions between active computation and checkpointing can occur in milliseconds. The North American Electric Reliability Corporation (NERC) describes one 50MW block of a 200MW training facility in which demand changed sharply over approximately 250 milliseconds , alongside continuing fluctuations during the training run. These characteristics place different demands on electrical infrastructure than the comparatively stable profiles of conventional data centers.
+Consequently, some UPS energy storage systems may need to contribute to load smoothing during normal operation, rather than only remaining passive until an outage. This is not simply a matter of increasing battery capacity. It may require an architecture capable of rapid response, high-power discharge, and more frequent cycling. Lithium-ion systems are receiving attention for these applications.
+Battery research defines energy efficiency as the ratio between discharged energy and the energy required for charging. Efficiency changes with operating conditions, including temperature, discharge current, and cut-off voltage, and can decline as a battery ages.
+Regular cycling also makes energy efficiency a more significant sustainability consideration. Every charge-discharge cycle loses some energy, so the battery must draw more electricity than it subsequently returns.
+When cycling is infrequent – such as in systems used primarily for reserve power – these losses may represent a relatively small part of lifetime energy use. However, when storage repeatedly and regularly absorbs and releases power to manage workload fluctuations – such as in the case of dynamic data center workloads – even modest inefficiencies can accumulate, increasing grid consumption and associated Scope 2 emissions.
+The sustainability question is therefore not simply whether lithium-ion is used, but how efficiently the complete system will cycle under the workload’s actual power profile throughout its service life.
+For many data center workloads, UPS energy storage still serves primarily as reserve power.
+Even among AI applications, Microsoft research found that although individual servers in AI inference data centers can experience sharp peaks, demand becomes less extreme when aggregated across a cluster, leaving substantially more power headroom than AI training. For many inference environments, UPS energy storage may therefore retain its established role: providing immediate reserve power during an outage rather than routinely supporting workload fluctuations.
+A similar principle applies across many non-AI environments, including cloud, storage, and enterprise. Their demand may vary considerably, but it is not generally characterized by the coordinated, cluster-wide GPU power swings associated with large training jobs. Where power demand remains manageable at system level, the priority is reliable standby capacity rather than frequent battery cycling.
+However, waiting in reserve does not mean there are no sustainability-related challenges. Lead-acid batteries – still used in a lot of data center reserve power applications – are typically maintained on float charge , meaning a continuous low-level charging voltage is applied to keep them fully charged and ready for use. Because some energy is lost during this process, less-efficient systems require more electricity to maintain readiness. Across a large UPS energy storage installation, these ongoing losses can increase facility electricity consumption and could contribute to Scope 2 emissions.
+Some sustainability considerations will continue to apply regardless of workload profile.
+One is energy density: a more energy-dense system may provide the required backup capacity within a smaller footprint, potentially reducing the quantity of racks, enclosures, cabling, and structural materials required. This can improve overall resource efficiency, particularly where space is constrained. Moreover, greater energy density can reduce the amount of energy required for cooling demand, potentially helping reduce Scope 2 emissions.
+Sustainability must also extend beyond operation to the battery’s full lifecycle. The IEA estimates that scaling up critical-mineral recycling could reduce the need for new mining supply by 25 percent to 40 percent by mid-century. It also reports that recycled critical minerals generate, on average, 80 percent fewer greenhouse-gas emissions than primary materials from mining.
+Lifecycle responsibility is increasingly becoming a regulatory requirement. The EU Batteries Regulation addresses batteries from material sourcing and carbon footprint through to collection, recycling, and material recovery, including industrial batteries used in energy infrastructure.
+As a major battery user, the data center industry must therefore plan for traceability, responsible removal, and recycling from the procurement stage, rather than treating end-of-life management as an afterthought.
+As data center power demands continue to grow rapidly, the challenge for backup power infrastructure is not only the scale of demand, but also the diversification in workload profiles. The industry should take a workload-led approach to UPS energy storage – specifying the UPS energy storage system to fit the workload.
+Sustainability challenges can vary, depending on a data center’s workload profile. Dynamic workloads can bring challenges around energy efficiency during charge- and discharge cycles. Meanwhile, UPS energy storage systems used primarily for reserve power can come with energy efficiency challenges around float charging.
+The industry cannot follow a UPS energy storage strategy to fit sustainability goals. Instead, data centers should allow their workload-led UPS energy storage system to shape their sustainability strategy.
+EnerSys remains committed not only to guiding the industry towards the most effective backup power strategies, but also to helping data centers tackle sustainability challenges, regardless of workload profile.
+The differences between power-dense training and low-latency distributed inference show why the AI era calls for workload-led UPS battery selection
+The new offering helps data centers control dynamic changes in power demands, including AI-driven workloads
+Advanced battery technology from EnerSys has not only helped the Milan data center overcome critical operational hurdles, but also positioned it for long-term sustainability and resilience
+
+</details>
+
+### Fair markets, trusted allies: Why Korea's cloud rules matter for AI leadership
+
+- **Jurisdictions:** United States, India, South Korea
+- **Topics:** security-resilience
+- **Document stage:** guidance
+- **Published:** 2026-09-25T14:00:39Z
+- **Source:** www.datacenterdynamics.com — https://www.datacenterdynamics.com/en/opinions/fair-markets-trusted-allies-why-koreas-cloud-rules-matter-for-ai-leadership/
+
+Will Korea's revisions to its cloud security framework work for the US?
+
+<details><summary>Full text</summary>
+
+Rep. Carol Miller is Congresswoman for West Virginia's 1st Congressional District
+Will Korea's revisions to its cloud security framework work for the US?
+The alliance between the United States and the Republic of Korea has been one of the most successful partnerships of the modern era. Built on shared sacrifice and common values, it has evolved into a cornerstone of economic growth, technological innovation, and regional security.
+Today, as South Korea considers revisions to its cloud security framework, it faces a decision with implications far beyond technology policy. It will signal whether South Korea intends to uphold its commitments to fair competition, open markets, and technological cooperation with its closest ally. It will also demonstrate whether the South Korean government is serious about leveraging best-in-class technologies to make the country a top-three global leader in AI.
+The issue centers on whether South Korea's National Intelligence Service (NIS) will impose physical separation requirements as part of its revised cloud security guidelines. It is anticipated that NIS will designate most of South Korea’s government data in the “sensitive tier” – even when it does not contain confidential or top-secret data – and require that cloud service providers physically isolate it. While presented as a cybersecurity measure, such requirements would effectively prevent many leading American cloud service providers from servicing significant segments of Korea's public-sector cloud market.
+Such a move would be inconsistent with the spirit – and potentially the obligations – of the trade commitments Korea has made to the United States over the past two decades.
+For years, the United States and South Korea have worked to build a rules-based economic partnership grounded in transparency, fairness, and non-discrimination. These principles are embedded in the Korea-US Free Trade Agreement (KORUS FTA), one of the most comprehensive and ambitious trade agreements either country has ever negotiated.
+At its core, KORUS was designed to ensure that American and Korean companies compete on a level playing field. The agreement sought to eliminate barriers to trade, increase transparency in regulatory processes, and prevent measures that unnecessarily restrict market access.
+Likewise, both the United States and South Korea are parties to the World Trade Organization's Government Procurement Agreement (GPA), which is founded on the principles of non-discrimination, national treatment, transparency, and open competition in government purchasing.
+The objective of these commitments is straightforward: governments should not use technical requirements or regulatory processes to favor domestic firms or disadvantage foreign competitors absent a compelling and demonstrable necessity.
+Physical separation requirements raise precisely those concerns.
+By mandating infrastructure architectures that differ from globally accepted cloud computing models, such requirements would impose significant costs on foreign providers while offering questionable additional security benefits. The practical effect would be to increase costs for Korean government agencies, restrict access to world-class cloud services, and, critically, impede the Korean government’s ability to innovate as it is scaling its vision for AI.
+Cloud is the foundational technology for AI, and having the best-in-class cloud service is essential to building out the AI capabilities that run on top of the platform. As President Lee Jae-myung executes his vision for making South Korea one of the top three AI powerhouses in the world and driving a government-wide AI transformation, giving the South Korean government access to global cloud services options is essential.
+However, American companies would be excluded not because they lack secure technology, but because the rules themselves would make participation economically or operationally impossible.
+Nor is it consistent with the future our two countries committed to – and are continuing to commit to – build together.
+In 2025, the United States and South Korea launched a new chapter in bilateral cooperation through the US-ROK Technology Partnership, recognizing that emerging technologies—including artificial intelligence, cloud computing, semiconductors, advanced communications, and cybersecurity—will define economic competitiveness and national security for decades to come. South Korea also committed that U.S. companies would not be discriminated against and would not face unnecessary barriers in terms of laws and policies concerning digital services.
+The premise of that partnership was clear: trusted allies should deepen cooperation, reduce barriers to innovation, strengthen supply chain resilience, and ensure that democratic nations lead the development of critical technologies.
+The United States welcomed that vision because it reflected a shared understanding that technology policy is now economic policy and national security policy.
+Yet it is difficult to reconcile that vision with regulations that would effectively exclude many of the world's most advanced cloud providers from Korea's public sector market.
+If the United States and Korea are serious about working in lockstep on economic and national security interests through building a trusted technology ecosystem, then trusted providers from allied nations should be evaluated based on their security capabilities, performance, resilience, and compliance – not on whether they conform to infrastructure requirements that are increasingly out of step with international best practices.
+The decisions Korea makes today will be closely watched by policymakers, investors, and technology companies throughout the United States. They will shape perceptions about Korea's commitment to market openness, regulatory transparency, and fair treatment of foreign firms.
+They will also influence the broader conversation in Washington about economic reciprocity with our trading partners.
+Congress has consistently supported a strong US-ROK alliance. We have welcomed hundreds of billions of dollars in Korean investment into American communities. Korean companies are helping build semiconductor plants, battery facilities, electric vehicle supply chains, advanced manufacturing centers, and shipbuilding capabilities across the United States.
+These investments have strengthened bipartisan support for our economic relationship because Americans see tangible evidence that the partnership benefits both countries.
+Just as the United States welcomes Korean companies to compete and invest in our market, American companies should be afforded a fair opportunity to compete in Korea's market under transparent and non-discriminatory rules.
+This is not a request for special treatment. It is a request for equal treatment.
+South Korea has earned a global reputation as a leader in innovation and technology. It can reinforce that reputation by adopting cloud security standards that are risk-based, technology-neutral, and aligned with international best practices. Such an approach would protect national security while promoting competition, innovation, and economic growth.
+More importantly, it would demonstrate that Korea remains committed to the principles that have guided our economic partnership for decades.
+The United States and South Korea have repeatedly declared that our alliance must evolve to meet the challenges of the digital age. That goal requires more than speeches and joint statements. It requires policies that reflect our shared commitment to openness, fairness, and cooperation.
+As Korea finalizes its cloud security framework, I urge its leaders to uphold the commitments embodied in KORUS, respect the principles of the WTO Government Procurement Agreement, and advance the vision established under the US-ROK Technology Partnership.
+The future of our alliance depends not only on the promises we make, but on the commitments we keep.
+
+</details>
+
+### Global data centre resistance doubles, India faces policy gap - ET Datacenters
+
+- **Jurisdictions:** India
+- **Topics:** general
+- **Document stage:** news
+- **Published:** 2026-09-25T02:43:24Z
+- **Source:** ET Datacenters — https://news.google.com/rss/articles/CBMijwJBVV95cUxQWm0zOS1tTVAxY2VqS3FIQWFrellYenJsY1JIT1p0MkJFT0tmbUx3QWxOUUx5YWtvREdmV0dYaGdOTkVFQnBKSjhJZHE0MWd1Rk5lbmk3anAzQmg3c2NuNm1hcHl6bFdnNFFqZjBZVkxXQnViWEV1dlFZMUQxTmRoLVUyTE9mcmZMZ2JCTFJXRHZXcTJUSUJzSThUc2dtSUtWekg1OE8zVFZ2ME5lUUFEbW0tbmJHOHlobXZUNHcwSnpwR0FuUFJPYUFOR1RvWWhWRXlYNFBIa1VXcmpQR1FNa1VFZFlPMjljR2VfVjZ0VnIycUh0aVZfa3Rvam1PdGhpLWR2bzFIN0VtQ2pEYlhn0gHeAUFVX3lxTE11QThEbHVmQlktRTl4OFJ6dmpNdFlFVTl3aEptbDZ5ZF9PYVc1a3dZQ0NZTzVtMjNPWTRVelNfQ2l1ekZQWFliYldHTEZWVTJaWkJhdkZaVFpYdHEzMzlWT04tdnRIQUJfa2xmLXJJM19BZHBQc2tNV1FPWF9nZUE1X29waDFUSWtvZG9oeXJOZWdLN1dyWUtYWDMtR0pQVWdjNlVMWlR5VDJNUFZqUWNyaDUzeTM5RXVHcHBVb1FRV2d2bnpQVnVmd0JvWVB2UHp5NzVUVDdIem93R19nUQ?oc=5
+
+Global data centre resistance doubles, India faces policy gap ET Datacenters
+
+### Owen County approves one-year moratorium on data centers - Indiana Public Media
+
+- **Jurisdictions:** India
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-09-23T19:20:00Z
+- **Source:** Indiana Public Media — https://news.google.com/rss/articles/CBMilwFBVV95cUxPVzc5aG43cmxlcVBCNlJnVEZUYmZnM1VVRWdXWWZYc1lNTTVDaU1GOVYycW5RUTFSVWE1TVN3bnVUcnplZHVjUzJMdWFfSkFTVTUzV1E5bnNCbzhYODMyRzNfQVRmTjhydXJBVnRTNGJuOTVRSnZhS3VNTDF3V2RySE5GbFBmRW5xd0pSeXFXN2JwekxfeGxJ?oc=5
+
+Owen County approves one-year moratorium on data centers Indiana Public Media
 
 ### Michigan City data center moratorium delay draws frustration during council meeting - Indiana Public Radio
 
@@ -609,6 +797,60 @@ Want more Data Center Knowledge stories in your Google search results?
 - **Source:** India Today — https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWVQzTno3UHljYWQyVFZiVFNvV1BWYmFFc0lPelNpMUI2ZmV6TjNUbFBtS2I1eEU5OWhWQVdyXzJ6bVBsVlBTUm5VbTdUWmF0M3UtOUpmSGlvVTdzSjlZNjN1bUpsMmYyQXp1dTZLZjJQbmVmb3Vaa2tKR09GclVqWmhOVjFBWHRpMzJUMHdVWWUyODdkZ1dkVHYyTUFjQ21xR3dDdmpOU0dvYTF4b2ZtNU15UU5uV1l1ZDdTaDhLQ0pZem1xN0VkRzNMcXdSZ0ZoWkHSAdcBQVVfeXFMT0RlbmhRVmRmVWFIQklVUTlyamRnYWI4b2NSaXp0RUFkZmpxYTl0R2pZeWs1M1JzQVE5c2VCVWNZT0d2UUhFNUlSUlJlOUU3cjNrTFlzSEFtdWFUbms3ckxzRDRWdGlXWi1UdnQyVVRDZnhMSDBWVTZWaFF5cUR5QUZtbm5tblV0Nk0teTF1VTUteFQxLXRzLURBbERDb2puN1BHYm5iV1diNkhtN0lXQ2k4VFZfSHNGa2w4ZUxQOFVkYXhqeFJReWxrYnNrek9OWGtsNlUxbEE?oc=5
 
 Andaman withdraws green AI data centre contract for Great Nicobar project India Today
+
+
+## Ireland (1 items)
+
+### Sponsored: Sustainable data center backup power is a strategy, not a battery chemistry
+
+- **Jurisdictions:** European Union, United States, Ireland, India
+- **Topics:** security-resilience, sustainability
+- **Document stage:** news
+- **Published:** 2026-09-26T15:00:00Z
+- **Source:** www.datacenterdynamics.com — https://www.datacenterdynamics.com/en/opinions/sustainable-data-center-backup-power-is-a-strategy-not-a-battery-chemistry/
+
+Data centers continue to walk the tightrope of meeting burgeoning power demands, while also fulfilling sustainability aims and obligations
+
+<details><summary>Full text</summary>
+
+John Gagge is vice president of business development, network and infrastructure solutions at EnerSys
+Data centers continue to walk the tightrope of meeting burgeoning power demands, while also fulfilling sustainability aims and obligations
+The International Energy Agency (IEA) notes that global data center electricity demand grew by 17 percent in 2025 , while consumption from data centers serving AI applications grew 50 percent in the same period.
+Meanwhile, governments at international, national, and regional levels continue to tighten sustainability obligations on the industry.
+Two of the most pertinent recent examples come from the European Union (EU). In Ireland, data centers with connections of 10 MVA or more must provide matching dispatchable generation or storage and source 80 percent of their annual electricity demand from new renewable generation within the country.
+Across the whole of the EU, data centers exceeding 500kW in total capacity must report annually on energy efficiency, water consumption, renewable energy, and waste heat reuse – supporting the EU’s new sustainability rating framework .
+As workload profiles diversify, specifying a UPS energy storage system should become increasingly workload-led; AI training, AI inference, high-performance compute (HPC), cloud, storage, and enterprise applications all have different workload profiles and meeting the backup power requirements of each application requires tailored UPS energy storage systems.
+Backup power – including UPS energy storage – should be a key component of any data center’s sustainability strategy. However, a workload-led UPS energy storage strategy should shape sustainability strategy – not the other way around.
+In other words, rather than fixate on factors like battery chemistry, data centers should focus on how to appropriately address the sustainability challenges of their site’s workload profile.
+AI growth is accelerating data center power demand, but the increasingly common label of ‘AI data center’ conceals significant differences between different AI applications. Training involves processing large datasets to build or refine an AI model, while inference uses a trained model to respond to real-world requests.
+These applications create distinct power profiles. Training can involve synchronized power draw across large GPU clusters, with demand fluctuating within milliseconds. Inference is generally more distributed and user-driven, creating bursts of activity across individual servers as requests rise and fall.
+The distinction will become increasingly important. JLL forecasts that “AI workloads could represent 50 percent of all data center capacity by 2030,” up from approximately 25 percent in 2025. It also identifies 2027 as a potential inflection point when inference could overtake training as the dominant AI requirement.
+The differences between non-AI workload profiles will also remain important, given that non-AI applications could still make up half of all demand by 2030. Cloud platforms, storage environments, and enterprise systems will continue to present different combinations of latency sensitivity, utilization patterns, data availability requirements, and power stability.
+Traditionally, UPS batteries have operated primarily as reserve assets, providing immediate ride-through following a loss of grid power. AI training introduces a different challenge: electrical demand can change at enormous scale and exceptional speed.
+Training clusters coordinate thousands of GPUs, causing substantial portions of the load to rise and fall together. Transitions between active computation and checkpointing can occur in milliseconds. The North American Electric Reliability Corporation (NERC) describes one 50MW block of a 200MW training facility in which demand changed sharply over approximately 250 milliseconds , alongside continuing fluctuations during the training run. These characteristics place different demands on electrical infrastructure than the comparatively stable profiles of conventional data centers.
+Consequently, some UPS energy storage systems may need to contribute to load smoothing during normal operation, rather than only remaining passive until an outage. This is not simply a matter of increasing battery capacity. It may require an architecture capable of rapid response, high-power discharge, and more frequent cycling. Lithium-ion systems are receiving attention for these applications.
+Battery research defines energy efficiency as the ratio between discharged energy and the energy required for charging. Efficiency changes with operating conditions, including temperature, discharge current, and cut-off voltage, and can decline as a battery ages.
+Regular cycling also makes energy efficiency a more significant sustainability consideration. Every charge-discharge cycle loses some energy, so the battery must draw more electricity than it subsequently returns.
+When cycling is infrequent – such as in systems used primarily for reserve power – these losses may represent a relatively small part of lifetime energy use. However, when storage repeatedly and regularly absorbs and releases power to manage workload fluctuations – such as in the case of dynamic data center workloads – even modest inefficiencies can accumulate, increasing grid consumption and associated Scope 2 emissions.
+The sustainability question is therefore not simply whether lithium-ion is used, but how efficiently the complete system will cycle under the workload’s actual power profile throughout its service life.
+For many data center workloads, UPS energy storage still serves primarily as reserve power.
+Even among AI applications, Microsoft research found that although individual servers in AI inference data centers can experience sharp peaks, demand becomes less extreme when aggregated across a cluster, leaving substantially more power headroom than AI training. For many inference environments, UPS energy storage may therefore retain its established role: providing immediate reserve power during an outage rather than routinely supporting workload fluctuations.
+A similar principle applies across many non-AI environments, including cloud, storage, and enterprise. Their demand may vary considerably, but it is not generally characterized by the coordinated, cluster-wide GPU power swings associated with large training jobs. Where power demand remains manageable at system level, the priority is reliable standby capacity rather than frequent battery cycling.
+However, waiting in reserve does not mean there are no sustainability-related challenges. Lead-acid batteries – still used in a lot of data center reserve power applications – are typically maintained on float charge , meaning a continuous low-level charging voltage is applied to keep them fully charged and ready for use. Because some energy is lost during this process, less-efficient systems require more electricity to maintain readiness. Across a large UPS energy storage installation, these ongoing losses can increase facility electricity consumption and could contribute to Scope 2 emissions.
+Some sustainability considerations will continue to apply regardless of workload profile.
+One is energy density: a more energy-dense system may provide the required backup capacity within a smaller footprint, potentially reducing the quantity of racks, enclosures, cabling, and structural materials required. This can improve overall resource efficiency, particularly where space is constrained. Moreover, greater energy density can reduce the amount of energy required for cooling demand, potentially helping reduce Scope 2 emissions.
+Sustainability must also extend beyond operation to the battery’s full lifecycle. The IEA estimates that scaling up critical-mineral recycling could reduce the need for new mining supply by 25 percent to 40 percent by mid-century. It also reports that recycled critical minerals generate, on average, 80 percent fewer greenhouse-gas emissions than primary materials from mining.
+Lifecycle responsibility is increasingly becoming a regulatory requirement. The EU Batteries Regulation addresses batteries from material sourcing and carbon footprint through to collection, recycling, and material recovery, including industrial batteries used in energy infrastructure.
+As a major battery user, the data center industry must therefore plan for traceability, responsible removal, and recycling from the procurement stage, rather than treating end-of-life management as an afterthought.
+As data center power demands continue to grow rapidly, the challenge for backup power infrastructure is not only the scale of demand, but also the diversification in workload profiles. The industry should take a workload-led approach to UPS energy storage – specifying the UPS energy storage system to fit the workload.
+Sustainability challenges can vary, depending on a data center’s workload profile. Dynamic workloads can bring challenges around energy efficiency during charge- and discharge cycles. Meanwhile, UPS energy storage systems used primarily for reserve power can come with energy efficiency challenges around float charging.
+The industry cannot follow a UPS energy storage strategy to fit sustainability goals. Instead, data centers should allow their workload-led UPS energy storage system to shape their sustainability strategy.
+EnerSys remains committed not only to guiding the industry towards the most effective backup power strategies, but also to helping data centers tackle sustainability challenges, regardless of workload profile.
+The differences between power-dense training and low-latency distributed inference show why the AI era calls for workload-led UPS battery selection
+The new offering helps data centers control dynamic changes in power demands, including AI-driven workloads
+Advanced battery technology from EnerSys has not only helped the Milan data center overcome critical operational hurdles, but also positioned it for long-term sustainability and resilience
+
+</details>
 
 
 ## Italy (2 items)
@@ -900,7 +1142,80 @@ Singapore’s digital infrastructure bill leaves cross-border data to contract c
 Singapore Launches Liquid Cooling Standard for Tropical Data Centers ET Datacenters
 
 
-## Spain (71 items)
+## South Korea (1 items)
+
+### Fair markets, trusted allies: Why Korea's cloud rules matter for AI leadership
+
+- **Jurisdictions:** United States, India, South Korea
+- **Topics:** security-resilience
+- **Document stage:** guidance
+- **Published:** 2026-09-25T14:00:39Z
+- **Source:** www.datacenterdynamics.com — https://www.datacenterdynamics.com/en/opinions/fair-markets-trusted-allies-why-koreas-cloud-rules-matter-for-ai-leadership/
+
+Will Korea's revisions to its cloud security framework work for the US?
+
+<details><summary>Full text</summary>
+
+Rep. Carol Miller is Congresswoman for West Virginia's 1st Congressional District
+Will Korea's revisions to its cloud security framework work for the US?
+The alliance between the United States and the Republic of Korea has been one of the most successful partnerships of the modern era. Built on shared sacrifice and common values, it has evolved into a cornerstone of economic growth, technological innovation, and regional security.
+Today, as South Korea considers revisions to its cloud security framework, it faces a decision with implications far beyond technology policy. It will signal whether South Korea intends to uphold its commitments to fair competition, open markets, and technological cooperation with its closest ally. It will also demonstrate whether the South Korean government is serious about leveraging best-in-class technologies to make the country a top-three global leader in AI.
+The issue centers on whether South Korea's National Intelligence Service (NIS) will impose physical separation requirements as part of its revised cloud security guidelines. It is anticipated that NIS will designate most of South Korea’s government data in the “sensitive tier” – even when it does not contain confidential or top-secret data – and require that cloud service providers physically isolate it. While presented as a cybersecurity measure, such requirements would effectively prevent many leading American cloud service providers from servicing significant segments of Korea's public-sector cloud market.
+Such a move would be inconsistent with the spirit – and potentially the obligations – of the trade commitments Korea has made to the United States over the past two decades.
+For years, the United States and South Korea have worked to build a rules-based economic partnership grounded in transparency, fairness, and non-discrimination. These principles are embedded in the Korea-US Free Trade Agreement (KORUS FTA), one of the most comprehensive and ambitious trade agreements either country has ever negotiated.
+At its core, KORUS was designed to ensure that American and Korean companies compete on a level playing field. The agreement sought to eliminate barriers to trade, increase transparency in regulatory processes, and prevent measures that unnecessarily restrict market access.
+Likewise, both the United States and South Korea are parties to the World Trade Organization's Government Procurement Agreement (GPA), which is founded on the principles of non-discrimination, national treatment, transparency, and open competition in government purchasing.
+The objective of these commitments is straightforward: governments should not use technical requirements or regulatory processes to favor domestic firms or disadvantage foreign competitors absent a compelling and demonstrable necessity.
+Physical separation requirements raise precisely those concerns.
+By mandating infrastructure architectures that differ from globally accepted cloud computing models, such requirements would impose significant costs on foreign providers while offering questionable additional security benefits. The practical effect would be to increase costs for Korean government agencies, restrict access to world-class cloud services, and, critically, impede the Korean government’s ability to innovate as it is scaling its vision for AI.
+Cloud is the foundational technology for AI, and having the best-in-class cloud service is essential to building out the AI capabilities that run on top of the platform. As President Lee Jae-myung executes his vision for making South Korea one of the top three AI powerhouses in the world and driving a government-wide AI transformation, giving the South Korean government access to global cloud services options is essential.
+However, American companies would be excluded not because they lack secure technology, but because the rules themselves would make participation economically or operationally impossible.
+Nor is it consistent with the future our two countries committed to – and are continuing to commit to – build together.
+In 2025, the United States and South Korea launched a new chapter in bilateral cooperation through the US-ROK Technology Partnership, recognizing that emerging technologies—including artificial intelligence, cloud computing, semiconductors, advanced communications, and cybersecurity—will define economic competitiveness and national security for decades to come. South Korea also committed that U.S. companies would not be discriminated against and would not face unnecessary barriers in terms of laws and policies concerning digital services.
+The premise of that partnership was clear: trusted allies should deepen cooperation, reduce barriers to innovation, strengthen supply chain resilience, and ensure that democratic nations lead the development of critical technologies.
+The United States welcomed that vision because it reflected a shared understanding that technology policy is now economic policy and national security policy.
+Yet it is difficult to reconcile that vision with regulations that would effectively exclude many of the world's most advanced cloud providers from Korea's public sector market.
+If the United States and Korea are serious about working in lockstep on economic and national security interests through building a trusted technology ecosystem, then trusted providers from allied nations should be evaluated based on their security capabilities, performance, resilience, and compliance – not on whether they conform to infrastructure requirements that are increasingly out of step with international best practices.
+The decisions Korea makes today will be closely watched by policymakers, investors, and technology companies throughout the United States. They will shape perceptions about Korea's commitment to market openness, regulatory transparency, and fair treatment of foreign firms.
+They will also influence the broader conversation in Washington about economic reciprocity with our trading partners.
+Congress has consistently supported a strong US-ROK alliance. We have welcomed hundreds of billions of dollars in Korean investment into American communities. Korean companies are helping build semiconductor plants, battery facilities, electric vehicle supply chains, advanced manufacturing centers, and shipbuilding capabilities across the United States.
+These investments have strengthened bipartisan support for our economic relationship because Americans see tangible evidence that the partnership benefits both countries.
+Just as the United States welcomes Korean companies to compete and invest in our market, American companies should be afforded a fair opportunity to compete in Korea's market under transparent and non-discriminatory rules.
+This is not a request for special treatment. It is a request for equal treatment.
+South Korea has earned a global reputation as a leader in innovation and technology. It can reinforce that reputation by adopting cloud security standards that are risk-based, technology-neutral, and aligned with international best practices. Such an approach would protect national security while promoting competition, innovation, and economic growth.
+More importantly, it would demonstrate that Korea remains committed to the principles that have guided our economic partnership for decades.
+The United States and South Korea have repeatedly declared that our alliance must evolve to meet the challenges of the digital age. That goal requires more than speeches and joint statements. It requires policies that reflect our shared commitment to openness, fairness, and cooperation.
+As Korea finalizes its cloud security framework, I urge its leaders to uphold the commitments embodied in KORUS, respect the principles of the WTO Government Procurement Agreement, and advance the vision established under the US-ROK Technology Partnership.
+The future of our alliance depends not only on the promises we make, but on the commitments we keep.
+
+</details>
+
+
+## Spain (78 items)
+
+### Tres Cantos, en alerta por el proyecto de Real Decreto que afecta a sus centros de datos - Cronica Norte
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** draft
+- **Language:** es (untranslated)
+- **Original title:** Tres Cantos, en alerta por el proyecto de Real Decreto que afecta a sus centros de datos - Cronica Norte
+- **Published:** 2026-09-28T07:58:54Z
+- **Source:** Cronica Norte — https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qOG5vV0lpaG14NWJySC1VcDV4RFVnX0ZTRjFvYzMyVVV3VHRyeGVFeEVjeHhUcVg1Z1ljOUdOQTY1VWMyVDhGdFh6QllCLWd3TmNrYjRlZk5YWjR0Y2FBTGRBblZvNkXSAWxBVV95cUxOc1BmRy1EcTY4aEE0OThpV3FjX25qdEVfa0h5X2RqZ1QzM0RQOVFVeGFJcy1GY3A1cGQ2ZFFGaXE1VzNGdHk0SGN3TmoxaUQ4UGhXUjZkWW9MMm92WE1nc00wX21kMmxnM0RtTHM?oc=5
+
+Tres Cantos, en alerta por el proyecto de Real Decreto que afecta a sus centros de datos Cronica Norte
+
+### Jorge Azcón culpa al Gobierno de "boicotear" los centros de datos de Aragón con el nuevo real decreto: "Si llegasen a Cataluña o País Vasco pondrían alfombra roja" - El Mundo
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** Jorge Azcón culpa al Gobierno de "boicotear" los centros de datos de Aragón con el nuevo real decreto: "Si llegasen a Cataluña o País Vasco pondrían alfombra roja" - El Mundo
+- **Published:** 2026-09-24T13:05:30Z
+- **Source:** El Mundo — https://news.google.com/rss/articles/CBMiekFVX3lxTE01bmJCd09fWXBzcFR5T0dfT04zTzRtMndWYXA2NlVyNm5aSU5obEdvbmZhLUwzd2RjaG9wWVp2ZEcyb19UZFVEQXJEOENUMV81WDhFVE1MU0RYaDJhR3RoR1J4UXVUWnZ0Wl9LYW9sdnVrV25XejF6WnhR0gF6QVVfeXFMT0R0LXF6aEZyUFZyd1VZbGVieS1mWlVJak9mMkVjdGJ2bFBfY3FWSW9YYWM4Zk45NklNS2UtaS1ib1R3SHlOVkhrRzdvVEpnUDRBcmdRcUFaXzZZUVdqUlZpVW1rWGt2dHN6bVdUNVNoWmUtd1FiMDRzaGc?oc=5
+
+Jorge Azcón culpa al Gobierno de "boicotear" los centros de datos de Aragón con el nuevo real decreto: "Si llegasen a Cataluña o País Vasco pondrían alfombra roja" El Mundo
 
 ### Ignis IPO faces regulatory risk from Spain's data centre rules - RUSSPAIN.com
 
@@ -1056,6 +1371,18 @@ Ecologistas en Acción exige al Gobierno que no rebaje las exigencias del Real D
 
 Ecologistas en Acción exige al Gobierno que no rebaje las exigencias del Real Decreto de centros de datos Ecologistas en Acción
 
+### El Gobierno aprobará en octubre el real decreto de centros de datos con cambios - heraldo.es
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** El Gobierno aprobará en octubre el real decreto de centros de datos con cambios - heraldo.es
+- **Published:** 2026-09-22T03:00:00Z
+- **Source:** heraldo.es — https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZnFwQmtoVlBIa2xVd0U0VC1ybnd3WWR5T2I0WktBbmlnVkxreEFqd2VjRER1QmZLZnY3c2lhVkgzNVFrZkoyZWpxMUxtTHR1M1l4anh4akZYcHViXzdwQ2dIeTJsYUlld0E3dGNDdW91ZmsyNHAzQlFhMFRQR0l1UzRudkRSMmVHQ21lVU5qSGE3NHFYWndzSERiU1JwUnRFdVc3ekMydGZSdHlna3dmX1MzZzhYWUxYblVKWU5lWWcyNWkyV1ZNWW5xUjJ1Zm9vMzdn?oc=5
+
+El Gobierno aprobará en octubre el real decreto de centros de datos con cambios heraldo.es
+
 ### El Gobierno aprobará en octubre el real decreto de centros de datos con cambios - El Correo
 
 - **Jurisdictions:** Spain
@@ -1187,6 +1514,30 @@ Azcón critica el Real Decreto de centros de datos: "Aragón no puede ser la pag
 - **Source:** El Economista — https://news.google.com/rss/articles/CBMiwgJBVV95cUxNREFzZEw3YXNlXzY4dHEzSnBJVElPRVNUTXpYRXlMa01MRTkzM2x6NG1lNG5NQ2R4di1teThka3Jsa1N5ZGltS1Jza3psdkQzYWNUWHpXOWY3bUlIb1NXT2FIMGwtU0d3Y0hfRUtZMW1ZV2Naa1lOei1LQUxPS1o1ZHB6ZU81cUE2YktDazlqZGpLeGRvVmJ4VWRpMUJFSWh3V1IyRXlhTUptSEFpbUhKWFpfZXR3a0VsdUJKMXBEV042RFFLMjZtTnVuVkw0WjAwZkFRMGxMdVZ6eU1VcDgxUXpIdUE0QlpKNEFNUkk1dnJtaE5Ealp1WkVBM21IVmVQaWpWUE9nU0Z0elNHeEtBN19uQ3BKWFZzbHFKWXdGYlRrT0pZeGVwb2U0QjRMUDhZeFQ2NGhMelFRd2RTZ0ttbTRR?oc=5
 
 AWS confirma su apuesta por España y alega al Real Decreto de centros de datos para que el sector se desarrolle y se valore a quien ha hecho "los deberes" El Economista
+
+### El centro de datos de IA de Zamora incumpliría en porcentaje de renovables el nuevo Real Decreto estatal, que la Junta rechaza - La Opinión de Zamora
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** El centro de datos de IA de Zamora incumpliría en porcentaje de renovables el nuevo Real Decreto estatal, que la Junta rechaza - La Opinión de Zamora
+- **Published:** 2026-09-15T07:00:00Z
+- **Source:** La Opinión de Zamora — https://news.google.com/rss/articles/CBMiogFBVV95cUxNcUQtOFRxM2otajlxaExodlROUy1OYmtiYmk4U3pBRkNZLTFrNWNNMENWM0p2S2RsUkc0NGRfUExnclkxSG5CSTcwYjdKVE9qRVhKaFFsVnZWV3pYVzZUMTRRclBZWFVtSHJYWDBPU0lMR2lEWXRMbXc3SDhmSGhhbDduQWtkeVZPRVR0ZlJRaVpRNm5ZVW1fTnRWeEVmcW1tb2fSAacBQVVfeXFMTmhpNE5oTGgzYnRueUpoUkdQek5fZVMyU3EtU3VPQ0VJR0djcGNFb2c2X1A1TXE5VXFjcVZqYnNqejNLSDBvUU9SZ3oxYzBUa2RHRHEwcnB3eEREU04xWUdTclZQYUdMYlNRd1UteEo4MnVNTm1wTDJLYy1ISk01VmZqQlFxSU1MbXZvX3pLeWZtcDJFSENOMG1ORi11Z0U5UkJ0SnduODg?oc=5
+
+El centro de datos de IA de Zamora incumpliría en porcentaje de renovables el nuevo Real Decreto estatal, que la Junta rechaza La Opinión de Zamora
+
+### La Junta presenta alegaciones al Real Decreto de centros de datos - Diario de León
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** La Junta presenta alegaciones al Real Decreto de centros de datos - Diario de León
+- **Published:** 2026-09-15T04:00:00Z
+- **Source:** Diario de León — https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaEtiWHZqaGw2UjA3MjM0YWItODR3X2poeHZLT1NvT1d0elNFemF5ZF93S2JYSkk3VTFwVlVKaVN1Xy1jQnJqd0FnNmkwek9jTXdQNXpiUzRyZzYxTFZTRXlnd1ZRTmFTaWlRQWllbmZkT1Y5MUJwQUdxeVVCOGRNcEFPRDRyMkFacnVrNDA1UDF3Ul9sTlp4VDZjeGUwb0RkZ0xVbjJxb2Ftd1dXTENnSVN4QVRja3dn0gG-AUFVX3lxTFBUcV8xOXhJQ1Q1SWtqMk5vdlZTZXNGMjA4ZnJUUFctX0hWM3NnOC0wREpGbHR4dDNxZkhxeWp6QWxpYXRFR3I5clVfWG1mTXlBWjB0ejVKLTlWYnFzZmNrem1uX2xIYjh1V3NOR05ZQWJVMmhYYTNZMXdZUmp1Um0tSjJGMThjanlFQjYzWVFvX0d2TTduTm1DcHBUY2NXM0h3SFNwYUZ6RGNOUmtNX3VUSWYwcEJfS1dyS1FLZ0E?oc=5
+
+La Junta presenta alegaciones al Real Decreto de centros de datos Diario de León
 
 ### APECDATA pide cambios al Real Decreto de centros de datos para evitar un impacto sobre los operadores locales - COMPUTERWORLD ESPAÑA
 
@@ -1584,6 +1935,18 @@ Sabadell prevé que el impacto del real decreto de centros de datos sea "negativ
 
 Hoy termina el plazo para presentar alegaciones al real decreto que regulará la sostenibilidad de los centros de datos EFE Verde
 
+### El plazo de alegaciones al Real Decreto de centros de datos finaliza con dudas y críticas - Infobae
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** El plazo de alegaciones al Real Decreto de centros de datos finaliza con dudas y críticas - Infobae
+- **Published:** 2026-09-10T07:00:00Z
+- **Source:** Infobae — https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZUVDOF8xcVhKNUs3U2JTcUsyQzNoTXhoSWw0dTVBeFgtRjlFMFpySm5sbWRmSXA4VGRkbTFpeGp6ZXdnZVJmLTNDVDJtVVcxNzlpcUYtamZiLS1EN3FMVlJOODlMbEdqS0tpdGxPMUtrZEw4RG9mTTluOFMxY2FHY2pPTjc2RHBZZmlyMXBIQUpzSnFtWkpMaE5VdDZORVRKMlJGTEo5eHhKYkFzUnRDNTZRaDA1LUZoN2hVbE5QcHNWWWw3c0xGSmh3aXVxdzFuYTl5Vkh5WTjSAfMBQVVfeXFMTUZ2dmtHQjVQN3hGM0ZsX05fWV9tTW1jbTVxaThNU2lsLW5rZURjcHJjSGxpOElveGZyTHZwT0k2dlRXZnVXX3NmdkFyM2x5cWIyVVpaMk1nWXFKanNkdElqVXNoNUxudUxoeHZLRVJzYzJ4TG1vZGZfMHZxTlphblRSdXhYWEpNcFk1NFZXQ0dhSjRGQWE0bk1ydVp3NkdjUndINVhsUUJEdWJvR0lWRURaQ0hyMFYxS3RqeWIwNlNneFFQa2NpR0JyZzI0TVhNNmxuUHdhNzhVT1BndURRVDdWV0RXSG90TWlrbUNrLWhmZS1z?oc=5
+
+El plazo de alegaciones al Real Decreto de centros de datos finaliza con dudas y críticas Infobae
+
 ### Endurecer la normativa a los centros de datos es penalizar la soberanía digital de España - democrata.es
 
 - **Jurisdictions:** Spain
@@ -1655,6 +2018,18 @@ Madrid se opone al Proyecto de Real Decreto que «frenará la inversión» en ce
 - **Source:** El Periódico de España — https://news.google.com/rss/articles/CBMipAFBVV95cUxNS1FESVp4YTVKek1Jdkw4MFdnRmpFeFE5elFVeGZGSl9MVlVnSFZaQWlLWWJJbGljcnFQZUhPSTVVdEt4ZVd4cUY4ZDBTRlJONTFQQ0J0UW9tSDM3QW0zR1lDT3NEdFc2VmZNdG9YQW9JaWVfbjFXcEV1bG1hVVczbXBlM0ljcVhuTGUxYXpoNFhRSk83VE5GbVBmWFFvSHZoakJhbtIBpAFBVV95cUxNZWM1UVpIUTctdmVjRnJOUU9TdW9zR1NxdmEySTUtdmRvakxXMGZ0Z2pBMk02VmFRLTBHZ19NZjJNaUZ4d2IwbzZuYWRKS09QTGtfdDBFMzVRYW16Q25Wb3lEaGxLN1dlSU5vZ3J4Zk5tNTFiT2p0MW9jYW9Kc1FqZkY5cXpEbTU3bnFaMk1ZVHNrU1dibDZ0RFBDeFFmeXo2VERWNQ?oc=5
 
 Madrid se opone al decreto de regulación de los centros de datos del Gobierno porque "restará competitividad" a España El Periódico de España
+
+### Centros de datos: claves del Proyecto de Real Decreto - Cuatrecasas
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** draft
+- **Language:** es (untranslated)
+- **Original title:** Centros de datos: claves del Proyecto de Real Decreto - Cuatrecasas
+- **Published:** 2026-09-04T07:00:00Z
+- **Source:** Cuatrecasas — https://news.google.com/rss/articles/CBMijAFBVV95cUxPOGhZTnBNTlhVUHpxWXRiM1FZb1dTWTh4RnM1LXhQb2t2dEYxcExidlJKU0JnbjVsbFNJVHdKTHlZUElIWEQ4V0h0NzZHanJXVVhfUXYzUzNpYzNLaXV5dEdURXMtWFNnYWNsU1QwRDYzeGRhcjVtNTlHXzh4V3F2cHpDTkNwSUdiYWxhWQ?oc=5
+
+Centros de datos: claves del Proyecto de Real Decreto Cuatrecasas
 
 ### Madrid place la durabilité au centre de son projet de loi sur les centres de données - L'Agefi
 
@@ -1749,7 +2124,17 @@ Extremadura alegará al Real Decreto que regula los centros de datos EFE - Agenc
 ¿Qué requisitos deberán cumplir los centros de datos? El gobierno español y los impulsores discrepan sobre la nueva regulación Diari ARA
 
 
-## Thailand (6 items)
+## Thailand (7 items)
+
+### Thailand and Google set green standards for Chonburi data center - pattayamail.com
+
+- **Jurisdictions:** Thailand
+- **Topics:** sustainability
+- **Document stage:** guidance
+- **Published:** 2026-09-24T19:35:43Z
+- **Source:** pattayamail.com — https://news.google.com/rss/articles/CBMitgFBVV95cUxOMnNJRHZuMF9qR3BwcjU4UlZIVkxJUFBOWlVIaG5kd0ZfdkJMQzhHVTJXeGR3N3VUWGF6cXdjNl9UZnc2QmVINmprRDlZc1ZCakctM1Y4WXo5RG5kSWJCXzBMQXJNOWZNRndVbjJZTkZpdjBDbXY3eWpFU0VnUVY4RzFDeFhRMlMtNUFFZ1FOV2NzaGUxdXN1azhQYWFfdGtwSl85N2hCVkxhcmdQeV9wZXNVVUE2Zw?oc=5
+
+Thailand and Google set green standards for Chonburi data center pattayamail.com
 
 ### 【IT】データセンター新規制で国産資材50%義務化へ 10月中旬までに施行見通し - bangkokshuho.com
 
@@ -1814,7 +2199,217 @@ Prime Minister scrambles to get data centre sector back on track after energy an
 Thailand’s Cloud Security Standard Is Now in Force: What Providers and CII Operators Must Review TechRepublic
 
 
-## Unattributed (342 items)
+## Unattributed (382 items)
+
+### A tiny town decides moratorium can’t stop NY’s biggest data center from moving in - Syracuse.com
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-09-28T10:00:00Z
+- **Source:** Syracuse.com — https://news.google.com/rss/articles/CBMivwFBVV95cUxNYUV6U3BMTU1hV1ItandFU1h3N3Y1bWdKNnhhUWZCMnRqWDd4aUFwb0tnOEJSd1N0Rm1iNVVBTWlGZWM0VmRwaEZXUVBxTHdrbXBPN2ZLMkctZDlDOUd5eDFSVzY4OWtKSzA4ZzYwSDktUl9KR0MtckFKTmhqbVdqSmpPb0h2RGR0M1JEVWZram5lbFRjLV9BazlCOEhidE5JSVF0c2NDXzA5Rll6eElKQUJ0anF4UjNwVTZHR3M5MA?oc=5
+
+A tiny town decides moratorium can’t stop NY’s biggest data center from moving in Syracuse.com
+
+### Council approves second reading on one-year data center moratorium - Bluffton Today
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-09-28T09:04:00Z
+- **Source:** Bluffton Today — https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYnhrYVY2clpqdkRRbTlHSEpuTGZZVUdBMHUtN2d0dk1aYy1pWDdoVnhnNXJPbTJKaGhxX3NLRUNoUkplOFZGOVVWNzNFUnlTTkt5ZlpMYjQ5dlhkWVYwa0lJbmlZRXdTWHlMbzlNNHU5SXhjeFFrUUQzTzR0MjBHZTFyNUVpZDh0U2x2QkFTblpUb0hYVzlCd0VBRDRIdlBqME1UcnAxWUNNY1dHWWRtVDVJY25NYlBKdFJWb1NtbkRDcHNIQVZUdUJvUlQ1bXF6?oc=5
+
+Council approves second reading on one-year data center moratorium Bluffton Today
+
+### East Bridgewater Planning Board Sets Aside Its Own Data Center Ban, Asks Select Board for 12-Month Moratorium - southshore.news
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-09-27T11:03:10Z
+- **Source:** southshore.news — https://news.google.com/rss/articles/CBMidEFVX3lxTE90aGRYOWd0UjFYUG5nRVh6bmpWM1lsWXRqV2EzQzc5VHdtOS1rWHM0dHlWRTdxUTZpOFExZU95T2xBUTlVbmx6d2RrMkV1VG4tN015YjJjVnN4bVNKOWZwczZ1YldvYmNPZ1FqNDBieUVVZ29v?oc=5
+
+East Bridgewater Planning Board Sets Aside Its Own Data Center Ban, Asks Select Board for 12-Month Moratorium southshore.news
+
+### West Hazleton to vote on wide-ranging restrictions on data centers - The Standard-Speaker
+
+- **Jurisdictions:** unattributed
+- **Topics:** general
+- **Document stage:** guidance
+- **Published:** 2026-09-26T19:47:25Z
+- **Source:** The Standard-Speaker — https://news.google.com/rss/articles/CBMirwFBVV95cUxNSmZMeG5USWVUbFhVRDQzbnl2bU5zdU1neGJsOUJWUTZKeEktM2ViTmtVMWl4OXZrNlgwZktNNUhUSVhFdXBkallFOTRnMzM2U3FpeWVxN2JkS2J1MHZyNmlLSVJ3eVpSbzdLNW55Vm4zUW9fYU1VbWZ3VGMyNE9CT2lRNEotc0YxdVQ4bWNsMDF5U2VwWkdBYjByT3RmdjFXQy1qcWJZX190d2FENXR3?oc=5
+
+West Hazleton to vote on wide-ranging restrictions on data centers The Standard-Speaker
+
+### Spanberger proposes slate of data center regulations, puts first directives in motion - Journal Review
+
+- **Jurisdictions:** unattributed
+- **Topics:** general
+- **Document stage:** news
+- **Published:** 2026-09-26T04:32:54Z
+- **Source:** Journal Review — https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUzFnYnBibmZBWURIaWVLelNQZXdyRV9iTjFybFBma1R6QmxLUkh6aXNEaVhzZjNzVm9lZ3RxSFRGcWR5Q0gzNWtjbFFxaXhXUG1kZ3JQNF9iRW5FQzhvVjkyeXVkNkYyZmt6QlFld09KOGlabXZDQVNkOWRBOWVaZG9vY0tMZU5yNHoycDQtMS1SRVVMWXZfRllnejE1dEFPNjdyTmJ3OGRkXzA2TDB1U3BSdF9DSkZUcWRWMVU0RlhRbzllSGw1MFJuTE9lN254UjVj?oc=5
+
+Spanberger proposes slate of data center regulations, puts first directives in motion Journal Review
+
+### Regulating the AI Data Center Boom - The Regulatory Review
+
+- **Jurisdictions:** unattributed
+- **Topics:** general
+- **Document stage:** news
+- **Published:** 2026-09-26T04:17:09Z
+- **Source:** The Regulatory Review — https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbkZQRzltbk9CV3R6d2VydWVBMDVVS0dTUVJscS1yYVUtMW9sRnl4UVpoYmx3Z2hSNWRJejI4MHFlQkFySVlQU0s4SWFsdG93THk1MjI3TlB4cnAwZ3NrM1hkVDROX3hEelF3eWVCVy1pTXJaNUtkX2pveU5lREVrd19GTlhEcFEtekJv?oc=5
+
+Regulating the AI Data Center Boom The Regulatory Review
+
+### Spanberger proposes slate of data center regulations, puts first directives in motion - marylandmatters.org
+
+- **Jurisdictions:** unattributed
+- **Topics:** general
+- **Document stage:** news
+- **Published:** 2026-09-26T00:58:34Z
+- **Source:** marylandmatters.org — https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYV9CZXNBekcxczd4MFBuSFNhZm03ZWNsdmhiT0JJVVhNeGxkdFVEX2VRMFg0VHBydW9JdkhmUEV2SVlnVjRqYWhjWkVBQ2dma0k0Nnhhb1hPNTBtSEtWeGFJa1kxNThJZ3FPVVBUUmk4LTVZa0xjQ3EtMGpZWjJpSHpMWlZ3OEZ3VUItWjNET2tGdzlXcmNuM3BiM2hQY3ZiZXJxaG5YMnBrSWtmRjJRRHNMa0R1Q2V2UmhFWE1CcDFKQQ?oc=5
+
+Spanberger proposes slate of data center regulations, puts first directives in motion marylandmatters.org
+
+### Spanberger proposes slate of data center regulations, puts first directives in motion - Walterboro Live
+
+- **Jurisdictions:** unattributed
+- **Topics:** general
+- **Document stage:** news
+- **Published:** 2026-09-26T00:57:38Z
+- **Source:** Walterboro Live — https://news.google.com/rss/articles/CBMizwFBVV95cUxQWTk2QVQzR2piMEFON1lubDYxRlAtVG1xNm9VOUhIaGVvSTRGOWlyRGtLUFpaNlRkcVo2dmhkaXp3bzZodkplMlN1VGp3eVMwQUZzVEYwODR5V2htV0JTUTlMVmFxWEpfRHV0QlpMWF9tYmI0MHA3aDcwTEt3X1k5dzRTUFVhYU01MEh2Q0ZMSE5leC0xcmhtb29RdFE0NWhGSGhJNnBNWmwwUEZrVzFFSFJfWXNyXzE0Vk12SnZGZU85d1BjN1VGNUc5cmJCOG8?oc=5
+
+Spanberger proposes slate of data center regulations, puts first directives in motion Walterboro Live
+
+### Newsom signs data center bills as state ramps up regulations - The Center Square
+
+- **Jurisdictions:** unattributed
+- **Topics:** general
+- **Document stage:** news
+- **Published:** 2026-09-25T21:40:00Z
+- **Source:** The Center Square — https://news.google.com/rss/articles/CBMilwFBVV95cUxPNnR6eERwdllDUHNlWmZtMGI3bnk1YlFaUjliaWRMWk1YcFc4by1UdVJTZmc4b1JKc1Q3TEZuQzdfMzZrQnEtQUVzUFNCdHFsZ3lYYktUYldoTVRvaU1UQVcwc3F4d3gtaEJMbWx5QmNncGh2X1BCbmlLWDNIajNwZmItd0I1ZVhJVG9McV9LVlJXV1lWczY00gGcAUFVX3lxTE9kZjAwWURGRlNVeUpTdTBMRlVJN3dTTnFwVzItQWZjSDJzU0NtSDFZWlFydTY0NVk1elN2YXRLWjhKdUdfc0R1MlhzOVNtd2EtcE5HUXJLRUNpVGhRaExtRXZtcnUzbGpjTmFwVTA3V1B5M2o3SV83Z28ybUpraENlYnNUM3pYR1l3Q19zSVlrMUJqQV8zQ25XUzl6Sw?oc=5
+
+Newsom signs data center bills as state ramps up regulations The Center Square
+
+### Is a moratorium on data centers the right plan? - WREG.com
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-09-25T20:09:04Z
+- **Source:** WREG.com — https://news.google.com/rss/articles/CBMiggFBVV95cUxQbl83b1V4ME9HdUZWRERIZDR1T2NBQU9ySFBkbk5sTmNHVW5QQkNfYnJoZ0RqQ0N1V0FjUFJlLXIyeHpyTWJzc2VMNUp4MzhLeE9VS245d0RfbVRvTWEzb2QxWFRjUi1mbU9YVDFfTC1Vb3ZLd1lpajA4OEMwbHNqUTV30gGHAUFVX3lxTE9EZ09abGRkbmpNeVJ6NG81SE9wY0FENTI1cExQNjBaeTBkbW5NS1gyaEJ2YVFyMHpucTUwVDYzdkdwT3FNLUhNeFktYjZ4QmlCUXB3QmE1aHhNVTQ5bVR1SS1abGp3T19VcnJrdDZMNk1BSDkzbmU4cEhMUXJaUnhKM0FFaFNxbw?oc=5
+
+Is a moratorium on data centers the right plan? WREG.com
+
+### Is a moratorium on data centers the right plan? - yahoo.com
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-09-25T20:08:56Z
+- **Source:** yahoo.com — https://news.google.com/rss/articles/CBMigwFBVV95cUxNOFdJejl2anU4cUpobXROZlAxV0Q0UHQ1bjJJQjU4NmUwWWhUb2h5eVVwTkZWYXY3d1RjQk1uTDZKVnJPV01aNmlHUHFhdWRialVGaHUzcTdNS3NKOEJfRU5iOE4tUzFkdkpYd1hhRWVOc1l5S2hZaEluRGxRQjh6eDhNRQ?oc=5
+
+Is a moratorium on data centers the right plan? yahoo.com
+
+### Data center plans continue during moratorium - Mon Valley Independent
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-09-25T18:59:46Z
+- **Source:** Mon Valley Independent — https://news.google.com/rss/articles/CBMimAFBVV95cUxPd0JDcHFSRzV5MXpGRUhsdXg4UGhEQTZNMzlmVHd6QUthakkxM3dLUDNZaTRNN0tsTUV6TlJNSEJmTVRCVGFDLWdIakZLLUxsT0JKWFhuTWRwN1Bid1JHOW1MOHNHSWY1cGlMNFE5LUd5elkzX19xZUJGMWVMX1BsQ1NXMHUzWHd2Tzlldl83OGhQZElzWDNuQw?oc=5
+
+Data center plans continue during moratorium Mon Valley Independent
+
+### Scott County extends data center moratorium until March - WKYT
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-09-25T02:37:00Z
+- **Source:** WKYT — https://news.google.com/rss/articles/CBMikgFBVV95cUxQNzNkY05XWEtBNkdIZHNIbWVXMlJ3bkhvUng1RVRrRVBfSUxwMEo1WDQtcGw3LUlER0V5VFdRZjJBRUdqdFZmZVJfaTk3VmZxMWFyWnJ5VFJrOW1kamQ0ODgzdkNFRGZtczZ5czBkQWR3SXNOOXdRdUl2a2hqVnc5MjhFSkxUTVhaaV9DYTBBWEVnUdIBpgFBVV95cUxQdEdDNFp2ZVBSN0E2VkJDSU9hOUpaUVRqSWJXXzhpSG5WNzd2NVh4alRUZzZaWTA0c0NkelRPWjhGYzM2Q0d3S0FlVFBpeENycjliZlA3WmRRd1NrZnlvMHIwMlRiX2V6M0doUUxZOWhNRzVsUEdrazNybUlJbHJRemlXTUg5dVVQZlhLODlOcUhBYkxDZVlEcUUxX3M0NHNCT055OFdn?oc=5
+
+Scott County extends data center moratorium until March WKYT
+
+### Denton officials weigh data center moratorium during first public hearing - Community Impact
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-09-25T02:09:00Z
+- **Source:** Community Impact — https://news.google.com/rss/articles/CBMivAFBVV95cUxPdUtIcTZhemthajN6dmtlNkppazJoMVlnX3dka0RWaDZ6N0NmczdqWUZDYW1oaUFUWlFHc1EtR0ZWT2lUTENsRURqT0gzUEtXeUpyLWJVX3h1NUJzQnJJZk1BbktJXzlCQ2QwTjJROHZiS2UwUWpBVHgzVnFiMkkxbEVrUmxfVWdxUzZGZlhEaC1aRHExVndtZDVjZXdPUjl1ZURmc0FBUW1vY2lNSGpCWFJVRVV2M1FDblo5OA?oc=5
+
+Denton officials weigh data center moratorium during first public hearing Community Impact
+
+### City Council to Hold Public Hearing on Temporary Moratorium for Data Center Approvals - RaleighNC.gov
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-09-24T22:01:20Z
+- **Source:** RaleighNC.gov — https://news.google.com/rss/articles/CBMiswFBVV95cUxNOWlIYmNZdnZOemNaOGJ4cUxoZEQ5YnI1aTZvSFBTYXZSdVlKS1Y2bjBlRUJmNkZ4ZGl5OGdpM2tCSVh5WWh4LXRuTTY4UFBTR04tV3FKZUVSZHdlT3dxUEdnTUEyencwQWxtYU9ucnRkdkFwVkg5eFhvZ25RNW0tNFNzM3RBdnREcmUwWTRwekJwVlhBbG52MW5WNlF4ZkUxSzFqSVVnSXZUUEtEWm91b0xRaw?oc=5
+
+City Council to Hold Public Hearing on Temporary Moratorium for Data Center Approvals RaleighNC.gov
+
+### Megawatt moratorium: Palm Beach County OKs year-long data center pause - The Real Deal
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-09-24T21:17:00Z
+- **Source:** The Real Deal — https://news.google.com/rss/articles/CBMimAFBVV95cUxQb2F4aFp5UGpjakhFeHk1Y1hzOXE1M3NsTkJiUVhrdV96RFJVdzNpeE5saDVjSkpudm1LX2ZrSWxzaDE4UlNacEd4SHFpVms1bnAwZU1BeFY1Y0JMVTd1NFhtMV9tdWFFWkxsd2lkRFpmekJ1SGZSYkUtZktQdkxHOFdsbmctVl9nVFdDQ256Y2NObHdCUTNrRg?oc=5
+
+Megawatt moratorium: Palm Beach County OKs year-long data center pause The Real Deal
+
+### Woodbury approves one-year moratorium on data centers - finance-commerce.com
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-09-24T20:44:02Z
+- **Source:** finance-commerce.com — https://news.google.com/rss/articles/CBMieEFVX3lxTFA0Mk1WMTdSRnB6Q0YxNVB2R1VOb0hxQndMNU5GWm5QazMtV2ZTZE1YUGJLX2QwczFDNmg1WDk0bTlwaTNCbXlwRWlJZ3VGTlBhbHVfUHREMHdUNDF0WUpDMGt0VjVkcWVTQ0VfcHFjUG9yX3B0LUFwMw?oc=5
+
+Woodbury approves one-year moratorium on data centers finance-commerce.com
+
+### Woodbury approves study and moratorium on data centers, other high-volume infrastructure - Pioneer Press
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-09-24T19:51:40Z
+- **Source:** Pioneer Press — https://news.google.com/rss/articles/CBMiekFVX3lxTE9SbkJxVG5GTnBEQ1UxanJCWkR3Wkdyc044X0pheFBBd2ZjTjVtbVdYYlgwZHkwdzdFa2p0Z2RLbEJ4RWxLa0VYcFRtdXFWb2R6Sm9LajNCZlZmVlBkT2lDa0hldHd2UDJTVGYzWFZTMDI5SUJEMlRwZTJR?oc=5
+
+Woodbury approves study and moratorium on data centers, other high-volume infrastructure Pioneer Press
+
+### From Commissioning to Bounded Agentic AI: Raja Kumara Swamy Donthula on Engineering Resilient Data Centers for the AI Era - TechBullion
+
+- **Jurisdictions:** unattributed
+- **Topics:** security-resilience
+- **Document stage:** news
+- **Published:** 2026-09-24T14:15:58Z
+- **Source:** TechBullion — https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVVVjRGdlSURDVzlqMGRxOGV2TlJFTXp0SkhHRWgyOERJVVZEZmhUbkpsbUxLcU42UUxVRExhLTYzWnk0QUxMamZqdkFDWllmbTVZVzV2NmtCYjdHeHpCN0t2Umd1UEcwOUVxUEFVMThvS3g4TmZ1TWxNd3p3SUNYbVNpZmhISnI5YlkyLVk0azFjeWJtcEdDOWt2LTNSeWh0UDRwRmtJR2NaQy1Xa0N4ZU9GYTU2RmppUWl2NDFOc1pFdVJvdTJzeGtxNUl6NTdmbDdXRTE1M3JROGQzYnc?oc=5
+
+From Commissioning to Bounded Agentic AI: Raja Kumara Swamy Donthula on Engineering Resilient Data Centers for the AI Era TechBullion
+
+### 62 generators, no permits: New Jersey data centre's $1 million fine exposes the regulatory challenge of po - The Economic Times
+
+- **Jurisdictions:** unattributed
+- **Topics:** general
+- **Document stage:** news
+- **Published:** 2026-09-24T13:41:10Z
+- **Source:** The Economic Times — https://news.google.com/rss/articles/CBMi9gJBVV95cUxNeWlZLVNGd3VrQkhTYkI0aVZQUFM0VmNMWDZzcENJUTZGRFZLVF9UeU5relpXa29XT0FFSXlpWkxQRVhnS3JFSlNsS3hPcjU0VnVreTJnRjB0dVRNRFo2N2c5Z3JZTVFtXzR5RjRuUnlORnFLOGl4dWkzS3BmNGpEcEw3THR4YWYyODA0UFhaR3hod1c2bGIteEN1ZVdRUDZRd3lLaHJGX3lwazhyOVNTSVlvSFBmeHRoOHNMTzlzQ2NvcHc4eWpqVWlZa18wNVc0dnlpSzlOOXNiUENJNnhOdktzc2oyemVONjg2dkRqWmo0VENBeXhUQlIwX2RqeHh1WC1JbGY3Z1ltS2dqZFZpanV3ak53bkNpcEo4bzBSbkkyUzI0Tzc0MGRGSW9HWG9FeGpPQkhiOG13QkdEdEVpOEdRZXB5RDRsZnJKeWJaV0E2anV2aXFWV2VMcUkzSGV6YzNOd3BtbkRPLS1LeGx0QXdESWQ0QdIB-wJBVV95cUxPQ1NnM2JuZFV0NVlPV21qTy1aRUZyUmRNSXpkRV9sRG9HNjMtQWprQ2lZNTgxTUl5Ny13TFZHZkFpb1FXSWZPWFlKS29JeEJ0UDM1R01Ydk0wWUh2ZTR2S0JUQWRmVDRXTEVVWXBhdWZ0cloyOVRIUXUtbEdzTGsyRmhjQXBRUmtibU1jVXItdFlYVldXcEhuUUxyclRPdHFaM1hKQUpaMktPWG5OajBlSW1YUll2OTZjaXZJYzhzQ1ppeW80eXIydF9jaFFJMDVSeFdQVTUxa3NNak1ZQ2JKLS13Wld5MTVtZWtiaTBNU2IwM0pZdWJPTjNfaG9JN0Z2Yi1reW9GNkJldjQ3RlJidkNjWEdPRDFjWURDeEZBbEc2b2I4SnNLNllRUUZhWHZSRkhtdUFid09mZVVvR0dPRF9tV1NmVmkxOTlhU0ktRzlHc1JxRkxGT0xuU1J2VWtuSFZyY29BdjNiVU9PaHBJaE42N0xMRWo2TVpV?oc=5
+
+62 generators, no permits: New Jersey data centre's $1 million fine exposes the regulatory challenge of po The Economic Times
+
+### Hudson Planning Board votes for moratorium on data centers; Town Meeting vote forthcoming - Community Advocate
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-09-24T11:21:00Z
+- **Source:** Community Advocate — https://news.google.com/rss/articles/CBMiiwJBVV95cUxOQ0xvcXBycjJmdHNZdXRfaFA4Mmx6eVN5QmlEc0pnbWZmRHpxNkdzamYzSlBPR0VfSU5HeFA3clp2MVgtVndvZFJYMmNsMEFIRmRoVlh3YXl0QnFHZnpKd2JmYVRHZmVsYWczNFZzTXlRMUpLa0RhZkNJbGgxamQtNGZhNm44MW9qTVd2MFd0Y1JRam1sdG9uRWdudkllRGxRNzhIZWpXazVCVHZ0MHJpS3FjZTBRczlJVEYwMUt4RDhualdXQS1LQmIxSXN3UFB6MmZMbGJnekRGQ3FlWmg0eDBXbVhOZ2dlS2hscnVSZ1NjbU8xWkFyTi03TlRodnc3QndLYW02RzMyTWc?oc=5
+
+Hudson Planning Board votes for moratorium on data centers; Town Meeting vote forthcoming Community Advocate
 
 ### Potsdam town board eyes 12-month moratorium on large data centers - northcountrynow.com
 
@@ -1825,6 +2420,16 @@ Thailand’s Cloud Security Standard Is Now in Force: What Providers and CII Ope
 - **Source:** northcountrynow.com — https://news.google.com/rss/articles/CBMirAFBVV95cUxONUFfZ083MDV4R2JldnM5MXBIcUt3WlowMnhES0szYmliOXVudlhzWTlJQmNBWkdPVnp5cUVpUUJUNmx2WC1nWWdYZmxFSVJxWndoU213aWhRZ09acHQ2dWpmLXR1UzVQbU14bVYwTTJhQ0RJeFJTTG9vWU1LanNsbFJuWW95c2dyU2FIeTZhTmxDRE1OVkxFOTF0WDdXaU83akZXOG1rU1hyWTA0?oc=5
 
 Potsdam town board eyes 12-month moratorium on large data centers northcountrynow.com
+
+### Joint Planning approves data center moratorium for 3 cities - the-messenger.com
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-09-24T09:00:00Z
+- **Source:** the-messenger.com — https://news.google.com/rss/articles/CBMilAFBVV95cUxNWG9OZHZsLThfUDB4dUdpaGFBMEJNOG1NVGtDS3ZWTFJ1TWdWSDloaFhNRTRCbDd0dldLTXdrQjBSRnEyRXdrR1hfVDlHOVZYZU5vdmxUOWFaVTBfTExsWjBOaTNGRXFYRWFjWDRVUk1OcnpyekZvLUxsX3paVWlqcnk1Yl91U3pnYmdoQUduT2JXc2Zv?oc=5
+
+Joint Planning approves data center moratorium for 3 cities the-messenger.com
 
 ### Brighton Township latest to adopt data center moratorium - Livingston Daily
 
@@ -1940,6 +2545,16 @@ EU、データセンター省エネ格付けラベル導入へ 2027年の法制�
 
 Chicago Mayor Brandon Johnson, Ald. Bill Conway propose competing approaches to data center regulation at City Council meeting ABC7 Chicago
 
+### Cities urge industry to support Global Urban Data Centre Pact - smartcitiesworld.net
+
+- **Jurisdictions:** unattributed
+- **Topics:** general
+- **Document stage:** news
+- **Published:** 2026-09-23T13:10:28Z
+- **Source:** smartcitiesworld.net — https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNlBBVXpIajlTMnppUzF4cFhkSWxfTHJXd3BEd3kwMGwzejA0eWR0V0xNRTlHSmFKbE9ZWFg2dkphcURhMmJ1OVh0NnptSXBGMWNteGRSZ2pFcU1LMDc3MEVaTXpmcGV1TXh6VVJ1T0xfTFVmODZqY0JzemxvMVhSZC1SYWF0NEVZc1RLUDJUNURCd1doRnJpQ0R1ZXdLdkJKMjY3bkNzOEc?oc=5
+
+Cities urge industry to support Global Urban Data Centre Pact smartcitiesworld.net
+
 ### Data center, la Commissione Ue propone più efficienza energetica e sostenibilità - Ricicla News
 
 - **Jurisdictions:** unattributed
@@ -1997,6 +2612,16 @@ Pourquoi la Commission européenne veut-elle évaluer l'efficacité énergétiqu
 - **Source:** e-works.fr — https://news.google.com/rss/articles/CBMiywFBVV95cUxOQ3lLTVJicURnT3IzWEoxVV8tNWx0MWtRTHFyOWY5amd4RGdiUTVkNmNDZmZuN2dJMFhBQjhGMm5PNXhYSGlOd3pVLXVFdXdHb3doWTdvUXdXNjR4ZHJIZkhDM3dQc1U2WWFxRjVsd2FzOExNaHVpRWozTk9QdmxEdVZMU2NmN0tmeFNQdG5jV1RWdTBCUDVLSjV0SG5Hekpidml5bjZrbW9kMmdCRThpdFhocGJKZjRIekFRb3JWM1NPY0J3SGVUZFU1VQ?oc=5
 
 La nouvelle réglementation européenne pour évaluer l'efficacité énergétique et hydrique des datacenters e-works.fr
+
+### Data center debate moving to Bethlehem: Officials to review proposed regulations at public hearing - Lehigh Valley Public Media
+
+- **Jurisdictions:** unattributed
+- **Topics:** general
+- **Document stage:** news
+- **Published:** 2026-09-23T02:36:08Z
+- **Source:** Lehigh Valley Public Media — https://news.google.com/rss/articles/CBMi4gFBVV95cUxOeXU1ZjcxNkRQWFlMTy1yb0NuNy1tVlc0YVhmSlFobzR5bWdZamVIQjBtdzVqdXZhUWxZY0RUM2ItemliMHJ5ODdmeERjdkpjYVBheTBUY0xSVWttSGVQT29vQTNfX1dOOG4wVWpLSkJGb2VGcDlaZEZZclpZRE5XMmsxZHctUk9pV0l3MTl1RjNHc0I4elhKM2N5Z1N0aWM5emtWM24xU213M2JnUVhrS3lKM3NJaWwyWV81aUhSVlRyMUpRQ2xlM3czTVVGand5TTNrQjluVFJyXzJPN2laMWpB?oc=5
+
+Data center debate moving to Bethlehem: Officials to review proposed regulations at public hearing Lehigh Valley Public Media
 
 ### 호주 빅토리아주, 신규 데이터센터에 '재생에너지 자급' 의무화 - 임팩트온
 
@@ -2222,6 +2847,16 @@ Austrian Protests Intensify Over Google Hyperscale Data Centre Environmental Imp
 
 Data centers: Commission proposes sustainability label Table.Briefings
 
+### Developers sue Bradley County over data center regulations after buying land behind Walker Valley High - Local 3 News
+
+- **Jurisdictions:** unattributed
+- **Topics:** general
+- **Document stage:** news
+- **Published:** 2026-09-22T03:08:46Z
+- **Source:** Local 3 News — https://news.google.com/rss/articles/CBMimgJBVV95cUxOdExGeGUwVGtqUXU4ZTdPeWNiWm5KUXVtYXhRY1k4Q1VYUjl1R3dUSW92U1NVdVZoR0dNcnZfVFptUjhqVzZrdng1MHhUMTNZbE9ZeGRFRm90RHdjaEVZTnhKUE4zemhsQzl2YU9NanBtT1dpZksySnVnVTRnLU40aE81WDZmNHhDdjN2WFZTaGN3NHdFUUNkUFgwMHltQldLZnNCYjVNdlpsTnJJX3BFcnNYOXEyQ2pWRUZFZUtkY3JJT1dYbzRLVzgwRzE2MklyaFRkc0VyQ0FHa2pQeW14bExqVV9YaXZYS1MtdmJkaEN3ZDBCQjlfZmpUZHlyRU1VU1ZBWHpFWlNtamx4RkFhODFrUGtNWTR1VGc?oc=5
+
+Developers sue Bradley County over data center regulations after buying land behind Walker Valley High Local 3 News
+
 ### Planning Commission recommends adding more layers to approval process for data centers in Lawrence - Lawrence Journal-World
 
 - **Jurisdictions:** unattributed
@@ -2404,6 +3039,16 @@ Spanberger takes aim at data center secrecy but stops short of a moratorium wyda
 
 Michigan City data center moratorium delay draws frustration during council meeting WVPE
 
+### Rice City Council Votes Monday On Data Center Moratorium And Study - 98.1 - Minnesota's New Country
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-09-19T16:53:50Z
+- **Source:** 98.1 - Minnesota's New Country — https://news.google.com/rss/articles/CBMigwFBVV95cUxPbUNmRVhJTnZJUVl5Z0hJNXo1amJiZFVSX3hOZVdXWFdpeXkyQkEyLVZDVy1EX1lhN1Iya3dsbDE1OWpXWlRUZzQtdWdOb2Zsak1naUh3cC1UM3ZGX1RQLXZuUFNmOXMwSE05VGdOMHlLRDFqUl9weUhyR2QzVGRjSmFfbw?oc=5
+
+Rice City Council Votes Monday On Data Center Moratorium And Study 98.1 - Minnesota's New Country
+
 ### Rice City Council Votes Monday On Data Center Moratorium And Study - WJON
 
 - **Jurisdictions:** unattributed
@@ -2454,6 +3099,18 @@ Karnataka Approves Sustainable Data Centre Policy 2026–2031 Deccan Chronicle
 
 Gilroy City Council Adopts Moratorium on New Data Centers San Jose Inside
 
+### DPR AS Loloskan RUU Kewajiban Data Center Bayar Upgrade Listrik - Readers.id
+
+- **Jurisdictions:** unattributed
+- **Topics:** general
+- **Document stage:** news
+- **Language:** id (untranslated)
+- **Original title:** DPR AS Loloskan RUU Kewajiban Data Center Bayar Upgrade Listrik - Readers.id
+- **Published:** 2026-09-18T21:15:00Z
+- **Source:** Readers.id — https://news.google.com/rss/articles/CBMickFVX3lxTFBUUjRteDg1SGFmR1pMZndtTUZZbWpMSkt1TDN4TXktTjJ4VGRrWWdiUVVmM3lnbmtNRlZSWFlJNmhQMndYRVNkbFVra0xSQmpqTW1pWmg1RF9IT0gtcEZBZENUVVBDd0wxcXNLN3N5UXA1QQ?oc=5
+
+DPR AS Loloskan RUU Kewajiban Data Center Bayar Upgrade Listrik Readers.id
+
 ### Judge allows Chatham data center to proceed despite moratorium - Carolina Journal
 
 - **Jurisdictions:** unattributed
@@ -2463,6 +3120,26 @@ Gilroy City Council Adopts Moratorium on New Data Centers San Jose Inside
 - **Source:** Carolina Journal — https://news.google.com/rss/articles/CBMimwFBVV95cUxOc3d0RkdwcFhjbXZGWnNIYkRmX2NvdVdsaXJFczBBMzg0dk9XWGRsMld1NFl3WlJteGpnRGt6NjZkTkRTZ1RBZ25EOXFFd2dwR2VVV2w0d0pLMW1zS0M2NmNJaDFtQ1ZfRVpDOHdKTjhHTENwbWZ1Yi1BYW16UHZMdzM3cDZ4UjJFNzdaOGFuU3V2ejBsMGxwTm5qbw?oc=5
 
 Judge allows Chatham data center to proceed despite moratorium Carolina Journal
+
+### Valley municipalities grapple with data center regulations - Allied News
+
+- **Jurisdictions:** unattributed
+- **Topics:** general
+- **Document stage:** news
+- **Published:** 2026-09-18T19:00:00Z
+- **Source:** Allied News — https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUk55UVBmamJScGhYYXdXQ0UzUnkwMzJ4MWpIekFyekNiT09QX0p3X253Sm5GdEwxWEdJRHVsS1pxUDB6bnpJeUxmdW92ajBMVi04RFhhZ0JySFM5c1A4QlNOczNzNmFvbVBlSlB1QUJnckV6YkNVa2dpOVlxeHdXVmN0Q0FVZVc2VjEybm1iekRFbXJzbkJrSjFXSnZjZ3NmaVc3dERmbVkxUUpNVWl5c3NqaVMyVTZmcUVtZW9xZnNZd0RYSDN2N2t4Y1QyRDZGaDhNOGdlQlN3ZmJxdnJOeFFqeFEyblJM?oc=5
+
+Valley municipalities grapple with data center regulations Allied News
+
+### Karnataka Approves Sustainable Data Centre Policy, Targets 1 GW IT Load By 2031 - BW Businessworld
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-09-18T18:03:48Z
+- **Source:** BW Businessworld — https://news.google.com/rss/articles/CBMivwFBVV95cUxOOGZfajdyWERfcExhY1Fnd2JqQ3Uzb3BkNTdNUm1ZY1J3LW1ldzJ3Sk9uMWI2dGlGbG4wTlpmU0g3TGRmam53MkVaX2JlMXZwb29QZXBiMU5qYURiODJZbDQ3bXMyTi1nSk84bjBoU2ppVi1GTGI2N0NpRFNSaGZLb18wRUZBeS02S1p3WG5fSzhjM0NKeldndVItYlBEU2Z1WTcxR2hhNE5weFY1RVp6T3BSbWlPQjJnOGZRQVd5aw?oc=5
+
+Karnataka Approves Sustainable Data Centre Policy, Targets 1 GW IT Load By 2031 BW Businessworld
 
 ### Brian May Halts Queen Avatar Show Plans Over AI Concerns, Calls for Data Center Moratorium - 95.7 BEN FM
 
@@ -2523,6 +3200,16 @@ Nearly 30,000 call for moratorium on data centres Yahoo
 - **Source:** AOL.com — https://news.google.com/rss/articles/CBMifkFVX3lxTE5kQjBlMjl5ZzRYM2ZJR2NmYXZ4ZGFFcmQ1bW9QNXZPUzNSWkhwMzUxQ2pSeFdWV1NzWndkYWV0c2JmZ0hGUmdRVllZLTVQU1dENEhWZG5iQVVoUDVqRlR5LUdlZC1PbnhwSzRCZHR2T0hrNUJxOTA2S3FNa040QQ?oc=5
 
 Nearly 30,000 call for moratorium on data centres AOL.com
+
+### Nearly 30,000 call for moratorium on data centres - AOL.ca
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-09-18T15:59:44Z
+- **Source:** AOL.ca — https://news.google.com/rss/articles/CBMifEFVX3lxTFByYWNVRDRtTjIwdmROS3kxX1daV1k5Mlh4RmF2ckQ4MjBmMkVza2NzYWcxU0tBUkgyNkg0cmJGeFRoZFZsYlBNSDNSWmF0YlJqVGRsY3lWY0hRZEhtTk1QbEdQUGhrSFFBQmhMSEwtbVh1UThrZGFNTE03V1A?oc=5
+
+Nearly 30,000 call for moratorium on data centres AOL.ca
 
 ### Nearly 30,000 call for moratorium on data centres - BBC
 
@@ -2720,6 +3407,16 @@ Anutin Unveils Data Center Regulations to Manage Resources and Strengthen Securi
 
 Pedro Sánchez defiende la propuesta de regulación para los centros de datos: “La lógica es económica y medioambiental” elDiario.es
 
+### Newark Sets 12-Month Moratorium on Approving Potential Large-Scale Data Centers - TAPinto
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-09-17T07:00:00Z
+- **Source:** TAPinto — https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZFEzNE9SLXRvUFlQSk1vS1NjUzcwZkRRamxvYzUzdG1Xa1ZwS0tWZXFuZklSQlU2NnJVbVoxeTBvMXNhSmdKY1VqU0UyOWZBejQtVU1JS253RU80M001cDRnc2dwNmdrRWZFQVQ0SWliY2NCT0ZQdDItQ3FFbG9Ub0xjUjVpUFY2TnNrT0RWNTE3Z0huYi1VakZBZU9pbmx6Nno5Q1VaRmU2a0drRkhsRk5OSnc2cHpUcFNPR1F6dGRMbW50bnZJTTZmTlR2N0I3V0phQXVwYXFYc1UtN1E?oc=5
+
+Newark Sets 12-Month Moratorium on Approving Potential Large-Scale Data Centers TAPinto
+
 ### Holyrood votes against moratorium on ‘hyperscale’ data centres amid fears of ‘big tech free-for-all’ - Energy Voice
 
 - **Jurisdictions:** unattributed
@@ -2739,6 +3436,16 @@ Holyrood votes against moratorium on ‘hyperscale’ data centres amid fears of
 - **Source:** Tribune Chronicle — https://news.google.com/rss/articles/CBMiogFBVV95cUxOaUJFeDFSZVgtUkVsaHNzSkd1RmM1OWQzTXFJa0x0SnJaMkF0M1hOT3ZsaXZVVU9WRWtZdWh6S3F5NW9HZVdLTFRFT2t6OWljeEIyMnA4NW9DMmo3UnphMmE1cXpQUzFPTnpBMlpzaW9COGJ6QmxyLXFtZ0VrZXB4d0VRSkY0c19CSXlxc1BVNGtyc1M4RjF0WW8wYjZKX0gzOEE?oc=5
 
 McDonald passes 1-year moratorium on data centers - Tribune Chronicle
+
+### Peosta Considers Extending Data Center Moratorium - KWWL
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-09-17T03:48:00Z
+- **Source:** KWWL — https://news.google.com/rss/articles/CBMi0wFBVV95cUxQREV0cHRDSnpzUC0yYjZfV0IzODVVLUU3YzZBRm5yUVp0UVRiMWdvWmg0VFhPd21VcHhsdDJvR0NINmRCRG1VSjE4b0NVd2g2SzBQYjVIbWFZWHg2VXNJNjVWb3RUMUZpR0tOVTVOMEE0M1hyamlUYWZNRzlQc2tGWW1ZNTFIdjZkdU5CWmlhV0FMVzdqaTM0T0Z4X3FheGxGRWlUMTJ4VUVlOGg4QWQxSEExNk9IWXBoLXBlN05mVi1yN0R5R25FYmdlVG9tdnIwOHpF?oc=5
+
+Peosta Considers Extending Data Center Moratorium KWWL
 
 ### Broken Arrow: data center not imminent, moratorium could be extended - Broken Arrow Sentinel
 
@@ -2978,6 +3685,18 @@ Steuben County places six month moratorium on DATA Centers WTVB
 
 Gallatin City Council advances 6-month moratoriums on apartment and data center construction News Channel 5 Nashville
 
+### Castilla-La Mancha alega el decreto de centros de datos para rebajar requisitos en zonas calurosas - La Tribuna de Cuenca
+
+- **Jurisdictions:** unattributed
+- **Topics:** general
+- **Document stage:** news
+- **Language:** es (untranslated)
+- **Original title:** Castilla-La Mancha alega el decreto de centros de datos para rebajar requisitos en zonas calurosas - La Tribuna de Cuenca
+- **Published:** 2026-09-16T12:35:56Z
+- **Source:** La Tribuna de Cuenca — https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUnV3OFRGUXZSQXBpUUJ4d0tNR0Zkc2xJak9TbmZLaVI1elA4RlhVWnM2SzBacVdqTkZna3RoWW1uWkgzNGVwMF9nUUNlQUxESFA3bEFfckVCVERlcUF3X1d2Mmh2aHdldGhxMXFTVnNzMlM4b1NrVjRvV01keEVCRlpDaVVpajFfYXFhakRvd1VZNU5FaGVTMDJMUXV1ZTZMZHRnZTl3Sm5YRjFhLVVBWEhDOGdJS3VBcy1BTEZZeWs5aHE3aE5QN0llN253cWlRVWRmMl9NR1M1OUdjeHc?oc=5
+
+Castilla-La Mancha alega el decreto de centros de datos para rebajar requisitos en zonas calurosas La Tribuna de Cuenca
+
 ### Castilla-La Mancha alega el decreto de centros de datos para rebajar requisitos en zonas calurosas - La Tribuna de Talavera
 
 - **Jurisdictions:** unattributed
@@ -3031,6 +3750,36 @@ Data Centres, Sustainability and Supply Chain Resilience Kennedys Law LLP
 - **Source:** WDEL — https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSHU1T3QtSHAweC1FTXhyNXI4Tkp3aGs1c2Zfeng5TVRILWh4MWZ3b3hyVEhBZ1d3ZHRndkFSWmhPX1RKMm5Tck1YdEprSklPazBKUVdmTWNQVUhNZW4yaUpMWmlrRl9vR2QxT2o0STNtY3J4TmlBT3Exa3Q5UHMxTDNvUEZXX1RNQ2tTTmZPMHh2NzFNd003TVVlRndkYXVvRzBsYTJxNWM0eWhCZEpHcXYwdUVFRXMzNmh2X1BZX0dGYXoxRVBfYm9lNUJfZS1wbXhGWVZPdnFZbGFoS3JqOF9vMDNldHA0VDg4?oc=5
 
 Delaware House passes bill requiring separate utility rate for data centers WDEL
+
+### Raleigh could become the latest city to add a data center moratorium - Axios
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-09-16T07:00:00Z
+- **Source:** Axios — https://news.google.com/rss/articles/CBMirAFBVV95cUxQR3dIWWRfMWRESndOdl9DRTUyWFhRWFRKZ3JhREFDRldPaVR1V2dONUFnTnNicmg2bnNlSUZtV3lrYURCMUFibXNlNE9MR2s4Y3AzY001ZmRVSWg2N3NoMVZRS1ZaTkkycmxrbTF6UXZ3NU5vSkIyOUNRZ2ZpSHRrUENBX3ZqcVN2T1diUDB0YmdjQmJzZmFRUVpUdkUxeHNqSVB4TElWa05KSXFM?oc=5
+
+Raleigh could become the latest city to add a data center moratorium Axios
+
+### Orange County plans a moratorium on AI data centers - WUSF
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-09-16T07:00:00Z
+- **Source:** WUSF — https://news.google.com/rss/articles/CBMioAFBVV95cUxPY2ZWMGozc0Y4VDdnbWg1YWJ1eTdqWVpRWmFkN3NSb3EtVUxiSVRnRXU4Wm1GWmtheHpMYWlEMFI3VFotbERjdGY2THV4ekNDSm1PV01Gb3N4YjRsemtRYVVyX1p2LVZmdnRoRTBLd3RWby1jUzhKN1pVMVNuRHRkWnhZNjBMN3F4X3pXMFkzRlhvWU5LemNheWg1Vk1vZ3Fa?oc=5
+
+Orange County plans a moratorium on AI data centers WUSF
+
+### How to watch today's Holyrood vote on AI data centre moratorium - The National Scot
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-09-16T07:00:00Z
+- **Source:** The National Scot — https://news.google.com/rss/articles/CBMijwFBVV95cUxOWTIyNWVrcy01MkQ5Vl80VzJkQ01DTnlRTl8yVkNBOGg5U1UwSHYyS0VadllWaXk4U1pYYUhpZDB6RXJwa016NFF2TVgzZTVxRk5Gamk4MldOb3Z0bGtwRkpEMHJmWm1HdmExWUlLTklEVEV4WDY0Nk1IT1hrdTE3X1ZlZUcxUjZPcUQtZktaUQ?oc=5
+
+How to watch today's Holyrood vote on AI data centre moratorium The National Scot
 
 ### Greens urge MSPs to vote for moratorium on hyperscale data centres - The Herald
 
@@ -3291,6 +4040,16 @@ San Francisco Supervisors Push for Moratorium on New Data Centers kqed.org
 - **Source:** La Vanguardia — https://news.google.com/rss/articles/CBMizAFBVV95cUxNd3FPc1FCcHpyTVJHWHB3RGpVeEN2WXZYaGUyclFkenc5RkxGVDYxVUFfZk5jaW1uNzFCNGN6dWVEN3AzejZfUTJxNVk1b1hIRkxWWG5abFZmQV9oSml4NkIwX3V2ZllIaXpMY2NNeGhlNl9CVzNXb2MwN0w0TUVYLVotQlVScDRHb09CTTI0bFhmODZPS1RhY0c1ZktvYnUwc015Nnk1SGVaUlN4MnNtRVpHLWVHYll2ZWRaNGtrQ1dzY0M4RDBnRmNuRk_SAdIBQVVfeXFMTjdabnNSb0w3UElfVWp3T0ZVMThraHAyVndkM0hwczBzWFZQSW1oRF9MNmFFbnkzRF81bmJINUZLWlRBQ2N4SE9BVWVDZ1FoV3ZIVmIyRlZEN1p1UW1BdVJBQURBVnl0cElyY0xKRngwQTcydmxxX1YzMS1hRU56djNmam1ycS04YThJRjlzYUc3V2FGSEoyMTJUVTQ1NHktLXN5SElSOUNLUzM4dUx5bE44NF9EQUtJU1BKa3ZGaHlyVXBwSlUxeFVzZGNzTGl5V09B?oc=5
 
 Azcón, contra el decreto de los centros de datos: “Aragón no puede ser la pagana de la falta de inversión” La Vanguardia
+
+### Upper Burrell Planning Commission delays recommendation regarding data center ordinance - TribLIVE.com
+
+- **Jurisdictions:** unattributed
+- **Topics:** general
+- **Document stage:** news
+- **Published:** 2026-09-15T07:00:00Z
+- **Source:** TribLIVE.com — https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX2M0U242RmJ4d0hKX3ZubHBvblVobE9kUE83RWV5Wlg2MEJYQjZLY0J6UzExRmxSRDBmQW1CNnlFelZUVG9TX3ExVTdIbVZfZGVoSTBpSzhBbjN2SVF4dWVHX3NNYmpTOVpzRTgtV1pvaTREc21WTW50UVlhR3k5MTY0aVdWNlJLdWtqOUJ0NHZTc1hfRFVvUHBpNmNhWXQ0d2NOMmRSZGFRd1ZvRDdMdDBVRjFkVHV4dEpmaHJzUFVuOVVTVmt5VUpEbXlGQnhaY3c?oc=5
+
+Upper Burrell Planning Commission delays recommendation regarding data center ordinance TribLIVE.com
 
 ### Rambus Enhances Enterprise-Grade Security for Data Center and AI - The National Law Review
 
@@ -3609,6 +4368,18 @@ Leon County to Hold Public Hearing on 18-Month Data Center Moratorium Tallahasse
 - **Source:** Cadena SER — https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVWlBMlpmTGVFVHJ6TU5sRVV5NVItSFFrSjZHY2Y2cVRJdjE0bWVmYmhUdVB5XzR0YWQ3V2U1ZzJQNkdIRndibG1ZUWsxUUJrQlBkMFJqLVpQY0s0a3B5NmFJS3c2Q0w4Wjc0RjhKZncwdmJxWmNMa0lGREdZYmdLMk4zaHJCZkVmMjd1QnRHQlRMWmw0RlVITVNEUUlCc2s5dUFidkpNLU5FbGlYQnZqc2ppX0FnblBTdG12eGlmZnhqNmVENUNmWFJ0U09pREVRbWNleXhhelJWbnZ2NWfSAfIBQVVfeXFMT1FacHQtTlhjZ0l3aHJHaVM4XzcwUDZDRl84Zm9TNW4td19YbWtiY1dEemRJZUxMa1BySWJ2c1lXT2FzeENSWE1wTlp0VGZHdXNEUFVaRjFVZUxqQXZYTVgtYzNBZDZmTFo1QmMySDBmdTNBS1kxM2xLcWNRZWlYM0h3b3R2SmdyMWFJZnRZM0ZOallMT1lYcXJPT3hPbDRJUnNBbEZGVFk1NHhsS3JBZEpHdFcxQzJfSkhpZ196NUJjWjB6aHdSdlNvR2R4b29hNGVWS051UnBSN3lNX0poNlF6M01hRU9weXVYLTUxUkJHdkE?oc=5
 
 La patronal de los centros de datos: "La normativa propuesta equivale a su prohibición de facto" Cadena SER
+
+### La Junta de Andalucía reclama una regulación que proteja la inversión en centros de datos y refuerce la soberanía digital de Andalucía - Ciber Sur
+
+- **Jurisdictions:** unattributed
+- **Topics:** security-resilience
+- **Document stage:** news
+- **Language:** es (untranslated)
+- **Original title:** La Junta de Andalucía reclama una regulación que proteja la inversión en centros de datos y refuerce la soberanía digital de Andalucía - Ciber Sur
+- **Published:** 2026-09-11T07:00:00Z
+- **Source:** Ciber Sur — https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nZmptNW15VkZYYmJfd2RGU1BQR0dKbmx3TkV2endZbFFlODhaTUw0ZXF1MzJUV2pMSnV2cWpDRmtOT1pJbGFBYXJfUGY5b1BOZ3hSYWx3?oc=5
+
+La Junta de Andalucía reclama una regulación que proteja la inversión en centros de datos y refuerce la soberanía digital de Andalucía Ciber Sur
 
 ### Data Center Developer Files Plan With County Amid Talk Of Moratorium, UDO Revision - wizs.com
 
@@ -4628,6 +5399,16 @@ Winchester approves one-year moratorium on data centers Yahoo
 
 Campaigners brand lack of AI data centre moratorium a ‘slap in the face’ The National Scot
 
+### Prince George’s County debates data center regulations amid moratorium, public opposition - WJLA
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-09-01T07:00:00Z
+- **Source:** WJLA — https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWmJJSW9SOXFnQk42enFOMEZDTFJqYTRRY1FfeVJwUmJicnVwYXpIWWZQV3FIUWsteU5QdXpSZnJFS3RLSWFZdDB0a3hySHJaWlV6ZGtjNXc2MXZrOGdwOC1aUy1KV2hXV05mVlMydWJBZkVtRlZ3Q2RWVHpVcEFYZHJNc1BibndKOEt0LVBZWk5rb3BDN2NhbVZUemptS21UUGx4WTlFUGtmQVNzMVVVbk1YT09vY0pZUjFfb0VJUXkwQVFLSmw5a0R0eGhuUjlyOEc0MjVKUy1xdExCR0dF?oc=5
+
+Prince George’s County debates data center regulations amid moratorium, public opposition WJLA
+
 ### La régulation des centres de données soumise à consultation publique : le gouvernement espagnol accorde une semaine pour les observations. - Le Courrier d'Espagne -
 
 - **Jurisdictions:** unattributed
@@ -4723,6 +5504,16 @@ Los centros de datos advierten de que la nueva ley puede espantar hasta el 90% d
 - **Source:** 법률신문 — https://news.google.com/rss/articles/CBMibkFVX3lxTFA0Q21BWjNWMDBHeXc0LWU2SXRaLUtIM3kxeE51TVBJa2thaU9pWHdSS21wOS1pamlMN3hudUR5eVk5RjktQkFzemdrR01uWHN4dGtua0NmTDEzOTloVk9UOVZkOU5wdFBNQm4tNUxB0gFyQVVfeXFMT0c1MWZfY3RWMi1iY1FiZEU5QXBXaGxVZ01HMF9Ma05oMndUTEdsU1Z5THpUUXBYa2ViWVFLZXZRejFVaFNxUXdGRmtYOW5qSVVTcmZTSFBTVmQxS3VwNjRxSkV1TzlpcGN5bXRfY2swNGJB?oc=5
 
 규제산업 된 AI 데이터센터… 로펌 ‘블루오션’으로 떴다 법률신문
+
+### Talk on Data Center Reform Is Cheap. Our Electricity Bills Are Not. - The Equation - Union of Concerned Scientists
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-08-31T07:00:00Z
+- **Source:** The Equation - Union of Concerned Scientists — https://news.google.com/rss/articles/CBMioAFBVV95cUxOOThxS2J6NTlYVFhLUmdYbURnZWxZbU1FU1A1MHptQXpQSkhsV3c5Ym5NblFQYnhIMDNfRHJPZGtUYWxWZVVrQ0tfYXJsV0k3aEI4M3lLWWhmcTB1aUtuVDhXYmt3cG82Z3ZBTTkxTHRxN1dxTGd1N1N0OWVlQkpkWjlyUHZlVURCbV8yd0IzWXFjSmpaYVdscGllX09Gbjdx?oc=5
+
+Talk on Data Center Reform Is Cheap. Our Electricity Bills Are Not. The Equation - Union of Concerned Scientists
 
 ### Delaware Enacts Strict Clean Power Requirements for Data Centers - rtoinsider.com
 
@@ -5385,7 +6176,17 @@ Obligation de récupération de chaleur fatale des data center Hellio
 Roundtable #37: Ground Truth: AI Data Centers and the Environmental Cost of Federal Inaction Columbia Undergraduate Law Review
 
 
-## United Kingdom (17 items)
+## United Kingdom (18 items)
+
+### Data Center Legislation Spreads Across US States as Bipartisan Backlash Deepens - lawnews.co.uk
+
+- **Jurisdictions:** United Kingdom
+- **Topics:** general
+- **Document stage:** news
+- **Published:** 2026-09-25T17:07:22Z
+- **Source:** lawnews.co.uk — https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS21aWEl3VnVrWXZiOE1LbUgxRXBLdFBXZ05ER1FrS2ZXNzBKQ05KR3c1ekotYjh3eHB5VWRTdllsd2JnQzh0M2dNVUUwX0Y4QTExX29Fa2VkVTlOMWdIOXdkQ2pCNUpSYXNnWjdJc2xWQ0gzMjFFcDhEbVFWSWJ4dThBc0E2MHByUUNTS1ZJbWRoSVF1S1FibkJvb1pRd0NqbGNmSktmOWxsVlB5ODVIamY0UlpKWXhk?oc=5
+
+Data Center Legislation Spreads Across US States as Bipartisan Backlash Deepens lawnews.co.uk
 
 ### Australia’s data center guidelines lay the platform for new good grid citizens
 
@@ -5620,7 +6421,124 @@ Government and Defense Data Center Asset Management Market to Reach $549.46 Bill
 Q&A: Why data centre cybersecurity can’t wait for new UK legislation Intelligent CISO
 
 
-## United States (41 items)
+## United States (49 items)
+
+### Sponsored: Sustainable data center backup power is a strategy, not a battery chemistry
+
+- **Jurisdictions:** European Union, United States, Ireland, India
+- **Topics:** security-resilience, sustainability
+- **Document stage:** news
+- **Published:** 2026-09-26T15:00:00Z
+- **Source:** www.datacenterdynamics.com — https://www.datacenterdynamics.com/en/opinions/sustainable-data-center-backup-power-is-a-strategy-not-a-battery-chemistry/
+
+Data centers continue to walk the tightrope of meeting burgeoning power demands, while also fulfilling sustainability aims and obligations
+
+<details><summary>Full text</summary>
+
+John Gagge is vice president of business development, network and infrastructure solutions at EnerSys
+Data centers continue to walk the tightrope of meeting burgeoning power demands, while also fulfilling sustainability aims and obligations
+The International Energy Agency (IEA) notes that global data center electricity demand grew by 17 percent in 2025 , while consumption from data centers serving AI applications grew 50 percent in the same period.
+Meanwhile, governments at international, national, and regional levels continue to tighten sustainability obligations on the industry.
+Two of the most pertinent recent examples come from the European Union (EU). In Ireland, data centers with connections of 10 MVA or more must provide matching dispatchable generation or storage and source 80 percent of their annual electricity demand from new renewable generation within the country.
+Across the whole of the EU, data centers exceeding 500kW in total capacity must report annually on energy efficiency, water consumption, renewable energy, and waste heat reuse – supporting the EU’s new sustainability rating framework .
+As workload profiles diversify, specifying a UPS energy storage system should become increasingly workload-led; AI training, AI inference, high-performance compute (HPC), cloud, storage, and enterprise applications all have different workload profiles and meeting the backup power requirements of each application requires tailored UPS energy storage systems.
+Backup power – including UPS energy storage – should be a key component of any data center’s sustainability strategy. However, a workload-led UPS energy storage strategy should shape sustainability strategy – not the other way around.
+In other words, rather than fixate on factors like battery chemistry, data centers should focus on how to appropriately address the sustainability challenges of their site’s workload profile.
+AI growth is accelerating data center power demand, but the increasingly common label of ‘AI data center’ conceals significant differences between different AI applications. Training involves processing large datasets to build or refine an AI model, while inference uses a trained model to respond to real-world requests.
+These applications create distinct power profiles. Training can involve synchronized power draw across large GPU clusters, with demand fluctuating within milliseconds. Inference is generally more distributed and user-driven, creating bursts of activity across individual servers as requests rise and fall.
+The distinction will become increasingly important. JLL forecasts that “AI workloads could represent 50 percent of all data center capacity by 2030,” up from approximately 25 percent in 2025. It also identifies 2027 as a potential inflection point when inference could overtake training as the dominant AI requirement.
+The differences between non-AI workload profiles will also remain important, given that non-AI applications could still make up half of all demand by 2030. Cloud platforms, storage environments, and enterprise systems will continue to present different combinations of latency sensitivity, utilization patterns, data availability requirements, and power stability.
+Traditionally, UPS batteries have operated primarily as reserve assets, providing immediate ride-through following a loss of grid power. AI training introduces a different challenge: electrical demand can change at enormous scale and exceptional speed.
+Training clusters coordinate thousands of GPUs, causing substantial portions of the load to rise and fall together. Transitions between active computation and checkpointing can occur in milliseconds. The North American Electric Reliability Corporation (NERC) describes one 50MW block of a 200MW training facility in which demand changed sharply over approximately 250 milliseconds , alongside continuing fluctuations during the training run. These characteristics place different demands on electrical infrastructure than the comparatively stable profiles of conventional data centers.
+Consequently, some UPS energy storage systems may need to contribute to load smoothing during normal operation, rather than only remaining passive until an outage. This is not simply a matter of increasing battery capacity. It may require an architecture capable of rapid response, high-power discharge, and more frequent cycling. Lithium-ion systems are receiving attention for these applications.
+Battery research defines energy efficiency as the ratio between discharged energy and the energy required for charging. Efficiency changes with operating conditions, including temperature, discharge current, and cut-off voltage, and can decline as a battery ages.
+Regular cycling also makes energy efficiency a more significant sustainability consideration. Every charge-discharge cycle loses some energy, so the battery must draw more electricity than it subsequently returns.
+When cycling is infrequent – such as in systems used primarily for reserve power – these losses may represent a relatively small part of lifetime energy use. However, when storage repeatedly and regularly absorbs and releases power to manage workload fluctuations – such as in the case of dynamic data center workloads – even modest inefficiencies can accumulate, increasing grid consumption and associated Scope 2 emissions.
+The sustainability question is therefore not simply whether lithium-ion is used, but how efficiently the complete system will cycle under the workload’s actual power profile throughout its service life.
+For many data center workloads, UPS energy storage still serves primarily as reserve power.
+Even among AI applications, Microsoft research found that although individual servers in AI inference data centers can experience sharp peaks, demand becomes less extreme when aggregated across a cluster, leaving substantially more power headroom than AI training. For many inference environments, UPS energy storage may therefore retain its established role: providing immediate reserve power during an outage rather than routinely supporting workload fluctuations.
+A similar principle applies across many non-AI environments, including cloud, storage, and enterprise. Their demand may vary considerably, but it is not generally characterized by the coordinated, cluster-wide GPU power swings associated with large training jobs. Where power demand remains manageable at system level, the priority is reliable standby capacity rather than frequent battery cycling.
+However, waiting in reserve does not mean there are no sustainability-related challenges. Lead-acid batteries – still used in a lot of data center reserve power applications – are typically maintained on float charge , meaning a continuous low-level charging voltage is applied to keep them fully charged and ready for use. Because some energy is lost during this process, less-efficient systems require more electricity to maintain readiness. Across a large UPS energy storage installation, these ongoing losses can increase facility electricity consumption and could contribute to Scope 2 emissions.
+Some sustainability considerations will continue to apply regardless of workload profile.
+One is energy density: a more energy-dense system may provide the required backup capacity within a smaller footprint, potentially reducing the quantity of racks, enclosures, cabling, and structural materials required. This can improve overall resource efficiency, particularly where space is constrained. Moreover, greater energy density can reduce the amount of energy required for cooling demand, potentially helping reduce Scope 2 emissions.
+Sustainability must also extend beyond operation to the battery’s full lifecycle. The IEA estimates that scaling up critical-mineral recycling could reduce the need for new mining supply by 25 percent to 40 percent by mid-century. It also reports that recycled critical minerals generate, on average, 80 percent fewer greenhouse-gas emissions than primary materials from mining.
+Lifecycle responsibility is increasingly becoming a regulatory requirement. The EU Batteries Regulation addresses batteries from material sourcing and carbon footprint through to collection, recycling, and material recovery, including industrial batteries used in energy infrastructure.
+As a major battery user, the data center industry must therefore plan for traceability, responsible removal, and recycling from the procurement stage, rather than treating end-of-life management as an afterthought.
+As data center power demands continue to grow rapidly, the challenge for backup power infrastructure is not only the scale of demand, but also the diversification in workload profiles. The industry should take a workload-led approach to UPS energy storage – specifying the UPS energy storage system to fit the workload.
+Sustainability challenges can vary, depending on a data center’s workload profile. Dynamic workloads can bring challenges around energy efficiency during charge- and discharge cycles. Meanwhile, UPS energy storage systems used primarily for reserve power can come with energy efficiency challenges around float charging.
+The industry cannot follow a UPS energy storage strategy to fit sustainability goals. Instead, data centers should allow their workload-led UPS energy storage system to shape their sustainability strategy.
+EnerSys remains committed not only to guiding the industry towards the most effective backup power strategies, but also to helping data centers tackle sustainability challenges, regardless of workload profile.
+The differences between power-dense training and low-latency distributed inference show why the AI era calls for workload-led UPS battery selection
+The new offering helps data centers control dynamic changes in power demands, including AI-driven workloads
+Advanced battery technology from EnerSys has not only helped the Milan data center overcome critical operational hurdles, but also positioned it for long-term sustainability and resilience
+
+</details>
+
+### ICYMI: Billionaire Data Center Investor Vivek Ramaswamy Ignores Ohioans’ Calls for Data Center Moratorium - Dr. Amy Acton for Governor
+
+- **Jurisdictions:** United States
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-09-25T17:52:28Z
+- **Source:** Dr. Amy Acton for Governor — https://news.google.com/rss/articles/CBMizgFBVV95cUxObnpaWlI2OHlBbWVxU0lHeS1mSXA2X1JiRjhvcVpabmZ2UEctWDdlTUl0UmNsWVY4NmpmMWwwaWxLY0ExWmpjMjJLRzdaMHkxdUNpeDFJX3RZV19TQUlEcW53N2FQakFuSUJLM0ZhWkZmNVphTXlCYU9MZl9WYnExOG1ZeTEyYktrcV9fbTJPVENhUUt6UDlHaC1McVlNb0w2Z0hNLXJSZnd5TTFoUFB5NDl1bFZINEtkeVVLbjhGUXNfdlFCT2NUNWpjblR6Zw?oc=5
+
+ICYMI: Billionaire Data Center Investor Vivek Ramaswamy Ignores Ohioans’ Calls for Data Center Moratorium Dr. Amy Acton for Governor
+
+### Fair markets, trusted allies: Why Korea's cloud rules matter for AI leadership
+
+- **Jurisdictions:** United States, India, South Korea
+- **Topics:** security-resilience
+- **Document stage:** guidance
+- **Published:** 2026-09-25T14:00:39Z
+- **Source:** www.datacenterdynamics.com — https://www.datacenterdynamics.com/en/opinions/fair-markets-trusted-allies-why-koreas-cloud-rules-matter-for-ai-leadership/
+
+Will Korea's revisions to its cloud security framework work for the US?
+
+<details><summary>Full text</summary>
+
+Rep. Carol Miller is Congresswoman for West Virginia's 1st Congressional District
+Will Korea's revisions to its cloud security framework work for the US?
+The alliance between the United States and the Republic of Korea has been one of the most successful partnerships of the modern era. Built on shared sacrifice and common values, it has evolved into a cornerstone of economic growth, technological innovation, and regional security.
+Today, as South Korea considers revisions to its cloud security framework, it faces a decision with implications far beyond technology policy. It will signal whether South Korea intends to uphold its commitments to fair competition, open markets, and technological cooperation with its closest ally. It will also demonstrate whether the South Korean government is serious about leveraging best-in-class technologies to make the country a top-three global leader in AI.
+The issue centers on whether South Korea's National Intelligence Service (NIS) will impose physical separation requirements as part of its revised cloud security guidelines. It is anticipated that NIS will designate most of South Korea’s government data in the “sensitive tier” – even when it does not contain confidential or top-secret data – and require that cloud service providers physically isolate it. While presented as a cybersecurity measure, such requirements would effectively prevent many leading American cloud service providers from servicing significant segments of Korea's public-sector cloud market.
+Such a move would be inconsistent with the spirit – and potentially the obligations – of the trade commitments Korea has made to the United States over the past two decades.
+For years, the United States and South Korea have worked to build a rules-based economic partnership grounded in transparency, fairness, and non-discrimination. These principles are embedded in the Korea-US Free Trade Agreement (KORUS FTA), one of the most comprehensive and ambitious trade agreements either country has ever negotiated.
+At its core, KORUS was designed to ensure that American and Korean companies compete on a level playing field. The agreement sought to eliminate barriers to trade, increase transparency in regulatory processes, and prevent measures that unnecessarily restrict market access.
+Likewise, both the United States and South Korea are parties to the World Trade Organization's Government Procurement Agreement (GPA), which is founded on the principles of non-discrimination, national treatment, transparency, and open competition in government purchasing.
+The objective of these commitments is straightforward: governments should not use technical requirements or regulatory processes to favor domestic firms or disadvantage foreign competitors absent a compelling and demonstrable necessity.
+Physical separation requirements raise precisely those concerns.
+By mandating infrastructure architectures that differ from globally accepted cloud computing models, such requirements would impose significant costs on foreign providers while offering questionable additional security benefits. The practical effect would be to increase costs for Korean government agencies, restrict access to world-class cloud services, and, critically, impede the Korean government’s ability to innovate as it is scaling its vision for AI.
+Cloud is the foundational technology for AI, and having the best-in-class cloud service is essential to building out the AI capabilities that run on top of the platform. As President Lee Jae-myung executes his vision for making South Korea one of the top three AI powerhouses in the world and driving a government-wide AI transformation, giving the South Korean government access to global cloud services options is essential.
+However, American companies would be excluded not because they lack secure technology, but because the rules themselves would make participation economically or operationally impossible.
+Nor is it consistent with the future our two countries committed to – and are continuing to commit to – build together.
+In 2025, the United States and South Korea launched a new chapter in bilateral cooperation through the US-ROK Technology Partnership, recognizing that emerging technologies—including artificial intelligence, cloud computing, semiconductors, advanced communications, and cybersecurity—will define economic competitiveness and national security for decades to come. South Korea also committed that U.S. companies would not be discriminated against and would not face unnecessary barriers in terms of laws and policies concerning digital services.
+The premise of that partnership was clear: trusted allies should deepen cooperation, reduce barriers to innovation, strengthen supply chain resilience, and ensure that democratic nations lead the development of critical technologies.
+The United States welcomed that vision because it reflected a shared understanding that technology policy is now economic policy and national security policy.
+Yet it is difficult to reconcile that vision with regulations that would effectively exclude many of the world's most advanced cloud providers from Korea's public sector market.
+If the United States and Korea are serious about working in lockstep on economic and national security interests through building a trusted technology ecosystem, then trusted providers from allied nations should be evaluated based on their security capabilities, performance, resilience, and compliance – not on whether they conform to infrastructure requirements that are increasingly out of step with international best practices.
+The decisions Korea makes today will be closely watched by policymakers, investors, and technology companies throughout the United States. They will shape perceptions about Korea's commitment to market openness, regulatory transparency, and fair treatment of foreign firms.
+They will also influence the broader conversation in Washington about economic reciprocity with our trading partners.
+Congress has consistently supported a strong US-ROK alliance. We have welcomed hundreds of billions of dollars in Korean investment into American communities. Korean companies are helping build semiconductor plants, battery facilities, electric vehicle supply chains, advanced manufacturing centers, and shipbuilding capabilities across the United States.
+These investments have strengthened bipartisan support for our economic relationship because Americans see tangible evidence that the partnership benefits both countries.
+Just as the United States welcomes Korean companies to compete and invest in our market, American companies should be afforded a fair opportunity to compete in Korea's market under transparent and non-discriminatory rules.
+This is not a request for special treatment. It is a request for equal treatment.
+South Korea has earned a global reputation as a leader in innovation and technology. It can reinforce that reputation by adopting cloud security standards that are risk-based, technology-neutral, and aligned with international best practices. Such an approach would protect national security while promoting competition, innovation, and economic growth.
+More importantly, it would demonstrate that Korea remains committed to the principles that have guided our economic partnership for decades.
+The United States and South Korea have repeatedly declared that our alliance must evolve to meet the challenges of the digital age. That goal requires more than speeches and joint statements. It requires policies that reflect our shared commitment to openness, fairness, and cooperation.
+As Korea finalizes its cloud security framework, I urge its leaders to uphold the commitments embodied in KORUS, respect the principles of the WTO Government Procurement Agreement, and advance the vision established under the US-ROK Technology Partnership.
+The future of our alliance depends not only on the promises we make, but on the commitments we keep.
+
+</details>
+
+### Texas Freezes Data Center Permits Until Grid Audit Ends - Parametric Architecture
+
+- **Jurisdictions:** United States
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-09-25T13:00:00Z
+- **Source:** Parametric Architecture — https://news.google.com/rss/articles/CBMifEFVX3lxTE1jT2V2LVRLYmxnN3QtT1BzbjVlelJtRkxUc1pQNUFCZnFYR2lxRlp6SUxITk5jb0k0bWdUTVJGRzcwdU9tOXZLWkJRbGRjbkMzUjFHNm0zNDc3NmNyWkZUeHRjWF9Lc01KdkNZSFd2Y25BTHp5OUh3REs1WUg?oc=5
+
+Texas Freezes Data Center Permits Until Grid Audit Ends Parametric Architecture
 
 ### Gov. Spanberger Moves to Rein In Virginia’s Data Center Boom Without a Moratorium - Broadband Breakfast
 
@@ -5631,6 +6549,16 @@ Q&A: Why data centre cybersecurity can’t wait for new UK legislation Intellige
 - **Source:** Broadband Breakfast — https://news.google.com/rss/articles/CBMisAFBVV95cUxNemp6eWE0ZHVJVHhwYmtjMUZHRTE4UE9FaTZ3SlZYWDVNcmgzTDlfRi1MYklJdlpENlFBTVBJN2syWFFHWnQ3cllTNUZwcHd6V2NBUHNJRFJuMUl3Zkd0ZnN1RkR4SGtROTljNmdqOTBkcFBQVEtaX2JoZlcxSUU4RkpLdkJ0T0JtdTkzeGRFWWliOWItUGlWd1M3YW1aRW5veGo0bERvMHByWmJXYW9WQw?oc=5
 
 Gov. Spanberger Moves to Rein In Virginia’s Data Center Boom Without a Moratorium Broadband Breakfast
+
+### California data center regulations — Newsom Reverses Course with 7 New Laws - The Korea Daily
+
+- **Jurisdictions:** United States
+- **Topics:** general
+- **Document stage:** news
+- **Published:** 2026-09-23T22:24:33Z
+- **Source:** The Korea Daily — https://news.google.com/rss/articles/CBMibkFVX3lxTE1jb2JNWFVJZmJwUEVLVS16RHdxSnJnM2ROSmdpNU9nOTBDVFhweVhhc0ZmVXEyekQ1X1hTX1VLVjJCTmhHLU84Sk4tVlVDUEFYT052STNHSHJUU2NTcDRUYmNkcVhiS3lsUU94WHZn?oc=5
+
+California data center regulations — Newsom Reverses Course with 7 New Laws The Korea Daily
 
 ### March starting in Alexandria to rally for Virginia data center moratorium - ALXnow
 
@@ -5651,6 +6579,16 @@ March starting in Alexandria to rally for Virginia data center moratorium ALXnow
 - **Source:** The National Law Review — https://news.google.com/rss/articles/CBMiswFBVV95cUxOYXdXbzN5Mlg5aXpNZUtlLTVicTBqalQ0Ym1yTVBXS1lUbHZHYUhzcE13VFFzUjhHa1RlQ3lTc2I0VVZ3QnlYWk8wMXRmb0hVd2hUb2loT0ZmTjZWb25nNXFGMHp0dml2SkhkWElxWlQyZll2aEFUWkpTVmY1NnJGeDZfdmZJZGFtYWRCTk00emNjeGxFeDBoS01Qekpzdi1wZDl2dlhPbUVGOHR6V3FJRXp2QdIBuAFBVV95cUxNM0VacnhOaF9NY3M4QjRaM2VpU04wYWJpZ3JIX21ta0tzeEFhbElKb3M2anJrWWk3Sm9KZndxT2ExRzZMNjYtcGNVZVlSUkxEREl1bTZrRDliejF1b1FESXBjZlRtTVpoaVc0Mk81V0ZKZVN5N3FIZkdBRW0yVzJJZWtSS214V3V0blo2YXpwVDdvR1pmZnVjdWtaZzdGOUtnZGpRcTJGWWJ1NGpzamotZkxtYU45NlZ5?oc=5
 
 Virginia Executive Order 22 Sets New Requirements for Data Center Development and AI Governance The National Law Review
+
+### California tightens oversight of data center energy use, grid costs - Utility Dive
+
+- **Jurisdictions:** United States
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-09-22T21:56:35Z
+- **Source:** Utility Dive — https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRVVuS3V0SFhtbHVqUU1samhGb2U3ajhpUXgxSlVNYXhoaklJdjEzMXBpSm0zTDlhdkE2MVhqck12RDhSOURWdTdkRHhPcWNMVWUyZFE5dXRwdkx0OFctSGRWTERmRXJSeFJzOWtiQklyS3lHVFRtbjZXNG40bXdsS3JTNW9ockM0ZmZ3bVhPc2FvZ3F0UGVrX19TWXRWTl9QaU9ObVR6RDV1T2c?oc=5
+
+California tightens oversight of data center energy use, grid costs Utility Dive
 
 ### Gov. Abbott directs TCEQ to halt data center permits; Texas adopts rules for grid connections - KVUE
 
@@ -5693,6 +6631,16 @@ Gavin Newsom Signs Seven California Data Centre Laws Covering Power, Water and L
 - **Source:** 조선일보 — https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTEhNcTAtU2ZjY293b3U1Z0t6Yk82RFVvOHp0NmNQQVQ1RXRUbklVWnJ1blVSb2tRXzgzaC1pVkU3NDlhakJPTE1JZVJoS3o5NVNndWJLWGFCWEJNS1JteEJFOWVfbkpUcU5maVZOM1ZlUkJJNUNvOHhza0JnS3BaMWxWV2hNd3g2?oc=5
 
 Texas Halts AI Data Center Permits, California Mandates Disclosures 조선일보
+
+### Texas Halts All New Data Center Permits, Putting Brakes on AI Infrastructure Expansion - finance.biggo.com
+
+- **Jurisdictions:** United States
+- **Topics:** general
+- **Document stage:** news
+- **Published:** 2026-09-22T00:55:00Z
+- **Source:** finance.biggo.com — https://news.google.com/rss/articles/CBMidkFVX3lxTFAtbGRYaE1aeWNWOUl0eVA3c29ncTdvMHpyVTNuUDVJTWdxMUFqWkZ1eWFNalN6NXZIRWVESkJlVElpNDRnb0ZIY1V6MVdGSVN5UHZ0ZmgzaXpZN3VoRmpXeUR3Tmc1OU5aWjdlOWtMTUdSa2U2akE?oc=5
+
+Texas Halts All New Data Center Permits, Putting Brakes on AI Infrastructure Expansion finance.biggo.com
 
 ### California Enacts Seven Data Center Laws Covering Electricity, Water And Land Use - Pulse 2.0
 
@@ -5850,6 +6798,16 @@ Ohio now has over 125 active moratoriums on data centers. See where they are. Oh
 - **Source:** waterworld.com — https://news.google.com/rss/articles/CBMizgFBVV95cUxPb3VqZlJWcl8zeG5OQm02cXNPR05HY2FDSGV5alFwY3pnQ0IwYlN2QXJ2YWtJNFZKbGVtR0pQdzNVN2gyU3A2TkxDWFRrRGV4MENEc1dBWVF2eXlKb0JNOEF4cHI2UXA5WnJpVElIVXBCQWZ1eEFMYy1HWmhITGlnNVBHRDZpbkZJMy13eXJhc0h1X0N2RExDdnFRdmRUVkxiMl9RRlNWMWkyN1JRTEhqUWRQRnRFZWoyVzJweHVwV1FSeWpCNm5nTWVYRVBzQQ?oc=5
 
 Texas governor directs water board to enforce data center reporting requirements waterworld.com
+
+### MSPs reject moratorium on data centres as minister vows new guidance in weeks - uk.news.yahoo.com
+
+- **Jurisdictions:** United States
+- **Topics:** sustainability
+- **Document stage:** guidance
+- **Published:** 2026-09-17T07:00:00Z
+- **Source:** uk.news.yahoo.com — https://news.google.com/rss/articles/CBMiggFBVV95cUxQUE53cWx0NEdVQXRyNFppRkQzSWZzNnRkSFAwRTlXNTRCbV9td053NENLQ3FCSGZwXzdrSnByUnBmVXpFVlB3VEx2b05CcGtPeEdHbEFrQXhzWlV5Xzk4ckZtM1NMTzhPczZBM0w1OEZwY0NITkJEOHc0T0xuUDdzZHRB?oc=5
+
+MSPs reject moratorium on data centres as minister vows new guidance in weeks uk.news.yahoo.com
 
 ### Scotland's parliament backs defacto, temporary, moratorium on new hyperscale data centers
 
