@@ -1,7 +1,7 @@
 # Data Center & Cloud Services Regulatory Corpus
 
-Generated: 2026-10-01T11:55:23Z  
-Articles: 633  
+Generated: 2026-10-05T12:48:32Z  
+Articles: 689  
 Scope: regulatory requirements for security & resilience and sustainability of data centers and cloud services, worldwide.
 
 Each item carries structured metadata (jurisdiction, topics, document stage, date, source) so an LLM can compare this corpus against other policy documents.
@@ -232,7 +232,17 @@ Denmark Publishes Emergency Grid Law That Puts Data Centers Last Bloomberg.com
 Denmark Publishes Emergency Grid Law That Puts Data Centers Last Energy Connects
 
 
-## European Union (10 items)
+## European Union (12 items)
+
+### European Commission Advances Data Center Sustainability Ratings and Consults on Minimum Performance Standards - JDSupra
+
+- **Jurisdictions:** European Union
+- **Topics:** sustainability
+- **Document stage:** guidance
+- **Published:** 2026-10-01T17:27:31Z
+- **Source:** JDSupra — https://news.google.com/rss/articles/CBMiggFBVV95cUxOX0h6bThvaWo0UUhxVXBkbGVyY05DQkFjVldkSkVkSjY0WndMMTRGLWRwZG5HZUM4UFFzNDdHcllUU0hQeEx6MXJWWG5wc25BNVV1TFM4WmtrVEpKWHA0MDZ3blJKUXhIbmoyb3N3empOWmdWRzNlTlE3LXB3ajBSeUFn?oc=5
+
+European Commission Advances Data Center Sustainability Ratings and Consults on Minimum Performance Standards JDSupra
 
 ### EU accused of hiding environmental impact of data centers - politico.eu
 
@@ -367,6 +377,18 @@ The EU has set out a plan to limit the environmental impact of data centres Eune
 
 Brussels links the growth of data centers to their impact on the electrical grid Demócrata
 
+### La gobernadora Abigail Spanberger anuncia el plan de regulación más agresivo para los centros de datos de Virginia - EcoPortal.net
+
+- **Jurisdictions:** European Union, United States
+- **Topics:** security-resilience
+- **Document stage:** news
+- **Language:** es (untranslated)
+- **Original title:** La gobernadora Abigail Spanberger anuncia el plan de regulación más agresivo para los centros de datos de Virginia - EcoPortal.net
+- **Published:** 2026-09-18T16:25:42Z
+- **Source:** EcoPortal.net — https://news.google.com/rss/articles/CBMieEFVX3lxTFB6RDV5dGFSRDk5WTFYWk1NMWpNMFJOUFRES3p1LUtGYm52VGJHX1JoMjZvRW5OOGZ3ZWcxc1llT0FxT0ZiNU5uZ0ZkaVRPRElzWFo0WDFtRXJlbkw5S1pob0JQUE9BZlB5NjlOdEJHQmxTeVA5Q1RHcw?oc=5
+
+La gobernadora Abigail Spanberger anuncia el plan de regulación más agresivo para los centros de datos de Virginia EcoPortal.net
+
 ### Rechenzentren als kritische Infrastruktur: Pflichten nach NIS2 und KRITIS-Dachgesetz - Anwalt.de
 
 - **Jurisdictions:** European Union
@@ -436,7 +458,130 @@ Want more Data Center Knowledge stories in your Google search results?
 EU bereitet Mindeststandards für die Energieeffizienz von Rechenzentren vor pv magazine Deutschland
 
 
-## India (18 items)
+## India (22 items)
+
+### Indian enterprises struggle with AI access enforcement despite high policy adoption - ET Datacenters
+
+- **Jurisdictions:** India
+- **Topics:** general
+- **Document stage:** news
+- **Published:** 2026-10-05T06:01:03Z
+- **Source:** ET Datacenters — https://news.google.com/rss/articles/CBMiswJBVV95cUxQanhOYTlqVklsZVV1R3Y0amo3TWZod3RPYVRBSERRUm1ZcHcxTVRJTW1IZk8zTllyTnpsZzZ1Q1J6eFEzcWVzYXhPTllKSzlvd3VXTldGWVlIUnpuT3V2cWo4QzV5NmdVZXB0QVJDZU5SMjJ6SDN6cGVLYlROZ24xR1dVQnNXZWVBNXE5eW5qNWVpMTktRGJmVXRrV1N6U3JBUUZSVFFfczNhWVVTY0FUTHlnRUlwU184eGNpY0d4akp5dlFUOU11c2ZWaUxYd3RteWg5SnJNdVZtY0NnS2JxUWxVVVc1WTNIWlhhSk9JSlBmUGhkWFBCV2dyUUo2aTBGRGR0VTJDU21UZWV4ckE2eWc3eVM5TWhaamQ1WncxcUZEcURmazdSYWFaQjNVME03Z0lz0gGCAkFVX3lxTE5OM1dmd1RWMjk1Zlg4b0o0b1RoRHFMN2JBcERlT2c1a1NTeU9OSzV1RGFxWFd5a1g4R3F1R1BOY29vVWxScEsybzhWamtKX1NNTmt4MS05am42MThacWNnOG5YckUyY1l0YUxiRFhUdGJ0aUNCTExhWVcxUElFdGNGVUV1enEyTGhKMk91WU44b3FuZXdISEhKUWlRdF9Ed3R0eG1Zb2V2SG9LRDVVQjlvVTIwZGRJNlpTVHRZbjg3R2VRWnU2VkYtY2dMWGh3UWpxMVVoS1pxcnZrRUxzVm01VVBvUzVYUGdpbUVWcjlVelV1M0NrYklwVGZNa3M0WWI2dw?oc=5
+
+Indian enterprises struggle with AI access enforcement despite high policy adoption ET Datacenters
+
+### America’s AI race won’t be won by hitting pause on data centers
+
+- **Jurisdictions:** United States, India
+- **Topics:** security-resilience, sustainability
+- **Document stage:** draft
+- **Published:** 2026-10-04T14:26:00Z
+- **Source:** www.datacenterdynamics.com — https://www.datacenterdynamics.com/en/opinions/americas-ai-race-wont-be-won-by-hitting-pause-on-cata-centers/
+
+A moratorium mistake
+
+<details><summary>Full text</summary>
+
+The biggest threat to America's AI future is not a lack of innovation. It is the mistaken belief that slowing infrastructure somehow creates better infrastructure.
+Data center growth is outstripping the regulations designed to control it. Lawmakers are fighting
+Policymakers around the country are increasingly acting to put the brakes on data center development without weighing all of the alternatives that could allow the United States to keep its global competitive advantage. Just recently, New York governor Kathy Hochul signed an executive order imposing the nation's first statewide moratorium on new hyperscale data centers while state regulators develop a new framework governing how large facilities connect to and pay for energy infrastructure.
+Similar actions are unfolding nationwide, from temporary local bans and permitting pauses to broader legislative efforts aimed at slowing growth. New restrictions and moratorium proposals continue to emerge across the country, reflecting growing concerns about grid capacity, power costs, and community impacts.
+Concerns about the impact data centers may have on the environment and the electric grid are not misplaced. Communities are right to ask hard questions about energy consumption, environmental impact, land use, and quality of life. In many regions, the grid is already under stress, and the scale of new infrastructure can feel disruptive.
+Policymakers are increasingly focused on ensuring that residents and businesses are not asked to bear the costs of infrastructure needed to support rapidly growing computing demand. That concern deserves serious consideration.
+What is less visible is how quickly the industry is adapting in response and what’s at stake if moratoriums are enacted.
+Data center developers and energy providers are not standing still. They are moving beyond the traditional assumption that every megawatt must come from the electric grid. Across the industry, developers are exploring and implementing behind-the-meter distributed power generation, including fuel cells, alongside hybrid configurations such as battery energy storage systems (BESS), that reduce dependence on constrained transmission infrastructure while improving reliability and accelerating deployment. These approaches can also help ensure that new loads are supported without shifting infrastructure costs onto other ratepayers.
+They are redesigning campuses to reduce land use and selecting technologies that limit, if not eliminate, water use. They are engaging communities earlier and incorporating feedback on traffic, noise, aesthetics, and environmental impact, while offering technologies to address concerns.
+Fuel cells are one example, producing electricity without combustion and with substantially lower emissions, noise, and water use than conventional combustion-based generation. They also are much quieter than combustion power systems. Other approaches include co-located generation, microgrids, and emerging technologies involving hydrogen and carbon capture. But adaptation takes time.
+Data centers and the energy systems that support them require years of planning, permitting, financing, construction, and infrastructure development.
+Moratoriums are often framed as temporary pauses to study impacts and develop better solutions. At first glance, that approach may seem reasonable. The risk is that abrupt pauses interrupt the very process through which better solutions are emerging. Projects that were being redesigned to address local concerns are halted. Investment is redirected elsewhere.
+When development pauses in one region, it rarely disappears. It moves.
+We are already seeing developers pursue opportunities in states that offer more predictable permitting pathways and clearer access to energy. Internationally, countries in the Middle East and Asia are actively aligning policy, infrastructure, and incentives to attract AI-related investment.
+History suggests this should not surprise anyone. Capital tends to flow where conditions support investment. Data center development is no different. Moratoriums do not pause demand for computing. They simply determine where that demand is met.
+And that demand is accelerating at a pace unlike any technology transition in modern history. ChatGPT reached 100 million users in just two months, a milestone that took social media platforms years to achieve. Today, artificial intelligence powers internet search, healthcare, logistics, software development, financial services and many of the digital tools millions of Americans rely on every day.
+What is at stake extends far beyond any single project or community. The United States is building the physical infrastructure that will underpin the AI economy for decades to come. These facilities are more than warehouses filled with servers. They are the factories of the digital age, producing computing power that supports scientific research, manufacturing, defense systems, cybersecurity, financial markets, and critical infrastructure.
+This is increasingly a national security issue. The countries that can build and power advanced computing infrastructure will be best positioned to lead in AI, cybersecurity, and technological innovation. As America debates whether to slow development, global competitors are moving quickly to build. At the same time, federal policymakers are seeking to accelerate deployment of AI infrastructure, creating a growing contrast between efforts to speed development and efforts to slow it.
+The debate should not be whether America builds this infrastructure, but how we build it faster, cleaner, quieter, and in partnership with host communities. The solutions are already emerging.
+Moratoriums may feel like caution. In practice, they risk becoming a pause button America cannot afford to press.
+
+</details>
+
+### Five Ways to Assess Your AI Infrastructure Readiness
+
+- **Jurisdictions:** India
+- **Topics:** security-resilience, sustainability
+- **Document stage:** news
+- **Published:** 2026-10-02T13:00:00Z
+- **Source:** www.datacenterknowledge.com — https://www.datacenterknowledge.com/ai-data-centers/five-ways-to-assess-your-ai-infrastructure-readiness
+
+AI success hinges on infrastructure. Use this five-part framework to evaluate power, cooling, security, cost strategy, and scalability.
+
+<details><summary>Full text</summary>
+
+Insight and analysis on the data center space from industry thought leaders.
+AI success hinges on infrastructure. Use this five-part framework to evaluate power, cooling, security, cost strategy, and scalability.
+Enthusiasm doesn’t run AI workloads – infrastructure does. As more organizations adopt AI, limitations in existing facilities are surfacing: insufficient power, cooling shortfalls, operational complexities, and new security risks. If these needs aren’t addressed, AI initiatives will stall, become hard to scale, or, worse, put sensitive data at risk.
+AI can enable growth and long-term competitiveness, but only when leaders honestly evaluate readiness against what’s already in place, the investment strategy, and the plan for future demand. Getting this wrong isn’t a minor setback; it’s the difference between an AI investment that delivers and one that never gets off the ground. Before committing budget, use these five steps to pinpoint where infrastructure improvements are needed.
+AI performance depends on the infrastructure behind it. Servers, storage, and networks must handle high compute density and large data flows without overheating or failing. Even capable AI systems underperform if foundational elements lag.
+Related: The Next Generation of AI Infrastructure Design Starts with Efficiency
+Consider a quality inspection use case on a production line. Cameras, storage, and compute must match the conveyor’s speed with real-time inference. If the pipeline can’t keep up, defective products slip through. The same principle applies inside the data center: a faster GPU cluster can be throttled by storage throughput, network congestion, or thermal limits.
+This requires businesses to evaluate how systems work together rather than in isolation.
+A careful examination of power capacity and cooling infrastructure is necessary to determine whether an organization’s technology infrastructure can support the heavy lifting required by AI workloads. A rack designed for 5 kW won’t serve a 20-kW AI node. Without enough power behind it, an AI rollout can stall before it even starts.
+Reliable power delivery matters just as much as capacity, and organizations must assess how much power their current environment can consistently supply and whether their cooling systems can handle the additional heat generated. Power supply and cooling must scale together to sustain continuous AI processing. A gap in either undermines the system.
+AI applications often process sensitive and proprietary data. Protecting those assets requires several layers of security, including physical security, network defenses, and access controls. A gap in any of these layers can expose the rest, putting sensitive information at risk.
+Related: Property Tax: The Value Driver that AI Data Centers Overlook
+Organizations should also assess AI-specific risks, including model manipulation and data leakage, as well as any regulatory and policy obligations for their sector. A comprehensive approach protects both the underlying infrastructure and the AI environment it supports, treating security as foundational rather than an add-on.
+Different organizations value cost predictability in different ways. Some need steady, predictable spending to manage budgets, while others prioritize agility and can accept variability. Neither approach is right or wrong; the choice depends on the organization’s infrastructure strategy and financial priorities, which in turn determine how to approach AI spending.
+Shifting cloud pricing can add uncertainty. Align finance and engineering early to avoid mismatches – organizations that require budget certainty shouldn’t be surprised by variable bills, and those that value flexibility shouldn’t overpay for guarantees they don’t need.
+Getting this alignment right from the outset means that AI spending decisions support the broader financial strategy rather than work against it. As AI adoption grows, FinOps principles help set guardrails while preserving room for innovation.
+AI workloads rarely stay static. Demand can grow as organizations expand existing applications, introduce new use cases, or experience increased usage tied to broader organizational growth. Infrastructure built for today’s workload can quickly become a constraint tomorrow.
+This requires organizations to increase processing capacity and storage while also expanding the networks and cooling systems that support them. Scalability should be part of the infrastructure design from the outset. Building that flexibility gives the organization a way to respond as its AI requirements evolve.
+AI investments depend on infrastructure that supports them from initial deployment through future growth. IT leaders can use this five-part framework to identify where their current environment falls short and prioritize the improvements needed to support their AI plans. Before committing to the next AI purchase, assess readiness and close gaps – or risk becoming the reason initiatives fail to deliver.
+Patrycja Sobera is the Senior Vice President and General Manager of the Digital Workplace Solutions business unit at Unisys. In this pivotal role, she leads high-profile teams dedicated to continual improvement and creating modern, differentiated end-user experiences that drive client breakthroughs and propel the business forward.
+Her 20+ year career includes delivering cutting-edge technology solutions across diverse industries, including banking, capital markets, and telecommunications, at organizations such as Marsh McLennan, Getronics, Computacenter, and Compaq (HP company).
+Patrycja holds a Master of Arts degree in Modern Languages and French Literature from the University of Wroclaw.
+Want more Data Center Knowledge stories in your Google search results?
+
+</details>
+
+### The Hidden Failure Domain in N+1 Data Center Cooling
+
+- **Jurisdictions:** India
+- **Topics:** security-resilience, sustainability
+- **Document stage:** news
+- **Published:** 2026-10-01T19:36:06Z
+- **Source:** www.datacenterknowledge.com — https://www.datacenterknowledge.com/cooling/the-hidden-failure-domain-in-n-1-data-center-cooling
+
+N+1 capacity can hide shared-control dependencies, turning many units into a single failure domain. Learn how to design for degraded operation and commission real resilience.
+
+<details><summary>Full text</summary>
+
+Insight and analysis on the data center space from industry thought leaders.
+N+1 capacity can hide shared-control dependencies, turning many units into a single failure domain. Learn how to design for degraded operation and commission real resilience.
+Data centers continuously convert electrical power into heat. Cooling, therefore, has to keep running. Many plants look resilient on paper: redundant pumps, computer room air handlers (CRAHs), coolant distribution units (CDUs), and power feeds. Yet those assets can still depend on a single controller, network path, or sensor. That shared layer can turn an N+1 design into one large failure domain.
+A failure domain is the part of a system that one fault can take down.
+Four pumps arranged as three duty and one standby look straightforward. If a motor fails and only that pump is lost, the domain is one unit. The spare starts and the flow continues.
+Now, assume that all four pumps receive lead-lag selection, staging, and run commands from one controller. If that controller fails and the pumps have no local fallback, a single control fault can stop all four. The machines are mechanically redundant. They are not operationally independent.
+The same pattern appears with CRAHs, chillers, and CDUs. Several units may share a supervisory controller, a network switch, a control power source, a gateway, or a critical process signal. The useful question is not only how many units are installed; it is how much of the cooling plant a single failure can disable.
+N+1 is easy to see on a mechanical schedule. If three pumps are required for design flow, install a fourth. If one cooling unit can drop out and the rest can carry the load, the plant appears robust. The equipment count does not show every dependency.
+Redundant assets may still rely on the same plant controller, switch, control power supply, or remote sensor. In a fault, the common layer decides whether the spare equipment can actually run.
+Centralized controls have a job. Plant-level logic can rotate lead equipment, optimize pressure setpoints, and coordinate chillers and pumps. The risk appears when the optimization layer also becomes essential to basic circulation.
+A supervisory controller may choose which pumps should run. Should the loss of that controller also remove the ability of healthy pumps to move water? A building management system (BMS) may issue schedules and resets. Should the loss of BMS communication stop local cooling? That behavior should be designed, not discovered during an incident.
+The issue is growing with liquid cooling . CDUs, variable-speed pumps, control valves, sensors, and leak detection add control and communication layers. Mechanical redundancy can fail due to dependencies that are never shown on the piping drawing.
+Not every control failure should produce the same response. Some conditions should trigger specific starts or stops. Others justify continued operation in a conservative fallback state. For critical cooling, losing supervisory control does not have to mean losing cooling.
+Local controllers, such as programmable logic controllers (PLCs) in pump panels or unit controllers in CRAHs, can retain sufficient autonomy to maintain basic operation when higher-level communication is unavailable. That may mean holding a local pressure setpoint, reverting to a predefined pump speed, using locally available temperature signals, or allowing manual control until supervisory functions return.
+Efficiency, optimization, and remote visibility may drop. That is still different from a plant-wide stop. This is not an argument for duplicating every PLC, sensor, and network path, which adds cost and complexity. It is an argument for listing shared dependencies and defining, in advance, what should happen when each one disappears.
+Commissioning is where installed redundancy and demonstrated redundancy part ways.
+Related: Data Center Water Use: From Efficiency Metrics to Real-World Resilience
+A conventional functional test stops the lead pump and confirms that the standby starts. That demonstrates that the spare machine functions and the normal changeover sequence works. It does not prove what happens if the mechanism that commands that sequence fails.
+Functional testing should remove the shared layer. What happens when the supervisory network is disconnected, or when a plant controller restarts? What happens when a remote differential-pressure signal becomes invalid, or when control power is lost to one panel? The goal is to confirm that the actual failure domains align with the design intent.
+A system can have two of everything and still have only one path to a critical decision. If that path has never been taken away during commissioning, the resilience on the drawings has not been proven in operation.
+N+1 remains a useful capacity principle. It is not a complete description of cooling resilience.
+A stronger review question is: What is the largest failure domain in this architecture? That question exposes common controllers, shared networks, single sensors, and other ties between otherwise redundant assets. The review question leads to two more: What continues to operate when that shared dependency is lost? Has that behavior been tested?
+A redundant cooling plant needs spare capacity. That spare capacity must also remain usable when the controls, communications, and signals that coordinate it fail to behave as expected.
+Fatih Gündoğan, M.Sc., is a control and automation engineer with extensive experience in industrial automation, motion control, and drive systems. His professional background includes engineering, technical sales, and management roles in industrial automation. His independent research interests include data center engineering, liquid cooling, critical infrastructure, and reduced-order modeling, which he explores through DataCenterGuidelines.com .
+Want more Data Center Knowledge stories in your Google search results?
+
+</details>
 
 ### Data Center On-Site Power Brings Pollution Risks Closer to Home
 
@@ -949,7 +1094,31 @@ Advanced battery technology from EnerSys has not only helped the Milan data cent
 </details>
 
 
-## Italy (2 items)
+## Italy (3 items)
+
+### IT systems in southern Italy back online after data center outage
+
+- **Jurisdictions:** United States, Italy
+- **Topics:** security-resilience, sustainability
+- **Document stage:** news
+- **Published:** 2026-10-05T11:03:00Z
+- **Source:** www.datacenterdynamics.com — https://www.datacenterdynamics.com/en/news/it-systems-in-southern-italy-back-online-after-data-center-outage/
+
+The regional government ruled out a cyberattack
+
+<details><summary>Full text</summary>
+
+IT systems in the region of Basilicata, southern Italy, have been restored following a data center failure between Sunday and Monday.
+The regional government said that the Central Reservation Center (Centro Unico di Prenotazione) serving Basilicata’s healthcare services was back online on Wednesday.
+Technicians worked for “several hours” to fix the failure at the region’s data center in Potenza, which paralyzed its main IT system, and ruled out a cyberattack.
+An investigation found the cause of the outage to be an “anomaly” in the data center’s main cooling system and the failure of the backup system to start. This caused instability in the data storage systems, resulting in the temporary unavailability of some services.
+“The initial interventions focused on the healthcare sector, the most sensitive area for the community, with the aim of fully restoring essential services,” said the regional government in a press release.
+“Based on the investigations, it was ruled out that the event was attributable to a cyberattack, nor was there any evidence of unauthorized access to systems or the theft, exfiltration, or unauthorized disclosure of personal data.”
+The outage also impacted some administrative deadlines, including scholarship and housing applications for university students, and caused the postponement of Tuesday’s Regional Council meeting, Italia 2 News reported .
+While Italy has around 200 data center facilities nationwide, these are heavily concentrated in northern and central hubs like Milan and Rome. Southern Italy's data center infrastructure is sparse, with projects emerging primarily in regions like Puglia .
+Learn more about the data center market in Italy and Southern Europe, and meet with other executives and experts from the region at the DCN Milan event next year
+
+</details>
 
 ### La Junta pide al Gobierno de España que retire el Real Decreto de centros de datos porque compromete inversiones - Europa Press
 
@@ -1297,7 +1466,103 @@ The future of our alliance depends not only on the promises we make, but on the 
 </details>
 
 
-## Spain (82 items)
+## Spain (92 items)
+
+### El Gobierno prevé aprobar este mes el nuevo real decreto para regular los centros de datos en España - El Periódico de la Energía
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** El Gobierno prevé aprobar este mes el nuevo real decreto para regular los centros de datos en España - El Periódico de la Energía
+- **Published:** 2026-10-05T09:48:34Z
+- **Source:** El Periódico de la Energía — https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSmhDVnp5YTduOFpmNmxfUUhpdmdiSlRrYW9YZ29pSnVBMFFfbENyb0FGeEdqLXVmbm52blJtVDJaYVRVMjYxT0tpSGJYaWFKLVYwRXg0a3hMS3BfVjhLS1BwbmdmRzhvYU9NUEdiRWNRcWZKNndOMnRaWXBadXEzM25wYnFkd253VmcyY0lxaFczbF9qUXNvLWxCZDZOU3BPTmhHZGRLMWM3aE95Qk9JQmNwWURlaUhjcTkxQV82aDdGWDMwYXZNR19FYm9WbGF5M1E?oc=5
+
+El Gobierno prevé aprobar este mes el nuevo real decreto para regular los centros de datos en España El Periódico de la Energía
+
+### El Gobierno prevé aprobar este mes el nuevo real decreto para regular los centros de datos en España - Energías Renovables, el periodismo de las energías limpias.
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** El Gobierno prevé aprobar este mes el nuevo real decreto para regular los centros de datos en España - Energías Renovables, el periodismo de las energías limpias.
+- **Published:** 2026-10-05T09:27:05Z
+- **Source:** Energías Renovables, el periodismo de las energías limpias. — https://news.google.com/rss/articles/CBMikgFBVV95cUxONEh5ck00QXZ1QTl5dzVrTlg1YU9LR3Frbm92WDRsM3hoODhfbXZjX0lVQ3lkQVlYX0JwakZtWlIyUWJ5YU1JU01PNGNUelEyWV9HbVllaW53bHp6TTdfcWloREMxdWl2emcyOGp1bk1MQndPZlIwMXZ2elJPalFGWEw0bVVhRmpoYnVybkVBZkF1dw?oc=5
+
+El Gobierno prevé aprobar este mes el nuevo real decreto para regular los centros de datos en España Energías Renovables, el periodismo de las energías limpias.
+
+### El Gobierno prevé aprobar este mes el nuevo real decreto para regular los centros de datos en España - Infobae
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** El Gobierno prevé aprobar este mes el nuevo real decreto para regular los centros de datos en España - Infobae
+- **Published:** 2026-10-04T11:52:56Z
+- **Source:** Infobae — https://news.google.com/rss/articles/CBMigwJBVV95cUxPSE9CM0V6S2JRVTJ0SXdLbEpEanpDZ25vRjllaVM2LXdaMUpuVG5ndzRiUHBZa05ULVZZT3Y4bDFydkFQMWNkNGxTc2FLS0lLZUNSc3h2VDBUTzU0NGw2NVVRcFBOVG1wN2w5Y2NadGQtejZCb2NPcVg3dmlkQkxLYTY0MjNmSVNpSUJuRjg0N1h2amtOVTluQWZ6VnFWbHNMaF9va0tJb1FVZmZ2VmNlVmdCLUhDX3ZrZ0dwbWNRSngtN0hmWTlReFBTQVp5dXQtSDhTb0FQZlJtWkN3b3BXRXlQN0FmRTVZLTM5YTBKdmJLOXEwU2FlWm9iT1dGc0RDNk530gGDAkFVX3lxTE9IT0IzRXpLYlFVMnRJd0tsSkRqekNnbm9GOWVpUzYtd1oxSm5Ubmd3NGJQcFlrTlQtVllPdjhsMXJ2QVAxY2Q0bFNzYUtLSUtlQ1JzeHZUMFRPNTQ0bDY1VVFwUE5UbXA3bDljY1p0ZC16NkJvY09xWDd2aWRCTEthNjQyM2ZJU2lJQm5GODQ3WHZqa05VOW5BZnpWcVZsc0xoX29rS0lvUVVmZnZWY2VWZ0ItSENfdmtnR3BtY1FKeC03SGZZOVF4UFNBWnl1dC1IOFNvQVBmUm1aQ3dvcFdFeVA3QWZFNVktMzlhMEp2Yks5cTBTYWVab2JPV0ZzREM2Tnc?oc=5
+
+El Gobierno prevé aprobar este mes el nuevo real decreto para regular los centros de datos en España Infobae
+
+### El Gobierno prevé aprobar el nuevo real decreto para regular los centros de datos en España - Revista Capital
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** El Gobierno prevé aprobar el nuevo real decreto para regular los centros de datos en España - Revista Capital
+- **Published:** 2026-10-04T11:25:46Z
+- **Source:** Revista Capital — https://news.google.com/rss/articles/CBMixgFBVV95cUxPdkl1ZHB0cm14bEFIbkhsN2FVTl8yZEpvejhBYUJqWDVVS1JsUi05UVRzREc5OWJybXdPNnFFWUEtbTlSUHBnaWJwLUNTazNxWlZhUGh1VnY1dUN2dnYtWWt4UkI4ZHRMYnVnd1RhdlNqODdpMUhpRFo1RFhLVVhzbkxsTEZSWnhYZ08wZS0yYnlXcnlRMjJwRUxBSlNnOG9vVlZaOFNTQ1pNOHNqUXptVE9YMlUzcWplbW80eHBiYkFlTzJBLUE?oc=5
+
+El Gobierno prevé aprobar el nuevo real decreto para regular los centros de datos en España Revista Capital
+
+### El Gobierno quiere dar luz verde en octubre al real decreto que ordenará los centros de datos en España - Demócrata
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** El Gobierno quiere dar luz verde en octubre al real decreto que ordenará los centros de datos en España - Demócrata
+- **Published:** 2026-10-04T11:20:46Z
+- **Source:** Demócrata — https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSE94SkhtakdTdjdlbDlhVHFaS3ltc0RWNkN3ZHRhMjU1QVBTcHB0NkFtcVhfRThWb1gwenlpOGhrUWVRRldhcF9WVXVOT2c2S3JPelNOcHMzUWRYM0V0dTNobjFWWDBOLWJHcloxSkNZX0RDeVRvOWFaeDZuT3Fpd1lTOGowWmRUOU9DTElCSW1oODI2ZU5peDhQLXhQVFU5VWJtMm5JUmlYWDRkWk5oUnZTNVVTOHZTQVUtRmQwZ3VhVmltc2F5TWlkUXUyd252VVdRQtIB2gFBVV95cUxOY2RQV2xwcTNQeDhWLWNiZ1VodGhDTmtkd2FUSEltbzhSNlpNbU5mTi1vSDFBVVNiUFlqdkZ6bEVpQndrSWRDWWJDUHJzM2tVbzNDckhIZGJwSk5Od25vUnRqaEhra3ZKWU56WlNLRXZyQmZ6MzVEejFSbkNUMkdsOUN4amYzT1EzdlAwcGlVemZZcXdoXzJIVW5sVXpDcVJ3T1hKVjNpZjMzaE5mZ0ZkTVJZZi1YMDBEcFZZbkt5Q3I5MG5JdzZBQVY3SVpsMnM1TWRXX0U1QXpXZw?oc=5
+
+El Gobierno quiere dar luz verde en octubre al real decreto que ordenará los centros de datos en España Demócrata
+
+### O Governo quer dar luz verde em outubro ao real decreto que ordenará os centros de dados na Espanha - Demócrata
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** pt (untranslated)
+- **Original title:** O Governo quer dar luz verde em outubro ao real decreto que ordenará os centros de dados na Espanha - Demócrata
+- **Published:** 2026-10-04T11:20:46Z
+- **Source:** Demócrata — https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdGwyVjNJdEdCUkR5V28xQjNENFZscXZFNEdPSmdaR2RPSTJ6cE5sMm5OTENfcE9pbEtpeHlwQ3hFdVJqZG9IaDVKWnJCeFNOSnlteE8tM0VHVnIzaGlqUlhwcUlmZGdVNnN4M25sdjlpaG8zUTlDeVkxYUtyLXR4bno0QUdpcFRMdF9aNjdHRXFlWl9iVzR1aE5SdWh4X0g3ZVc2RElvNnZ0a3E4bnh1aC0yX25tSXpxSkR3cklzY2U0OHlpa1VtSnpIUnQ5aWgyV0EtRTdVV3rSAdgBQVVfeXFMTXRsMlYzSXRHQlJEeVdvMUIzRDRWbHF2RTRHT0pnWkdkT0kyenBObDJuTkxDX3BPaWxLaXh5cEN4RXVSamRvSGg1SlpyQnhTTkp5bXhPLTNFR1ZyM2hpalJYcHFJZmRnVTZzeDNubHY5aWhvM1E5Q3lZMWFLci10eG56NEFHaXBUTHRfWjY3R0VxZVpfYlc0dWhOUnVoeF9IN2VXNkRJbzZ2dGtxOG54dWgtMl9ubUl6cUpEd3JJc2NlNDh5aWtVbUp6SFJ0OWloMldBLUU3VVd6?oc=5
+
+O Governo quer dar luz verde em outubro ao real decreto que ordenará os centros de dados na Espanha Demócrata
+
+### Villacís (SpainDC) alerte que le décret sur les centres de données impose des exigences inassumables pour les entreprises - Demócrata
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** news
+- **Language:** fr (untranslated)
+- **Original title:** Villacís (SpainDC) alerte que le décret sur les centres de données impose des exigences inassumables pour les entreprises - Demócrata
+- **Published:** 2026-10-02T11:50:42Z
+- **Source:** Demócrata — https://news.google.com/rss/articles/CBMi8wFBVV95cUxQVG9KRThONmhWX253dDFaYnVkOUFrRTlhZndwd2lVWkMtb1V4UV9sTHY2dTNZaXlsUEhEdWxISWIzQ3ZnVWlJanBtejhHSnFpcnVTVWJjRzlENlhOdmppU1ZuM2dhRmZaQkR5UG81QlB1MVJ1d1IzUm12Q1l6el9VWVNtbnpJV3AzbGVKRVZwdEphT1hrTlo2dHh1aDREcWs0X1IxX2xoRFZaTzhXcWxzWlI1cEVfSTd6VlkxcEtWS2R4MHFZM1R4eUxiZFJ5Y2djMkRrOWR3aXh3cS1yVlAyMXA1Ni16VlcxUmZtaEljRGsxeTTSAfMBQVVfeXFMUFRvSkU4TjZoVl9ud3QxWmJ1ZDlBa0U5YWZ3cHdpVVpDLW9VeFFfbEx2NnUzWWl5bFBIRHVsSEliM0N2Z1VpSWpwbXo4R0pxaXJ1U1ViY0c5RDZYTnZqaVNWbjNnYUZmWkJEeVBvNUJQdTFSdXdSM1JtdkNZenpfVVlTbW56SVdwM2xlSkVWcHRKYU9Ya05aNnR4dWg0RHFrNF9SMV9saERWWk84V3Fsc1pSNXBFX0k3elZZMXBLVktkeDBxWTNUeHlMYmRSeWNnYzJEazlkd2l4d3EtclZQMjFwNTYtelZXMVJmbWhJY0RrMXk0?oc=5
+
+Villacís (SpainDC) alerte que le décret sur les centres de données impose des exigences inassumables pour les entreprises Demócrata
+
+### Azcón alerta sobre la "amenaza" del Gobierno a los centros de datos con el real decreto: "Hace inviables proyectos ya en marcha" - El Mundo
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** Azcón alerta sobre la "amenaza" del Gobierno a los centros de datos con el real decreto: "Hace inviables proyectos ya en marcha" - El Mundo
+- **Published:** 2026-10-01T12:01:37Z
+- **Source:** El Mundo — https://news.google.com/rss/articles/CBMiekFVX3lxTE5fZkZGbHNIV2E4VUp1ZzloTWNBZFVYN2VBUEF0WE93VFA2eDZjYVBBd0tLcVBBdlo2MVYtSmFKcEdkZHZYMXpFbDd2RzhpWmd3YVlnb0g4RERKaHB2WUZTOXdCRkFxenFQTXVGZWVRaGNFYUtTTXpvNW930gF6QVVfeXFMTnJlODJjUk9Pbk1MUU1pOWV0N3hsc2szSEgwWXFGS1ZlTGRuQUpzTjZ0M2NjS1lSakFYVzM1UFhOc3Etc21YY2U0UGJ4dEM3eXlVcXF4c1ZXSkU2a2JERGRDYlVRLXMtYlNxdEFiRU82YVQzdFM4aVFzSGc?oc=5
+
+Azcón alerta sobre la "amenaza" del Gobierno a los centros de datos con el real decreto: "Hace inviables proyectos ya en marcha" El Mundo
 
 ### Azcón avisa que el decreto de centros de datos puede frenar una inversión de 13.471 millones de Blackstone - Business Insider España
 
@@ -1346,6 +1611,30 @@ Aragón da el visto bueno a los centros de datos de Blackstone bajo el "riesgo" 
 - **Source:** Europa Press — https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTlhLeEpSbmplYTV4S19SeUlNbHoyWTJvX1hrZm9aZUZvTVlJREgtME5uaktfZjFZQVd1d1hOS01tVHo4UDF0Z0NQeHBmckRURGdJOWRlOE95b2lXU0ZxY0FpUTFYVmZYb3RETnBKaV9WQzRDOFdSckJPTW04cmliMGZXeW5fRnNzT0tyVldEZFJVX1lvQmRhd1pPNkt4NklobmpfdUNhM2VxRERyd0E5aHl2elQyNzI3dkwwMVZndjEzZGpvVHJ2a1I4QTVvUGlwOG1SOWwzZUxjTGs?oc=5
 
 El Gobierno de Aragón aprueba el PIGA de Rhodes y avisa de que el Real Decreto de centros de datos lo puede frenar Europa Press
+
+### Según Morgan Stanley, gran parte de los riesgos de real decreto sobre centros de datos ya están reflejados en el precio de Merlin Properties - consejeros.es
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** Según Morgan Stanley, gran parte de los riesgos de real decreto sobre centros de datos ya están reflejados en el precio de Merlin Properties - consejeros.es
+- **Published:** 2026-09-30T08:52:00Z
+- **Source:** consejeros.es — https://news.google.com/rss/articles/CBMijgJBVV95cUxNTE5rNkt4bGNMVGZuelVZaFB1MDIyZjYwbU1ucVg5cW9ScVJlWEhPbWVSeGFjTVdFSGRrbElLeDZOOTdteHI2WVhQRGpWakVCWVhFODJLNVdDaG8wQ0JEc1RNV085aGV1MGFVYzlxSHJxT0tRRTlCUFRBeEhhdUgwSk9oSWtsaGd0LTN5VFFXTEE2SXBLVkVvWjBMNE9SZGxFQ3lxZ20wYThERWJRN0syRk8wTml5LUJEWGFtMlNsVjBncTdHcGNJN2oxeEdFTnkxUGhNODF3bG1QajE4RXdBZGtpVDVEZUdhVGZ5VGtIMC1LcjcwSl9TbzdEZHZ4SXFxUTR2cUdOZ3pOUkw0ZEE?oc=5
+
+Según Morgan Stanley, gran parte de los riesgos de real decreto sobre centros de datos ya están reflejados en el precio de Merlin Properties consejeros.es
+
+### Las alegaciones del Clúster de la Energía de Aragón al Real Decreto sobre los Centros de Datos - Aragón Play
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** Las alegaciones del Clúster de la Energía de Aragón al Real Decreto sobre los Centros de Datos - Aragón Play
+- **Published:** 2026-09-29T06:48:30Z
+- **Source:** Aragón Play — https://news.google.com/rss/articles/CBMi9wFBVV95cUxONWFySEZpbjNubzZJeEUybzhkTlNwYXZPRlNKRUZDMW96ZDFDSEVldDk5SDhaMk5TRk1TWnUzeVZxNXZtQnRrbUYzbE1OTWlabGs0SkZqeThLVDB4T1NnMnJqZGgzd1NqbHJsdkxPdkRfSTVkQy1QRFJlZERPYnBaWE9NVkNHdlYxclE0MmFQeS1ReE9jUU9lQVBPQXVoM1I0cGxZUl8xd3ZuRllrYlhGVDlwWG1HSmg1cllDR3NibW1qR0NLZ0ExYld3Ri1NWHJoaE9uelA4dUZaaUdBLVdpMDItMnUtamY3QzA2dmFBbTVWam82Vjhz?oc=5
+
+Las alegaciones del Clúster de la Energía de Aragón al Real Decreto sobre los Centros de Datos Aragón Play
 
 ### Tres Cantos, en alerta por el proyecto de Real Decreto que afecta a sus centros de datos - Cronica Norte
 
@@ -2366,7 +2655,151 @@ Prime Minister scrambles to get data centre sector back on track after energy an
 Thailand’s Cloud Security Standard Is Now in Force: What Providers and CII Operators Must Review TechRepublic
 
 
-## Unattributed (420 items)
+## Unattributed (453 items)
+
+### Mount Pleasant committee revisits data center issues as moratorium advances - WCIV
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-10-05T12:12:08Z
+- **Source:** WCIV — https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSDR2czIzN0ZpY3FKSXVqQkUydUJUS2Y5UTBkaUthQ3Rjb2djYWVGeHNCY21LcjJNdWpYakhmNUtEZ3JFMkFmMk5sM0V4SG9KMGVYUjFGNnBzWllKTHcxSXJ0RDg0TTI4by1fZGZiR21TWEpzTlBaYkVUZWYyZzd1dUZIZXctQ1FYRUNTUXJLb1EyQlc0UTRJeXdUOVlZYTBFZmhWNXQzZTJwZWx0QjNIckJSanY4X1lrQ2hRNFdOX1JjbS1FS2llRmVGNXg1Sy03d3hVb0FiaDFQVzNhMGdNbUdCaXN6X2k1UkdEMA?oc=5
+
+Mount Pleasant committee revisits data center issues as moratorium advances WCIV
+
+### York County, searching for the right experts, may extend its data center moratorium - Rock Hill Herald
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-10-05T09:30:00Z
+- **Source:** Rock Hill Herald — https://news.google.com/rss/articles/CBMickFVX3lxTE9UNWZQU1JIajR5Wldmd3dWVW1DWUNNLVVRYlVfdXNSejZvWXZJc3RmanFYNW91YlFheTFCN2U4bVBCZnRlRENKNWZONFdXdGhUYVZ2d0lCdXhkZ0d2NUtoeHJrRjV6OEFJTUt1Q0hidUhwQdIBckFVX3lxTE9HWW93NFpxQlNPem9ZT3EwUHpoZ201ZGJLTDFkN1VINjFkZld3QW13eUJMRUZIVWpLNk1WWWZtSjd4M1BGVUJ2SGtyQVNValNqRUp2UDhWOWdoZFpoV0F4WkE1NWlMWnV5M0tIUFBwblZlUQ?oc=5
+
+York County, searching for the right experts, may extend its data center moratorium Rock Hill Herald
+
+### Molalla public hearing seeks input on data center moratorium question - Woodburn Independent
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-10-04T00:41:07Z
+- **Source:** Woodburn Independent — https://news.google.com/rss/articles/CBMiswFBVV95cUxOYnNoMVZpT192Qmg1OTlIbERFN2l4emlxcGUzVzB5LWJ3XzBTZFVJN0lGTjhKNkctZWF6MnNmY25ZekpnNFllOW1GZzIwLTAtZ294Z0RPRDFIbWFPQm1Waml1ZVR4Qk1EWDEzTXNCZjBOQ29xZ19HdnptaGwtbVVpQnVrdi1TVVVaWVFjZ3FiU1N2NnJLSmxjQ2hzSDFvdUNkUGdkYzJEcG1GQXdvdVh3cGoxYw?oc=5
+
+Molalla public hearing seeks input on data center moratorium question Woodburn Independent
+
+### Fairgrove Township Places Moratorium on Data Centers - tuscolatoday.com
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-10-03T09:00:00Z
+- **Source:** tuscolatoday.com — https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWUNCdEVEZ09oRF9ON2Yyc2dralYtejNvNGtwRC1wVXIzUzgzejdTWE1BMTBjaVVybUhZR2NRTmdIT0VSQkk5OWRSeU84azhoV0NWb05vanRIYjhiQ29EWWM3VlZ1eENXR05XSkFCZVV5UzJNRDFxSjd6M0wyVHpqR3pfT1RuZTVDWGcxdkYtdGRUZlROZzhWdnNvbGJXbjRROHhnTHpUM3QyTHE3cER5WjBsMTVSak52a0wwNGFrS2t0UzlLSnN3TnZJNFNxbU8yRWc?oc=5
+
+Fairgrove Township Places Moratorium on Data Centers tuscolatoday.com
+
+### McHenry County mulls data center moratorium - Shaw Local
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-10-02T23:21:36Z
+- **Source:** Shaw Local — https://news.google.com/rss/articles/CBMinwFBVV95cUxQdGFqSF9rWW5YYWx6N0lNNEJPeGNaYUIwV29SbzZ4TWhTdENzNmZWSGpOdUZ1RlJrT0FFRUdPT2haMUItdkJSLUFIN04yLTFXdm1GbVdzaWRNcTRpS1ZyUlBqU3JlZUIwaE5XbDlrVGEtMFBJMUFHTi0yVDhFdnhDRzNMN0UyTk42amdrTHBMaWk4SDNZV2JJYVZ1RGI5OVU?oc=5
+
+McHenry County mulls data center moratorium Shaw Local
+
+### Salisbury Planning Board recommends data center moratorium - The Daily News of Newburyport
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-10-02T09:00:00Z
+- **Source:** The Daily News of Newburyport — https://news.google.com/rss/articles/CBMi7AFBVV95cUxNU09HLW1GWGdXaHJDVlJrNVNzQWhRNHBmYXlCOEhrcHpzVTNQcmExY2ZKXzFndFVPVElCakVPWFNxSWJ1eS0wSFlDWjZSWW9Zazg5SGhKWFdCYzdzd2taU190SEJNT2huYnkwRi11WUgwdm5lSTZmSWRKa3dDSmtoUU94TElUcU16MGctb0l1MHBWUGNsaU5fT1NXVkhaQnJpTUd2STBFcC1SMFBrWFpGTnVsLWY0OFRqcEJVUzFLZGZPN3RhanFQcEc2cXZ4NkFOQXNiUnVBRUVXWlR4MlRBS1NDdlotZ0Izc2Jmcw?oc=5
+
+Salisbury Planning Board recommends data center moratorium The Daily News of Newburyport
+
+### Telefónica alerte que les exigences du décret des centres de données freineront le secteur - Demócrata
+
+- **Jurisdictions:** unattributed
+- **Topics:** general
+- **Document stage:** news
+- **Language:** fr (untranslated)
+- **Original title:** Telefónica alerte que les exigences du décret des centres de données freineront le secteur - Demócrata
+- **Published:** 2026-10-02T08:39:22Z
+- **Source:** Demócrata — https://news.google.com/rss/articles/CBMixwFBVV95cUxPU2FIU3dGc1JEd3pLSGdLSjZ4ZzFlQTdPNlNyOTg5RmEzYnZ2V0w1ZlhZMzhKVXJ6dWJJYmhSdVJCdURTZ0c5YTNBUnNDdnZyaE90Y3U2Z3BSZThwLXBKS1QwTGE0Tnp5dGpObW1kb2NxTnlCYVBCV0FpSG1BZGFWdWtTcHpqUS1XVmc0ZmlsN3pHcTBtRmFFUGRoQkJOdWJZMEpBNTNPR1ZveVJKZWlCdzNva0ZWaFdjaXcyQUZ6RnJ4MjR4Vm9B0gHMAUFVX3lxTE0yU0t6dlpubk84cWk1eURPRzlhdDhiSlZiQnBOaGhEM1FHN0hSUk9VcExxUnlLR014WmZCR2drRlBTNUctQ25qWUZLU0thTzRsNlVQQl9ZYURTZmVtcmVWM3NaNkFrNXNUc3NPTlVhNTFOUnFyMGlwczVLeTBseHItckZuQXVPS1dSeXFPMVY5T29jVGtFOWNzUldHY2RhM0tkUmRZX1ZTYlRWc2pnQUNXam4yMENIQlgzX1gzeFJUaVlUNEhicXhxQ0ttRA?oc=5
+
+Telefónica alerte que les exigences du décret des centres de données freineront le secteur Demócrata
+
+### Responsible AI starts in data centres, with sovereignty and sustainability as one agenda - The Parliament Magazine
+
+- **Jurisdictions:** unattributed
+- **Topics:** security-resilience, sustainability
+- **Document stage:** news
+- **Published:** 2026-10-02T06:45:41Z
+- **Source:** The Parliament Magazine — https://news.google.com/rss/articles/CBMi1wFBVV95cUxNR3g4WUctTFBLY0ZfTVFVWHlCbGVWMmZQMlVUVmdRcG0yYVV2RDltRlpjN0tVMG4tRFRFQnlzNXNqWmlMMGIwUGNZNXlYMlE0MFUtemRJbG9SeHdENUN3aEloWkQ5ZGRRTWlXZVBWanZFQU13VDgyWllMRHpzTkNtNFRNTy1BMDRPa2FWU213S0xHSFVVQlRMMHZ3dGxmLWNEaGU4ZEg2djZPMDhGTjI3Ukh0bzdDN3g1bGsxM1lXOUdRYkdCY3FwMFdCUW5Vc3QzanpaT0E1Yw?oc=5
+
+Responsible AI starts in data centres, with sovereignty and sustainability as one agenda The Parliament Magazine
+
+### Ekspansi Data Center AI Mengancam Sumber Air Masyarakat, Pemerintah Harus Berlakukan Moratorium Pembangunan - WALHI
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Language:** id (untranslated)
+- **Original title:** Ekspansi Data Center AI Mengancam Sumber Air Masyarakat, Pemerintah Harus Berlakukan Moratorium Pembangunan - WALHI
+- **Published:** 2026-10-02T06:21:57Z
+- **Source:** WALHI — https://news.google.com/rss/articles/CBMiygFBVV95cUxPM1llb2R3Zy1EMHdGWjV3ZzRCbnFMS3NyM282M0NzaC1QLUxmM1JZa1hmaXlRY3U2cWdyUjREcFNUVkJkbnRoRkRtZUxmS3pZUXZZRFM4dGxncm10aUZjMkQ4YTRhMl80LWNweHlsaVpqQ3N0Sng1aEt3NDdOb0RmS19OWlJSV3ZzQ1NCd1RwNkN6WVlKN3Fua0R1VE5uUFFSS0JMV1FKZUNZOWl3Slp2NHY3Zy1SbFNCc01ETk5SeWNCTXVPRXdrQzRR?oc=5
+
+Ekspansi Data Center AI Mengancam Sumber Air Masyarakat, Pemerintah Harus Berlakukan Moratorium Pembangunan WALHI
+
+### Why Unbuilt Data Centers Raise Power Bills (It Starts With a Forecast) - globaldatacenterhub.com
+
+- **Jurisdictions:** unattributed
+- **Topics:** general
+- **Document stage:** news
+- **Published:** 2026-10-02T02:00:47Z
+- **Source:** globaldatacenterhub.com — https://news.google.com/rss/articles/CBMifkFVX3lxTE02cHN2STh6cmpNQlgtYlFkb0ZhdmpZcUotc1lwQzVSaGVCamZNcjgwWXVZd1FNSTN5a0NILWVhSmZjSzd6cl9GNFA2LWNTTG91YWRzdzZhU1p2MlF0NXZRR1Z6TUNrRzg3OWVPRlhBbTI5bHpCYVlsTWh3czh3dw?oc=5
+
+Why Unbuilt Data Centers Raise Power Bills (It Starts With a Forecast) globaldatacenterhub.com
+
+### Rutherford County discussing one-year data center moratorium - Main Street Media of Tennessee
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-10-01T22:17:08Z
+- **Source:** Main Street Media of Tennessee — https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcU5SZFpub1JrSDVwRm1DMlhfckloSTB3ZkxsSDdNaUh5cllUZFlmVm12c3h5OTRGWFYtVjgtVm5ER05ybXZHdm9MWVlsem4xTWVTdEh0OWpzSzg5LWc2OEp6STVra3VJLUpwOUdkaHZDNFYtbm9LMFpYc1ctX1ZCeFRaTXY1X2NPWHVnb1ZNNnk4LVYwNnV0ZmxyY2lseHRJQ29lRTBqb2lwVnh0UEhGa2tFNldvUGot?oc=5
+
+Rutherford County discussing one-year data center moratorium Main Street Media of Tennessee
+
+### Hooksett Planning Board weighs data center moratorium for March ballot - New Hampshire Union Leader
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-10-01T21:58:26Z
+- **Source:** New Hampshire Union Leader — https://news.google.com/rss/articles/CBMipAFBVV95cUxOWXQ1a29DS2VTVllOT3JGYjVrNnhITnpkdDN4SGk3TDBnUVRJUFN3cm5qZGc4aU96SlEzV20tVHFPZHlmU0gtMkF2NzNHNm1MNEJKbndSeW15d0VwbDY1akF5OFotbkFHWGlGcml4cjBnX1lpcUNXTlNtekpuTnA0ZXhGaWhENFBCSm1BMmZJa0JDSjVQSTJUQXJpVHRTMnRkSFpESw?oc=5
+
+Hooksett Planning Board weighs data center moratorium for March ballot New Hampshire Union Leader
+
+### The Parliament urges the Government to review the environmental requirements of data centers - Demócrata
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-10-01T17:04:57Z
+- **Source:** Demócrata — https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZkhEY2NGWGRKeWY3NE1OUGFhLUVIY1NJaGQtcFVyX1p4Ui1UeWhoaG9FSk55OVdxY09EM0ZrRjRJUmFBTUVKdk9NaVRvbFhDX2VRX2FlUGw0SDB4eEVhclJXOUN6eEljMVhXdWFzT3FpMlhHeEVlOUpqbXhvRGZVc193ZnV3YjF1VFFLdENnU0FHNXF1MU9YN0JLMHhxWjBJZ2lOZm5vTE9zcFBVdnA1YV82amsySlNoYlVxcm1RWGRtM1llUTlhZ0ZLSlVFb3Zp0gHQAUFVX3lxTE1mSERjY0ZYZEp5Zjc0TU5QYWEtRUhjU0loZC1wVXJfWnhSLVR5aGhob0VKTnk5V3FjT0QzRmtGNElSYUFNRUp2T01pVG9sWENfZVFfYWVQbDRIMHh4RWFyUlc5Q3p4SWMxWFd1YXNPcWkyWEd4RWU5SmpteG9EZlVzX3dmdXdiMXVUUUt0Q2dTQUc1cXUxT1g3QksweHFaMElnaU5mbm9MT3NwUFV2cDVhXzZqazJKU2hiVXFybVFYZG0zWWVROWFnRktKVUVvdmk?oc=5
+
+The Parliament urges the Government to review the environmental requirements of data centers Demócrata
+
+### ‘Concerned’: Data centre giants respond to new grid rules amid ‘compliance crisis’ fears - businesspost.ie
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-10-01T09:12:05Z
+- **Source:** businesspost.ie — https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZUk3Wkk3MXh3UTFDc1dVQklfOVc2TldERVFkMGpVVy1Hamt3Q2JTWEpMNGF1dFExN2hNM3JEWU5Lang1VlZERkJ1a3FSXzRYYXhfdUFIUllva0NBdUF1OHl3X3dBb3VZeUx2aHRHUHVmSFk3dWQxUFFwWkxfXzRKekRzUXBGLVU5ZlEza2puOXdwcUZIU21yQmtSOVUzd2NZOGh1MVRqWFYyR0dzV1RSUElKMkk5a1hG?oc=5
+
+‘Concerned’: Data centre giants respond to new grid rules amid ‘compliance crisis’ fears businesspost.ie
 
 ### Data center bill falls short in Senate as lawmakers take final votes before the midterms - Pittsburgh Post-Gazette
 
@@ -2378,6 +2811,18 @@ Thailand’s Cloud Security Standard Is Now in Force: What Providers and CII Ope
 
 Data center bill falls short in Senate as lawmakers take final votes before the midterms Pittsburgh Post-Gazette
 
+### Azcón avisa: el decreto de 'data centers' puede paralizar la inversión de 13.471 millones de Blackstone - El Periódico de la Energía
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Language:** es (untranslated)
+- **Original title:** Azcón avisa: el decreto de 'data centers' puede paralizar la inversión de 13.471 millones de Blackstone - El Periódico de la Energía
+- **Published:** 2026-10-01T06:25:05Z
+- **Source:** El Periódico de la Energía — https://news.google.com/rss/articles/CBMi0gFBVV95cUxOY3lYVzhwTmVoVlc5TjkxX3hKZmVZaGFsbkg4NHJqTl82U19ISUwtYzQycllpZU1HNXhab0JKX1U3WmZJb0pvTl9HUVVOaldfbUVZdDBXVzUwR2JNOEsyak5OMXcyc3lHbHp4UGtwLUFOanVHMllTS3E4aGV2bHZ1eG42U2JEOS01TWE5T1hjNFJjdWI1bUpubDZ6X3RDTmE3SEc1WWFVWEU3b2NISWRqREZMeS14V2dTRElQYVNLSVZBMjk2WGFta2JxN3hoNW1jdXc?oc=5
+
+Azcón avisa: el decreto de 'data centers' puede paralizar la inversión de 13.471 millones de Blackstone El Periódico de la Energía
+
 ### Data centre decommissioning needs early planning, says Astralis CEO - ET Datacenters
 
 - **Jurisdictions:** unattributed
@@ -2387,6 +2832,16 @@ Data center bill falls short in Senate as lawmakers take final votes before the 
 - **Source:** ET Datacenters — https://news.google.com/rss/articles/CBMinAJBVV95cUxQS2thNEhVZVFTSnVFa0xLZ1hmU2wwNk1EWXhrQjNiRG1vRi1WRmFLdEYxVEtrREpPeUdtd3ozLTAtZUlucFh6V2JWTFZvTXJpbkZRc3VXa1A4SFREZm5LVENKZFBCdENFU1A1aTVZOWVZajk1eE1nZEVZOFRPMUtDZjd1SkNaRVU4TUNEZ01GYU9sNHZUQmJ3SnBwUWI2VmtoODV2V0h1QU5aekdrTGpxLVp6aHcyN3lWamhkcGZVbElNRTdGa0RhM2hSVnUyYUt3ZmVJcklRMU1XY0VXa0xKZm5qdEphOV9BanVJYXo2Z3R6UkJwbU9UOVFmQXkwa05ycUpuQXY1Z1l0dXh0N2pmRS1ibW1KZDg4Tl9sTdIB6wFBVV95cUxNdUhtZ3FfUlNIdWg5WF8wQjdsbE1sNnJ6MF9CUTJFM0Izb0RiZjhTLXBYYXdEVWRMNkNybzhSME5rZ3pfbVczTjlTcWRRdmM4SXNqdFI4ZUlBLTRLRWVkUGtpWFhQNG9JVmNDTHBlVEJzS3BmMWd0RXhkYWZJZ050cEVzdTVZVGRFOEpMOGI0eEFJd1YxNWlKemRCNGJZSnpTVFV2VXBRaXJUbno3VDFEQ2Z1ejhfRDVnUU9pLUdzYmhLUlpjR3psN3JBbm1iYi1jckxNMHpGRXg0U1V0NW82T2FCYUhZTjQzMkhZ?oc=5
 
 Data centre decommissioning needs early planning, says Astralis CEO ET Datacenters
+
+### IESR Supports Temporary Shutdown of BDx Data Center in Jatiluhur, Urges Government to Immediately Issue AI Safeguard Regulations and Green Data Center Standards - IESR
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** guidance
+- **Published:** 2026-10-01T04:28:50Z
+- **Source:** IESR — https://news.google.com/rss/articles/CBMijwJBVV95cUxORXE5a3FJTUJwdXBvdnRNLXQ2QnFhYXRydmViMHIxNjZSaklFdVRZNk1vNk1wNFVUVDBwTnMzYWVWbTI3eWNXV1l6Y0hHbnNyZG1CQVVEREwzM0RyOUtjei04X0tub1VEaGxUYmxNQW1FSU5WX0plcTA2cTlSTmFkZGVmU3FjUmZzYnVGeEZUM2lpMDNmYVliWE9EYnRKUFlwc3gzcHY4RnBSc0d3Z0JtaGxUWUx4c1lXZWg5MEtLZm9TYnlLZl9TREN3VjFBVXhZLWJ2NlJkZjNPdWZJbm0tMEJEOXExTTJYMEg4YkJ3RHFsNmlYWlRJb1NiUHV2Yzl6b2pCWkRiVUM1NXh2czRn?oc=5
+
+IESR Supports Temporary Shutdown of BDx Data Center in Jatiluhur, Urges Government to Immediately Issue AI Safeguard Regulations and Green Data Center Standards IESR
 
 ### Palm Springs extends data center moratorium to 2028 - The Palm Springs Post
 
@@ -2398,6 +2853,26 @@ Data centre decommissioning needs early planning, says Astralis CEO ET Datacente
 
 Palm Springs extends data center moratorium to 2028 The Palm Springs Post
 
+### Commission Endorses Milwaukee Data Center Moratorium After Fiery Hearing - Urban Milwaukee
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-09-30T23:56:00Z
+- **Source:** Urban Milwaukee — https://news.google.com/rss/articles/CBMisAFBVV95cUxNYXQwT0VXYWxnazhXRl9DUUZmWm1WdFUycFhSX2RZX1NpOWhDQ1E3QWxUSzNxb1U3NkYyUllOU2xkWWMzTlp6S09wSUVFUy1xTk9rSFFIQ3R1RDBrb2Q5dHVmd3BQSTY1dk5NcFVSRXZOLXhTUUhWQjhuNkhwVEhLeEtRN1FYOEp3aWc1ZjBoM2pycmZvU3R5MnhTczlVMGhfUHF4aWRTTDEzd3A0UUszVA?oc=5
+
+Commission Endorses Milwaukee Data Center Moratorium After Fiery Hearing Urban Milwaukee
+
+### Madison plans for data center regulation as moratorium approaches expiration - WORT-FM 89.9
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-09-30T23:50:06Z
+- **Source:** WORT-FM 89.9 — https://news.google.com/rss/articles/CBMiogFBVV95cUxQb1ZEQUprb1dkeFM3SXlUSFcyTVN0SzU2b0lkaE95VnROaEVrS3hoaFpsa0pXRmRfdFV1TFp2MWtfb1NXRF9SWnE3ZU42OXpRNnFWUUdXWGVCTnMyeGx4X043ck1tUFhFRkM5OVJNX2dLczE3MkpwcUxYYXZDR3dTVC1pdUJGU214YnZ2bmFaOFg1Ti1QRlQydmMxZ2pTLVQ4LUE?oc=5
+
+Madison plans for data center regulation as moratorium approaches expiration WORT-FM 89.9
+
 ### Dixon City Council imposes 45-day moratorium on new data centers - FOX40
 
 - **Jurisdictions:** unattributed
@@ -2407,6 +2882,16 @@ Palm Springs extends data center moratorium to 2028 The Palm Springs Post
 - **Source:** FOX40 — https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdGtrdkY1cEVTelY4YnNmdERpdll5STZCVkx2UzVBMmxROHFSWlJycXJRV3pPUXlWSlQ3UHRDWEVKV1hGeGZBRjZ3VDJDeGV4TW40b0t0V2JTSFUyX3lrcC1IclhRZ0pYQkxhOUtWYlRUNlRCa3dOY3FzRzNQcDBIOFlQazlmXzRP0gGIAUFVX3lxTE10a2t2RjVwRVN6Vjhic2Z0RGl2WXlJNkJWTHZTNUEybFE4cVJaUnJxclFXek9ReVZKVDdQdENYRUpXWEZ4ZkFGNndUMkN4ZXhNbjRvS3RXYlNIVTJfeWtwLUhyWFFnSlhCTGE5S1ZiVFQ2VEJrd05jcXNHM1BwMEg4WVBrOWZfNE8?oc=5
 
 Dixon City Council imposes 45-day moratorium on new data centers FOX40
+
+### Full List of Democrats Opposing Bill to Lower Data Center Electricity Costs - Newsweek
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-09-30T19:00:00Z
+- **Source:** Newsweek — https://news.google.com/rss/articles/CBMikAFBVV95cUxOQmJXaWctUG83eVR3X3VxWE9LcXpCZGNkS2hUcWFIUmg1VUw5YjBSWFlXRzJrWnFkeThKb0VGaGJzbW1VMm96MG9ZdVNfUUI3REdFOXFHMzhiX2NmVjNrSDFTcFI5Wjg2b3ZmTFNwOEhMN2Z1eThpQmRoa3ZuNGZSWjFpZzg0Wng4MUJZa0drOVc?oc=5
+
+Full List of Democrats Opposing Bill to Lower Data Center Electricity Costs Newsweek
 
 ### Democrats block data center electricity bill, calling it ‘toothless’ - WBOY.com
 
@@ -2428,6 +2913,16 @@ Democrats block data center electricity bill, calling it ‘toothless’ WBOY.co
 
 Senate Blocks Data Center Bill Vote as Energy Costs Spur Worries Bloomberg Government News
 
+### Data center bill falls short in Senate as lawmakers take final votes before midterms - TribLIVE.com
+
+- **Jurisdictions:** unattributed
+- **Topics:** general
+- **Document stage:** news
+- **Published:** 2026-09-30T14:35:53Z
+- **Source:** TribLIVE.com — https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdnpSNDJlbnVXT1dHRWwtakZOVG9Cbmp2bkU3RjMtR1doakZMWUh6a2x3aUI3aDFwNVhfZ3hmT3lGYWFERTBaUWU2RnRIQUg0dkNKMThpeUNXSEptcDZoWVlSNW5lU25XS0c2eUs2Q3pRQk92RWJaaF9MczhiVE9FdWMxb1lNQjJQNkMyOC1penhBQ0RqbjlzMXQtTldBdk5EaGFKTFl1WFg2eWlUVVJvUGpocjE3bmVvQkUw?oc=5
+
+Data center bill falls short in Senate as lawmakers take final votes before midterms TribLIVE.com
+
 ### Washington County Statement on Temporary Moratorium for Data Centers in Washington County - Washington County, MD
 
 - **Jurisdictions:** unattributed
@@ -2437,6 +2932,26 @@ Senate Blocks Data Center Bill Vote as Energy Costs Spur Worries Bloomberg Gover
 - **Source:** Washington County, MD — https://news.google.com/rss/articles/CBMivgFBVV95cUxNWnU2cXE1NXZjVVVTbG9IcnJtOEtQSmhuUjJIY0UxNkw5RG5XdE5QakF4S1cxOU8wU1NHYWhDdFp6V3B2UHJ5Rjg0Y294bk1YUHVFUzJKQ3ktSDdPcGtnWEFIU1E0ZkctTDFiU1Z4TFJrRVl4M2UwSFlmVllUSGhQdVB6NDhZcG14MnlpcmplZUhTVmlUR0hWS3I0OGxRaHNxYnE4N3JtOVlYdC1JWXhpZmF3UnI3aS15VkZvUU9n?oc=5
 
 Washington County Statement on Temporary Moratorium for Data Centers in Washington County Washington County, MD
+
+### Gibraltar moving forward on data center ordinance as lawsuit pending - thenewsherald.com
+
+- **Jurisdictions:** unattributed
+- **Topics:** general
+- **Document stage:** news
+- **Published:** 2026-09-30T13:44:47Z
+- **Source:** thenewsherald.com — https://news.google.com/rss/articles/CBMirwFBVV95cUxOUDFHSUJzSVUwc2h6eTZ0R1pNYWx4YWxuUlh6MTR6b1pFTVdXUmJzM21ZQ2lKOGhINHRmSE4xYk12U1J0SFNtb0hUS3gzWGtGZHZKWGMxY0kwZ1lUQ25RZkJ6aHc2SmY0dkJSQ09QVXI4bjhCcXFEWUEwTGNMakc1d1EwUVcxOC0yMl9MS1JwVWlpeVEtWm5IUkVHV3h2X3c4ME1yRS1fSnNYZ2N2aXRB?oc=5
+
+Gibraltar moving forward on data center ordinance as lawsuit pending thenewsherald.com
+
+### Washington County Statement on Temporary Moratorium for Data Centers in Washington County - EIN News
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-09-30T13:33:00Z
+- **Source:** EIN News — https://news.google.com/rss/articles/CBMiywFBVV95cUxNVVhvb3VZQ1ZBYk8zZVJyRlNiTnhYOHFLRTFkeW1LeWZnZ01tUmY1Nm13N3FhWjBXR1pvQ3N5QlQxd1hOTTM0RVo4V3ZDTUVkXzhndDQwd0laT1FMUTdhZUhTYzlCMFpqN0R0Q2IzMWFLRkdHYkJseXNGck56eHVjVFR3NGs2OVpnZWhpbEtabDJhemJjTGd0VVFnS1ZqbEdjOVFIM2xKdHlfUjJPU1o2SWlpaTQyMDBsR2lGQjhyYm1RbWVMYnJuZVA0WQ?oc=5
+
+Washington County Statement on Temporary Moratorium for Data Centers in Washington County EIN News
 
 ### Round Up: commissioners back two school grant bids, set data center moratorium hearing - davidsonlocal.com
 
@@ -2530,6 +3045,16 @@ Milwaukee City Plan Commission approves data center moratorium FOX6 News Milwauk
 
 Town of Potsdam plans public hearing on 1-year data center moratorium nny360.com
 
+### Will AI Raise Your Electric Bill? EIA Starts Counting Data Center Power as Maine Pauses 20-Megawatt Builds - Intelligent Living
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-09-29T08:28:28Z
+- **Source:** Intelligent Living — https://news.google.com/rss/articles/CBMifEFVX3lxTE5XNE9oQTJNVjc1Xy1mLVRyZUl4UllZZWFjSkVHNXBPT0dUQThiQ1lTOGlnRWhUMUZtN2IyQmwtemJuYXJKc0NxUE5wRnNrVnhROU85cjdKTnJ4UHV6dnlBdndoUTY1ZnN5T0RZWm0zX3NaSFpXU0F4VjF5RDc?oc=5
+
+Will AI Raise Your Electric Bill? EIA Starts Counting Data Center Power as Maine Pauses 20-Megawatt Builds Intelligent Living
+
 ### Buffalo Common Council to vote on data center moratorium Tuesday - audacy.com
 
 - **Jurisdictions:** unattributed
@@ -2540,6 +3065,16 @@ Town of Potsdam plans public hearing on 1-year data center moratorium nny360.com
 
 Buffalo Common Council to vote on data center moratorium Tuesday audacy.com
 
+### Saginaw approves new rules for future data centers as moratorium nears end - WNEM
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-09-29T07:01:00Z
+- **Source:** WNEM — https://news.google.com/rss/articles/CBMiogFBVV95cUxPckNRTEhPeE9XS3JFQi1mTmpRUFZTWWVqYlF5RVJiRG9IdUlLdWlMaTg4NDdjWDVCdzFTYUhNWUZ0TFItU1lJVGJrcWVxTXJEbldodGZnZWZDQWJaU25xckRxYmQ2a2pvZHNHOThQY3REbHo2aG1iR1BYT1Y1ZzJXbnFWZGtUVVVVYmsxVDBBRklMaXVNRURzNkRQUDYyQWh0Y1HSAbYBQVVfeXFMUEhLQzFaWUlqNVNRaHlVY2E4RE5vcTVGXzF4a1dPVFp6NmdBT0lHZVg0S2ZNUnh5VndRUGI1SEJUdWVuZE8tTHFxZmhCeXNlNENCV21UMTY0TzYwZ0lsTEJOeF9WMDJPV01ZLUhPdF9DRnhsUnBBV0pqMEM1enFKRUl2ZmxSam1TbWJuLW9IQkVhLUVsRm1aZWtleTFhODRUUXdidlROUXkwNjAwMWQtalNYVUhEb2c?oc=5
+
+Saginaw approves new rules for future data centers as moratorium nears end WNEM
+
 ### Milwaukee data center moratorium approved by City Plan Commission - WTMJ
 
 - **Jurisdictions:** unattributed
@@ -2549,6 +3084,16 @@ Buffalo Common Council to vote on data center moratorium Tuesday audacy.com
 - **Source:** WTMJ — https://news.google.com/rss/articles/CBMioAFBVV95cUxNQk1OaEozWWhKNlN1LWxubVRTYWgxaEdsc0hkcXpMeEwzYU93My1BeEM3OHBaR29kNjFwaENsUmRWdUJDSjVkdVNQZlliZkJCUFRoa2JOaDNraGNOUEh0UWF1R1hwZkZYSVpualUwcjRYUnpTWW5OVVdvLXBOb0ZmN202QlhrM05HYlZ5M2xHX3NkVTVmcE1VT0dPY0c5YVA0?oc=5
 
 Milwaukee data center moratorium approved by City Plan Commission WTMJ
+
+### Data Center Moratoriums (2026) — Which States Are Restricting Data Centers? - ElectricChoice.com
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-09-29T02:56:09Z
+- **Source:** ElectricChoice.com — https://news.google.com/rss/articles/CBMiZkFVX3lxTE50QXY4N21nUVZ3TEZKY0tSNVhvOGpGNkpyelNfNnl1S0pFNEVkNTVxTlpJMzZNYUp6REwzalNmOFo1RzQ5THVVRVJ4dDBaSVU3Znd2ejhsd2lnOGQwVWF0UlVmaXExdw?oc=5
+
+Data Center Moratoriums (2026) — Which States Are Restricting Data Centers? ElectricChoice.com
 
 ### ACT Government rules out co-location of data centres with public swimming pools - Australasian Leisure Management Magazine
 
@@ -2569,6 +3114,16 @@ ACT Government rules out co-location of data centres with public swimming pools 
 - **Source:** WTTW News — https://news.google.com/rss/articles/CBMiswFBVV95cUxNbmtndVZ4WWd5MFJ1UXJQc05kNE1QVmxONEU4eTJ5ZnVhTmxwMXQxZVpaR2FJYVdMSDVHeGFKMlN3SnBzd2lmRHBwdlY2MXBORkZmU25sTF9zeEQySGZ4R3JIcUprZUNYaTJzOXdxSGJfT3BkcjdsZGtYRUw1Y1ROQk1MSERCMExkRS1GejVrek80NV9QVk5iOE5XMVFRR0pRc191Nk93dy1ONFU4OEtyRDJOTQ?oc=5
 
 Energy Benchmarks, Possible Moratorium Among the Topics Driving Chicago’s Data Center Discussion WTTW News
+
+### Milwaukee City Plan Commission approves data center moratorium - fox6now.com
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-09-28T23:35:21Z
+- **Source:** fox6now.com — https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tN2FqTlRjUzJ4RHllUXBkNHRxRGo2NWNLYi1veGpidWkwZDkwWWNFYjJqMXBqRGk1Q3JwbENIaDY3Wm4yWFJRTms5WDB1U2g2TnJFOG4wOUlDczJlTlJN0gFkQVVfeXFMTnpjWEhYQ2JMVUFDanJ0Z09FeGg5bF90ck55VlFjUGU1RnJIYlN6Mmgxem9EWGdBWklGdURzc05fYmFsWVY1d1JHTWpLUFhmdHd2N1pTbVRDdnM5d2kyTTRma0NMQw?oc=5
+
+Milwaukee City Plan Commission approves data center moratorium fox6now.com
 
 ### Evansville City Council to consider data center moratorium - 14 News
 
@@ -2710,6 +3265,16 @@ Spanberger proposes slate of data center regulations, puts first directives in m
 
 Spanberger proposes slate of data center regulations, puts first directives in motion Walterboro Live
 
+### Winlock city councilors enact six-month moratorium on data center development to create building code guidelines - The Daily Chronicle
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** guidance
+- **Published:** 2026-09-25T23:26:42Z
+- **Source:** The Daily Chronicle — https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbDZIcWhEbmRFTDNUMktjOE5mSW41ajRZWHdMREtySlgxSEVEV1o1SVdsYU13NkRjTHNrNGhuS0xSdzJENnhuMzVvckVsOWJBeGRkQ2RkUk5Xbmc2ZUViSFUtYmlnNDE2RDF1VkZDVmxNYk1VYzBOVVJydEFyLWQ5UUVUUXBTLWhnNkZUNVY1a1pjcW5RajBrWTU0RUppSnR5c3RQM1pydVR2MllJNEpNWnpJdXllQ0ZMTEgxV1JoZF9JTUxsd2x5dHBlc2V3RzRoOW1F?oc=5
+
+Winlock city councilors enact six-month moratorium on data center development to create building code guidelines The Daily Chronicle
+
 ### Newsom signs data center bills as state ramps up regulations - The Center Square
 
 - **Jurisdictions:** unattributed
@@ -2759,6 +3324,26 @@ Is a moratorium on data centers the right plan? yahoo.com
 - **Source:** Mon Valley Independent — https://news.google.com/rss/articles/CBMimAFBVV95cUxPd0JDcHFSRzV5MXpGRUhsdXg4UGhEQTZNMzlmVHd6QUthakkxM3dLUDNZaTRNN0tsTUV6TlJNSEJmTVRCVGFDLWdIakZLLUxsT0JKWFhuTWRwN1Bid1JHOW1MOHNHSWY1cGlMNFE5LUd5elkzX19xZUJGMWVMX1BsQ1NXMHUzWHd2Tzlldl83OGhQZElzWDNuQw?oc=5
 
 Data center plans continue during moratorium Mon Valley Independent
+
+### City officials discuss extending data center moratorium during District 5 town hall - AOL.com
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-09-25T07:00:00Z
+- **Source:** AOL.com — https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM0tweXg1M09tNHZsbV82YmpKZmxHSFJYOTBleFhOMm9QVGdKQjItYldjYUoyZ1lLU2ZIcEZMdzFqc0h0S1NscGFYLTE5Mk5WTkxtU0JOX2VHTUZRdW0tYUJ3RURWTGpxUTBwWG12cFZLcGlzOTNmR0hXa3JqYTNBV0ZPY20xbG5a?oc=5
+
+City officials discuss extending data center moratorium during District 5 town hall AOL.com
+
+### Coventry Planning Commission Backs Data Center Ban - Uprise RI
+
+- **Jurisdictions:** unattributed
+- **Topics:** general
+- **Document stage:** news
+- **Published:** 2026-09-25T07:00:00Z
+- **Source:** Uprise RI — https://news.google.com/rss/articles/CBMivgFBVV95cUxOSzRydlNUSVVzdU55SEJNN1RwakczaEZaaE1GaTFscEw3dmVfeUtIYmdLUDMyeWQ3WE9fcWdjUTJDZXotVU1rWkp6RV8zcGo0aEpaOHlXZDhXQVRVajVreDNnT295bi1aajRHbkpUY09jb2RxMVQzMFVpTENDWTBQdkQ3dHl2UkIzaHAtUzZzcEU2UDJGTDdyR0pfZFA3YXlsUDB3bHljX2NNMDE5bUFTZWx0THZkYlVLenFNV01R?oc=5
+
+Coventry Planning Commission Backs Data Center Ban Uprise RI
 
 ### Scott County extends data center moratorium until March - WKYT
 
@@ -3023,6 +3608,16 @@ Chicago Mayor Brandon Johnson, Ald. Bill Conway propose competing approaches to 
 - **Source:** smartcitiesworld.net — https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNlBBVXpIajlTMnppUzF4cFhkSWxfTHJXd3BEd3kwMGwzejA0eWR0V0xNRTlHSmFKbE9ZWFg2dkphcURhMmJ1OVh0NnptSXBGMWNteGRSZ2pFcU1LMDc3MEVaTXpmcGV1TXh6VVJ1T0xfTFVmODZqY0JzemxvMVhSZC1SYWF0NEVZc1RLUDJUNURCd1doRnJpQ0R1ZXdLdkJKMjY3bkNzOEc?oc=5
 
 Cities urge industry to support Global Urban Data Centre Pact smartcitiesworld.net
+
+### Public hearing on data center regulations set - Pahrump Valley Times
+
+- **Jurisdictions:** unattributed
+- **Topics:** general
+- **Document stage:** news
+- **Published:** 2026-09-23T11:58:45Z
+- **Source:** Pahrump Valley Times — https://news.google.com/rss/articles/CBMihAFBVV95cUxOWEgzUWlaOU1rLVFmLTg5ZTlHWEJDZGlWbVBFNDNuV2hXNDc4OGNGTzFGa3lISnliMnQyVnZnb1ZMWWJsRmRZcW1fbG5RSjRWbDdvc1ZnSWFKTDc1dnd2YTRwT2xONW5XM0FiQ3pQX1hGemxJYWhXYXVSMDdqZGRmS0hhSlk?oc=5
+
+Public hearing on data center regulations set Pahrump Valley Times
 
 ### Data center, la Commissione Ue propone più efficienza energetica e sostenibilità - Ricicla News
 
@@ -3498,6 +4093,16 @@ First reading approved for data center moratorium The State
 
 Karnataka sustainable data centre policy 2026–31 explained MediaNama
 
+### Baltimore County Council To Vote On Extending Data Center Moratorium - Patch
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-09-21T07:00:00Z
+- **Source:** Patch — https://news.google.com/rss/articles/CBMinAFBVV95cUxQd1N0aDNXQ1htVm14eWctZzdqM0RfbGYyQWt4UFRFRG40NzVyZlJXSVgzQmpFdFpvcnJvM1EtMnJjYUZnVDlhUTIzRzFOVURrb01ZZVZ3and0ckFBd1BOdnRoNEZteUZpbVhwYlVPemJXaFhfX1Z1NzY4MjU2V2ttRndJdnY4elJqcGVZbXVVclczVy1KSUl0X0Q5Wkc?oc=5
+
+Baltimore County Council To Vote On Extending Data Center Moratorium Patch
+
 ### Spanberger takes aim at data center secrecy but stops short of a moratorium - wydaily.com
 
 - **Jurisdictions:** unattributed
@@ -3915,6 +4520,16 @@ Pedro Sánchez defiende la propuesta de regulación para los centros de datos: �
 - **Source:** TAPinto — https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZFEzNE9SLXRvUFlQSk1vS1NjUzcwZkRRamxvYzUzdG1Xa1ZwS0tWZXFuZklSQlU2NnJVbVoxeTBvMXNhSmdKY1VqU0UyOWZBejQtVU1JS253RU80M001cDRnc2dwNmdrRWZFQVQ0SWliY2NCT0ZQdDItQ3FFbG9Ub0xjUjVpUFY2TnNrT0RWNTE3Z0huYi1VakZBZU9pbmx6Nno5Q1VaRmU2a0drRkhsRk5OSnc2cHpUcFNPR1F6dGRMbW50bnZJTTZmTlR2N0I3V0phQXVwYXFYc1UtN1E?oc=5
 
 Newark Sets 12-Month Moratorium on Approving Potential Large-Scale Data Centers TAPinto
+
+### Senate Democrat blocks House-passed bill on data center electricity costs - The Hill
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** enacted
+- **Published:** 2026-09-17T07:00:00Z
+- **Source:** The Hill — https://news.google.com/rss/articles/CBMimgFBVV95cUxNWm4tcjBPc0VrWjVWR2NESURJVXFkOVVYRmMxekEwUndGSHBzRU0yTEE3aW4xU1pvTnVzTmFEcmVJNmZCTm5STFdpbTBQeGVuLXZmeHVkYUd1VzVSbUFaNnZsQXYzR25mcExrQnB4YXg4dnp2Tk1mbnU3SVV2YXdPVmpZMDZuaW5fOFZRd2ZsblJOcm9rOHRRbktR0gGfAUFVX3lxTE9CN2llLUpVVExOaERLUDJIY0xOSVFSU2NWNFN6MnhDQkFSZU5PaTUzdUJXcXpzdnNyQXNycW9oVDRISG5BNjRTZ3hMUklpZFV2RnhKZU1XOFZyWHFud3JHSHlVMFZ3ZDk0WFBZNTNZMXFjZDhhclZ5Qmt6RUJyUG0wOWxQWndBQ0R4Y0xWVG5fUUl5WEE2Wm1pRndWeTlOYw?oc=5
+
+Senate Democrat blocks House-passed bill on data center electricity costs The Hill
 
 ### Holyrood votes against moratorium on ‘hyperscale’ data centres amid fears of ‘big tech free-for-all’ - Energy Voice
 
@@ -4581,6 +5196,16 @@ Upper Burrell Planning Commission delays recommendation regarding data center or
 - **Source:** inkl — https://news.google.com/rss/articles/CBMikgFBVV95cUxQSzhuTmdaUVNPdHpJOGR1M2JnSXZxb3d5WlpIZmJGTDJ5UDk3WkJqQ2g4ZlNmS3hYMHU1bW1rdFg2elBTWjJodHhPaENtdUlpY1lMVDNsZGM3QUN4a3lDelV3d1lqOTRoaGNGaGQtNmJZSkNUSE9HR3p5a1FOUEZQd1V3WHI5RHZxQy1pT09sR1E3UQ?oc=5
 
 How to watch today's Holyrood vote on AI data centre moratorium inkl
+
+### Data Center Bill Poised to Pass House Faces Heavy Lift in Senate - Bloomberg Law News
+
+- **Jurisdictions:** unattributed
+- **Topics:** general
+- **Document stage:** news
+- **Published:** 2026-09-15T07:00:00Z
+- **Source:** Bloomberg Law News — https://news.google.com/rss/articles/CBMipAJBVV95cUxPbkliZW1ld2VnWGtSb3pFdEdGakVuT0ZtMFpma2ZtZl8yMDhTOXdOTWlBVFpzUGN2dUQ0WmRVdndzbVNZRTdITWxad3FtTXlrUGc4QlFURDg1NmQ2Y3R3MjJPSXN1V0FUWWZObmFIdUFoVllqSnF0dGhEdzg4TE9kVF9FU0RRNjRnZE5LLWk4TWYzMTlJSWlpWjduVks1ZDVneGN5RGYxQTBBdmpiME5lS0lSbkRQZ2QwTUliVjBqbE9DWjgxbVEzdTQwVTFSbkNadU5oTnlNSUt2T0dkdl9zWk95RUFhb1U0SkZvOWtQMkg4eGhPeHNWWU9vanVtS2xUY0J6UE5CRWdZRmdmanZxTWRVWGZtN1c4Z3RFb3VYMXBwM0dU?oc=5
+
+Data Center Bill Poised to Pass House Faces Heavy Lift in Senate Bloomberg Law News
 
 ### Rambus Enhances Enterprise-Grade Security for Data Center and AI - The National Law Review
 
@@ -6972,7 +7597,76 @@ Government and Defense Data Center Asset Management Market to Reach $549.46 Bill
 Q&A: Why data centre cybersecurity can’t wait for new UK legislation Intelligent CISO
 
 
-## United States (53 items)
+## United States (62 items)
+
+### IT systems in southern Italy back online after data center outage
+
+- **Jurisdictions:** United States, Italy
+- **Topics:** security-resilience, sustainability
+- **Document stage:** news
+- **Published:** 2026-10-05T11:03:00Z
+- **Source:** www.datacenterdynamics.com — https://www.datacenterdynamics.com/en/news/it-systems-in-southern-italy-back-online-after-data-center-outage/
+
+The regional government ruled out a cyberattack
+
+<details><summary>Full text</summary>
+
+IT systems in the region of Basilicata, southern Italy, have been restored following a data center failure between Sunday and Monday.
+The regional government said that the Central Reservation Center (Centro Unico di Prenotazione) serving Basilicata’s healthcare services was back online on Wednesday.
+Technicians worked for “several hours” to fix the failure at the region’s data center in Potenza, which paralyzed its main IT system, and ruled out a cyberattack.
+An investigation found the cause of the outage to be an “anomaly” in the data center’s main cooling system and the failure of the backup system to start. This caused instability in the data storage systems, resulting in the temporary unavailability of some services.
+“The initial interventions focused on the healthcare sector, the most sensitive area for the community, with the aim of fully restoring essential services,” said the regional government in a press release.
+“Based on the investigations, it was ruled out that the event was attributable to a cyberattack, nor was there any evidence of unauthorized access to systems or the theft, exfiltration, or unauthorized disclosure of personal data.”
+The outage also impacted some administrative deadlines, including scholarship and housing applications for university students, and caused the postponement of Tuesday’s Regional Council meeting, Italia 2 News reported .
+While Italy has around 200 data center facilities nationwide, these are heavily concentrated in northern and central hubs like Milan and Rome. Southern Italy's data center infrastructure is sparse, with projects emerging primarily in regions like Puglia .
+Learn more about the data center market in Italy and Southern Europe, and meet with other executives and experts from the region at the DCN Milan event next year
+
+</details>
+
+### America’s AI race won’t be won by hitting pause on data centers
+
+- **Jurisdictions:** United States, India
+- **Topics:** security-resilience, sustainability
+- **Document stage:** draft
+- **Published:** 2026-10-04T14:26:00Z
+- **Source:** www.datacenterdynamics.com — https://www.datacenterdynamics.com/en/opinions/americas-ai-race-wont-be-won-by-hitting-pause-on-cata-centers/
+
+A moratorium mistake
+
+<details><summary>Full text</summary>
+
+The biggest threat to America's AI future is not a lack of innovation. It is the mistaken belief that slowing infrastructure somehow creates better infrastructure.
+Data center growth is outstripping the regulations designed to control it. Lawmakers are fighting
+Policymakers around the country are increasingly acting to put the brakes on data center development without weighing all of the alternatives that could allow the United States to keep its global competitive advantage. Just recently, New York governor Kathy Hochul signed an executive order imposing the nation's first statewide moratorium on new hyperscale data centers while state regulators develop a new framework governing how large facilities connect to and pay for energy infrastructure.
+Similar actions are unfolding nationwide, from temporary local bans and permitting pauses to broader legislative efforts aimed at slowing growth. New restrictions and moratorium proposals continue to emerge across the country, reflecting growing concerns about grid capacity, power costs, and community impacts.
+Concerns about the impact data centers may have on the environment and the electric grid are not misplaced. Communities are right to ask hard questions about energy consumption, environmental impact, land use, and quality of life. In many regions, the grid is already under stress, and the scale of new infrastructure can feel disruptive.
+Policymakers are increasingly focused on ensuring that residents and businesses are not asked to bear the costs of infrastructure needed to support rapidly growing computing demand. That concern deserves serious consideration.
+What is less visible is how quickly the industry is adapting in response and what’s at stake if moratoriums are enacted.
+Data center developers and energy providers are not standing still. They are moving beyond the traditional assumption that every megawatt must come from the electric grid. Across the industry, developers are exploring and implementing behind-the-meter distributed power generation, including fuel cells, alongside hybrid configurations such as battery energy storage systems (BESS), that reduce dependence on constrained transmission infrastructure while improving reliability and accelerating deployment. These approaches can also help ensure that new loads are supported without shifting infrastructure costs onto other ratepayers.
+They are redesigning campuses to reduce land use and selecting technologies that limit, if not eliminate, water use. They are engaging communities earlier and incorporating feedback on traffic, noise, aesthetics, and environmental impact, while offering technologies to address concerns.
+Fuel cells are one example, producing electricity without combustion and with substantially lower emissions, noise, and water use than conventional combustion-based generation. They also are much quieter than combustion power systems. Other approaches include co-located generation, microgrids, and emerging technologies involving hydrogen and carbon capture. But adaptation takes time.
+Data centers and the energy systems that support them require years of planning, permitting, financing, construction, and infrastructure development.
+Moratoriums are often framed as temporary pauses to study impacts and develop better solutions. At first glance, that approach may seem reasonable. The risk is that abrupt pauses interrupt the very process through which better solutions are emerging. Projects that were being redesigned to address local concerns are halted. Investment is redirected elsewhere.
+When development pauses in one region, it rarely disappears. It moves.
+We are already seeing developers pursue opportunities in states that offer more predictable permitting pathways and clearer access to energy. Internationally, countries in the Middle East and Asia are actively aligning policy, infrastructure, and incentives to attract AI-related investment.
+History suggests this should not surprise anyone. Capital tends to flow where conditions support investment. Data center development is no different. Moratoriums do not pause demand for computing. They simply determine where that demand is met.
+And that demand is accelerating at a pace unlike any technology transition in modern history. ChatGPT reached 100 million users in just two months, a milestone that took social media platforms years to achieve. Today, artificial intelligence powers internet search, healthcare, logistics, software development, financial services and many of the digital tools millions of Americans rely on every day.
+What is at stake extends far beyond any single project or community. The United States is building the physical infrastructure that will underpin the AI economy for decades to come. These facilities are more than warehouses filled with servers. They are the factories of the digital age, producing computing power that supports scientific research, manufacturing, defense systems, cybersecurity, financial markets, and critical infrastructure.
+This is increasingly a national security issue. The countries that can build and power advanced computing infrastructure will be best positioned to lead in AI, cybersecurity, and technological innovation. As America debates whether to slow development, global competitors are moving quickly to build. At the same time, federal policymakers are seeking to accelerate deployment of AI infrastructure, creating a growing contrast between efforts to speed development and efforts to slow it.
+The debate should not be whether America builds this infrastructure, but how we build it faster, cleaner, quieter, and in partnership with host communities. The solutions are already emerging.
+Moratoriums may feel like caution. In practice, they risk becoming a pause button America cannot afford to press.
+
+</details>
+
+### Newsom Signs Legislation to Regulate Data Centers in California - instituteforenergyresearch.org
+
+- **Jurisdictions:** United States
+- **Topics:** general
+- **Document stage:** news
+- **Published:** 2026-10-02T23:53:06Z
+- **Source:** instituteforenergyresearch.org — https://news.google.com/rss/articles/CBMiugFBVV95cUxQb3NkZkNCZzhGY0JKM2tkY0tibUtmSTRDTDk2NC1JWloxQjhubjAzU3VrU1pnaEZITmMtWGJ4S2NoMW51UHBwbEQwekhjTFBMZ3JER3d0dy1NOS1HS0xrOG9qTElZVUc1cmFUdkFCdjFnQzYyU2pCSUFEbWZ0UU03RVI2UkdKMlpxb2lsUnBlNkhyc19Hby1lamFuSTd3dlkyb0RBRkJ5a1hfOWlrLWMxZTRyQkU3X2pVOEE?oc=5
+
+Newsom Signs Legislation to Regulate Data Centers in California instituteforenergyresearch.org
 
 ### Virginia bans data center NDAs as part of new digital infrastructure framework
 
@@ -7001,6 +7695,16 @@ Northern Virginia is the world’s busiest data center market, and has already s
 Prince William County is reducing the size of its by-right district for data centers, where projects are approved without the need for a full planning review, while neighboring Loudoun County has paused all new applications for 12 months .
 
 </details>
+
+### Clean Air Act Resources for Data Centers - U.S. Environmental Protection Agency (.gov)
+
+- **Jurisdictions:** United States
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-10-01T07:00:00Z
+- **Source:** U.S. Environmental Protection Agency (.gov) — https://news.google.com/rss/articles/CBMikwFBVV95cUxPSlBkTVh2TTdlTWRsYkVCejByejNPU1RsSWlZR0hsUHBOMVloS0VHTnRfOU9Xckw2QTlhcHdVNTVucHFpUGpYemxwTjJNR3k4a2VVZW5Mdk5UaEt5enRMUEwzNENXdjg3azg2VlViNXZfWWstQ0VVTm0zQTdoc3M0SFNkaXJpZVhWNjRQRnNueWtkekU?oc=5
+
+Clean Air Act Resources for Data Centers U.S. Environmental Protection Agency (.gov)
 
 ### Data Center On-Site Power Brings Pollution Risks Closer to Home
 
@@ -7057,6 +7761,16 @@ Want more Data Center Knowledge stories in your Google search results?
 - **Source:** Blue Virginia — https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUGt1RzRTMlR0LWQwN29CTmhXcEdWajh6UEVOOTFJSkxBYzlDaHo4VEM3aC1ac3dsWmdiS2kyaTVUMnRCRkxYQlZPZmRKNG9ncXhQZHA2YXdEOHVQOWFDVEdDbGlfd0dwTF84dVV2cUplLWQ4dWt3a0RjNlN1d1NnRGlDaUNZZEhjbXNkb2lob0dtNGxiYnBpUklHWnpVWTI0dkR0SnRuWFV3aEduMGpuNTIxR2R5cE5paURlN283N29oSEZUbXhNVWdINWRQUFlTVTVXakotSkpkdkpoQm1LRg?oc=5
 
 Video: On Senate Floor, Sen. Mark Warner Calls for Data Center Guardrails, Urgent Need to Pass AI Security Legislation Blue Virginia
+
+### California Enacts Seven Data Center Bills, Effective January 1, 2027: New Tariff, Entitlement, and Disclosure Rules for Hyperscalers, Developers, and Power Producers - Foley & Lardner LLP
+
+- **Jurisdictions:** United States
+- **Topics:** general
+- **Document stage:** news
+- **Published:** 2026-09-28T20:12:47Z
+- **Source:** Foley & Lardner LLP — https://news.google.com/rss/articles/CBMitgJBVV95cUxPbHdEcEdRTGlEYWNsLVQ0RUZhaGNndkJhd0tRT3Q0Y0RJOWhRWjlMTTFvMzcyU1VfOHhaOGhSc3JLbnQtMVZ0ZEx0TGJQNmQ5TWFOY1dlU1NqSzBKNFo1cGlhSktlazdQeUVMQmRrOW9YY1hOZGNQVjNBazNUUnEtRXMwQW1ZWVZTdlhBNlVtWnJVeGdsR0dWdWtfdzhMSkpRVTVJSkRYNjZGemRuemp2WV9DaTFDVnViNWFMTzFrWVlnbG0tN2pyUVZtVURyNWkyTTItUGJESjNWQzlydjRmX1k3NFNtZHpsX2lyMUdNc09sZkRsMjJzNzZ1TEZNdk1weVdEOEZwN2c5b1JLYjBmS0x0THZuVnZydWdTVk5QMy1IYzJfdVNaQXFqX3JaMjVaTVQ2NHRB?oc=5
+
+California Enacts Seven Data Center Bills, Effective January 1, 2027: New Tariff, Entitlement, and Disclosure Rules for Hyperscalers, Developers, and Power Producers Foley & Lardner LLP
 
 ### Sponsored: Sustainable data center backup power is a strategy, not a battery chemistry
 
@@ -7185,6 +7899,16 @@ The future of our alliance depends not only on the promises we make, but on the 
 
 Texas Freezes Data Center Permits Until Grid Audit Ends Parametric Architecture
 
+### Texas Escalates Data Center Oversight with Attorney General Water-Use Investigation - Foley & Lardner LLP
+
+- **Jurisdictions:** United States
+- **Topics:** general
+- **Document stage:** news
+- **Published:** 2026-09-24T07:00:00Z
+- **Source:** Foley & Lardner LLP — https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbGI1Vm5GdGRUR1laY0FXYnEyNVZZUTBDWFMtUXdPQVlNWWdKeFktZVNQVUZUNEVxWDRIbnE4M1Y4Z081X2Fld3ZiTjMzY2FlSlh0OXprU3NOOWtlcVJjLWJnQTgyemU4N2YwR25lc0FCUkIzMFV2TXhiNk9rWEtHUDBfdTdXbFdEcjl4bUZQaks2WWV0VlUyVXhnQTFuODdaU3hsaFpxUlRubjhMZ0NBZDZheUxXb2phSDdBVWxCNk5NcjQ0SVk1OEFmTzgwQXNRdWc?oc=5
+
+Texas Escalates Data Center Oversight with Attorney General Water-Use Investigation Foley & Lardner LLP
+
 ### Gov. Spanberger Moves to Rein In Virginia’s Data Center Boom Without a Moratorium - Broadband Breakfast
 
 - **Jurisdictions:** United States
@@ -7276,6 +8000,16 @@ Gavin Newsom Signs Seven California Data Centre Laws Covering Power, Water and L
 - **Source:** 조선일보 — https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTEhNcTAtU2ZjY293b3U1Z0t6Yk82RFVvOHp0NmNQQVQ1RXRUbklVWnJ1blVSb2tRXzgzaC1pVkU3NDlhakJPTE1JZVJoS3o5NVNndWJLWGFCWEJNS1JteEJFOWVfbkpUcU5maVZOM1ZlUkJJNUNvOHhza0JnS3BaMWxWV2hNd3g2?oc=5
 
 Texas Halts AI Data Center Permits, California Mandates Disclosures 조선일보
+
+### Texas will stop issuing environmental permits for data centers, Gov. Abbott says - Community Impact Newspaper
+
+- **Jurisdictions:** United States
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-09-22T07:00:00Z
+- **Source:** Community Impact Newspaper — https://news.google.com/rss/articles/CBMixwFBVV95cUxQSWVnUVZXMC1FZXhudDV2cU1Ua29tRnhHY3VsaGR1bXVHWDJqWkROTE9NeldiTDZJMWFmZExrM0RqU3NvZWh1MzZyVk4wVmMwUXE1bDhuX3RoMHVmaTNzMkE3dnlPeU10b2gwa0Y2ZDlzRDFyNmY2d1VoajlXU1Rydm9BaHZlUXlBd1Jyc0ttZnhqNDViRkhsaHAzckhkcVB2Y3RhSVNyRk93Rk1jcG1hQ1BrV3pZRG1KTWhMQ2hQWnlZMm5FRXVn?oc=5
+
+Texas will stop issuing environmental permits for data centers, Gov. Abbott says Community Impact Newspaper
 
 ### Texas Halts All New Data Center Permits, Putting Brakes on AI Infrastructure Expansion - finance.biggo.com
 
@@ -7371,6 +8105,18 @@ Tarrant lawmaker plans Texas data center transparency legislation Fort Worth Rep
 
 Spanberger presents slate of data center regulation proposals, puts first directives in motion Virginia Mercury
 
+### La gobernadora Abigail Spanberger anuncia el plan de regulación más agresivo para los centros de datos de Virginia - EcoPortal.net
+
+- **Jurisdictions:** European Union, United States
+- **Topics:** security-resilience
+- **Document stage:** news
+- **Language:** es (untranslated)
+- **Original title:** La gobernadora Abigail Spanberger anuncia el plan de regulación más agresivo para los centros de datos de Virginia - EcoPortal.net
+- **Published:** 2026-09-18T16:25:42Z
+- **Source:** EcoPortal.net — https://news.google.com/rss/articles/CBMieEFVX3lxTFB6RDV5dGFSRDk5WTFYWk1NMWpNMFJOUFRES3p1LUtGYm52VGJHX1JoMjZvRW5OOGZ3ZWcxc1llT0FxT0ZiNU5uZ0ZkaVRPRElzWFo0WDFtRXJlbkw5S1pob0JQUE9BZlB5NjlOdEJHQmxTeVA5Q1RHcw?oc=5
+
+La gobernadora Abigail Spanberger anuncia el plan de regulación más agresivo para los centros de datos de Virginia EcoPortal.net
+
 ### Virginia’s Loudoun County board votes to pause new data center applications
 
 - **Jurisdictions:** United States
@@ -7433,6 +8179,16 @@ A version of this story appeared on Presidente Lula sanciona ReData no Palácio 
 - **Source:** Ohio Capital Journal — https://news.google.com/rss/articles/CBMiugFBVV95cUxPRExKakV2N0otXzBMZmpyR2NTd05hZVNpRWNPQmFnMjBVNndOTEltaGVvUS0wVWJSME1oUkg5b2lvSDhmWFFrUjBhZUdtaVI2eDFDVHFQNUF3Y2dmcnNKZDdyTFc4enJzX2dtYllvTkVlOU1OZDRuLUpxT2ptNk1WczdyY2gzN1VlWW5MSnBETkUySHIxS2h2T2VBWmhrS2JvYWtwSTBHdGFfYXJNenJoOURkbFhGUklzM3c?oc=5
 
 Ohio now has over 125 active moratoriums on data centers. See where they are. Ohio Capital Journal
+
+### Heinrich Offers His GRID Savings Act to Force AI Data Centers to Pay for Grid Upgrades, Highlights How Husted-Backed Bill Falls Short – U.S. Senate Committee on Energy and Natural Resources - Senate Committee on Energy and Natural Resources (.gov)
+
+- **Jurisdictions:** United States
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-09-17T20:08:54Z
+- **Source:** Senate Committee on Energy and Natural Resources (.gov) — https://news.google.com/rss/articles/CBMigwJBVV95cUxOa085REtJbWhOSVdRcG5hblE4ZE16TUt6VGZKTE4tajBFbm5PM3RaZ240RWY5cnVXa29DcUluaHZ2Y0hra0lma1pLNkFIWV9fWVJFMlNoM0xWYzlfQTFXdDZyckV3TG9jTk5UTFRyWFJUeU1oUFN4UmpaNTM4NXNwWFFIOWxLQTVaN1FhbHNFeGxSZ19hc1FRMDNleGNSVEtZRGVIb1RoZEtCQnBneDNCOTNzUTNZZk05OHRwelJVV0NhLW5udnQwcExzMHl6OG1TNXcxSjRJakRjcmhtYnV6enRfUmRvMXFWdmZneGZfT21DcVRmMTRqNDZPUm9NWTVFMGRn?oc=5
+
+Heinrich Offers His GRID Savings Act to Force AI Data Centers to Pay for Grid Upgrades, Highlights How Husted-Backed Bill Falls Short – U.S. Senate Committee on Energy and Natural Resources Senate Committee on Energy and Natural Resources (.gov)
 
 ### Texas governor directs water board to enforce data center reporting requirements - waterworld.com
 
