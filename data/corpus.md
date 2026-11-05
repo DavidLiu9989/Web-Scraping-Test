@@ -1,7 +1,7 @@
 # Data Center & Cloud Services Regulatory Corpus
 
-Generated: 2026-11-02T13:57:51Z  
-Articles: 1151  
+Generated: 2026-11-05T13:35:30Z  
+Articles: 1193  
 Scope: regulatory requirements for security & resilience and sustainability of data centers and cloud services, worldwide.
 
 Each item carries structured metadata (jurisdiction, topics, document stage, date, source) so an LLM can compare this corpus against other policy documents.
@@ -21,7 +21,17 @@ Each item carries structured metadata (jurisdiction, topics, document stage, dat
 Argentina busca atraer centros de datos de IA sin regulación y con un recorte fiscal propuesto Euronews.com
 
 
-## Australia (11 items)
+## Australia (12 items)
+
+### Australia data centre inquiry finds inadequate checks, stops short of moratorium - ET CIO
+
+- **Jurisdictions:** Australia
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-11-05T03:09:28Z
+- **Source:** ET CIO — https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUVRfMjNJeFczYkVrdDQ5M3E5ZjFLdGZQUU96anRIbHBjV3N3RzlPQWd5ZHlWTk1vZW1IbEZEeG5zczRsa3FseENSNElJYzdCMGZGM1c3QmFsQVhDa1Fod3JiYmc5Y1dvbXhES19JaUZFWC1oNWt1N1o4YTZkbXBNM2YzcTBGMmJZdUhfOWVxRGZaZHk2RlhiSzZ0Z0hwWDhPa2VneVpfenFKb0FSYzFueE0xY0lGU0ZjTHlRZUlxWF9RWUhZWUtwNjY4SDFudzd5Q19oQW5KVFhaN21KX2tiedIB5gFBVV95cUxPVEdtNFJ3XzR6NURmQU5iZHY3cVFlUlVlTXo2Q1NaTWc5dUUySXJZTHh0MG44d0RBSUJpcE5LWkhTOG04UlZjN190X3NLQ0V3MVR3OTl3WDJ2Szk3NkxfdUVxeHh5VmMxOWFDRExOV0RaY3BERW56MlZxR0wwczA5eW1lWUlpZ1BoeGtuWnRvMjZjd01QVkNxQlppenB6RHU2RzNGc2NfR09SWlExcWFQTkVKaGFMWXYtQ0M5VEgwQndkTWVJc2QxZW9LR0VjcEdka2dXUmJSZUxiWkJZNzEzRmQ4VENmUQ?oc=5
+
+Australia data centre inquiry finds inadequate checks, stops short of moratorium ET CIO
 
 ### SAP & NTT team up on sovereign cloud for governments - ChannelLife Australia
 
@@ -386,7 +396,17 @@ Denmark Publishes Emergency Grid Law That Puts Data Centers Last Bloomberg.com
 Denmark Publishes Emergency Grid Law That Puts Data Centers Last Energy Connects
 
 
-## European Union (19 items)
+## European Union (20 items)
+
+### Revised EU sovereign cloud bill gives public buyers more flexibility - MLex
+
+- **Jurisdictions:** European Union
+- **Topics:** security-resilience
+- **Document stage:** news
+- **Published:** 2026-11-04T13:56:10Z
+- **Source:** MLex — https://news.google.com/rss/articles/CBMisAFBVV95cUxQbTRiZDNldl9LbWNQc185ZkYxSTZETnJYN3d6aUJfc3JILTQyUk0tRFFNWHVqQkNWMEFhZkQ2WjJabGtpZ2hMR2l1S2hhYTBVSU9na3dCZWZJdEstcmRPbGdBMTh5MnNheTMzakNDbHRncEdyUk5LT2NRc0h2RnN2c3hZMnQybG52am5zcG9meVdsTUJHTjhlbjZ5RHBacHpSZ2lvcFo4MDVUTzhpX2JlcdIBWkFVX3lxTE5hUEZiQ2t0TURFaEpGRkVfZHpYWVp4RUczT1lQSWljSWdsaVlMUXk3TlprMUFsdkg1OHFsS1VvQ2RocTVkWUtERU50eHRWeDJtSDFENTh0eGRLZw?oc=5
+
+Revised EU sovereign cloud bill gives public buyers more flexibility MLex
 
 ### Governing the Unmeasured Load: Hyperscale Data Centres, Systemic Risk and the Assessment–Management Gap in EU Law - Cambridge University Press & Assessment
 
@@ -632,7 +652,17 @@ La gobernadora Abigail Spanberger anuncia el plan de regulación más agresivo p
 Rechenzentren als kritische Infrastruktur: Pflichten nach NIS2 und KRITIS-Dachgesetz Anwalt.de
 
 
-## Finland (3 items)
+## Finland (4 items)
+
+### Finland data centre law to drive gas investment – ministry - Montel News
+
+- **Jurisdictions:** United States, Finland
+- **Topics:** general
+- **Document stage:** news
+- **Published:** 2026-11-04T12:37:48Z
+- **Source:** Montel News — https://news.google.com/rss/articles/CBMivgFBVV95cUxQNmpZTGNnVmhiSlExSDYteEtpbWZKWFdSeEdja2M1aVFnck5nMlhhQTZlN2pVT2hPWjR5TXltR0loMHpDcEV5b0tyZkJrRHFCZ2l6aXF4WTdZUWIyaFcycENrRlJDSVVmc3VqaVNneEh3enFIMENBdm05c1pTMUdUV0Y1Z2xzSUJCbzNCRmxoTy1WdVpFRFhidTE3UVFyYktTc05uWDNDTEstOEhJc3UteFdZeE5Na3lQcXRkMWR3?oc=5
+
+Finland data centre law to drive gas investment – ministry Montel News
 
 ### Reliability Standards for AI Data Centers, Crypto Miners Move Closer to Adoption
 
@@ -768,7 +798,42 @@ Want more Data Center Knowledge stories in your Google search results?
 </details>
 
 
-## Germany (3 items)
+## Germany (4 items)
+
+### Cloud Revenue Hits $168B as AI Capacity Expands
+
+- **Jurisdictions:** United States, Germany, India
+- **Topics:** general
+- **Document stage:** news
+- **Published:** 2026-11-03T10:00:00Z
+- **Source:** www.datacenterknowledge.com — https://www.datacenterknowledge.com/cloud/cloud-revenue-hits-168b-as-ai-capacity-expands
+
+Cloud infrastructure revenue reached $168 billion in the third quarter as providers brought higher-priced AI capacity online, reinforcing demand for new data centers even as power constraints slow delivery.
+
+<details><summary>Full text</summary>
+
+Cloud infrastructure revenue reached $168 billion in the third quarter as providers brought higher-priced AI capacity online, reinforcing demand for new data centers even as power constraints slow delivery.
+Cloud providers are bringing data center capacity online for higher-priced AI services as enterprise cloud infrastructure spending accelerates, reinforcing demand for construction even as power constraints complicate delivery.
+Worldwide spending on cloud infrastructure services reached $168 billion in the third quarter of 2026, up 55% from a year earlier, according to a Synergy Research Group report . The market has doubled in eight quarters, and AI-specific services now account for roughly one-third of total revenue.
+John Dinsdale, chief analyst at Synergy, told Data Center Knowledge that three factors are driving the surge: additional capacity coming online, higher pricing, and a continued shift toward more expensive AI services.
+“A lot of the additional capacity that is coming online is specifically targeting more valuable, higher-priced AI services,” he said.
+That shift in pricing and service mix helps explain how cloud revenue can grow faster than the data center capacity supporting it. JLL’s August midyear report illustrated the construction demand behind that expansion.
+Related: Zombie Workloads Haunt Data Center Efficiency Efforts
+Hyperscalers accounted for 59% of North American data center tenant demand, while 28 GW of owner-occupied capacity was under construction, according to JLL. Neoclouds – specialized cloud providers offering GPU-as-a-Service to enterprise customers – represented another 11% of demand, while AI companies accounted for 7%, broadening the customer base competing for facilities.
+The buildout is expected to continue. Global data center capital spending is projected to exceed $3 trillion by 2030 as hyperscalers, sovereign AI programs, and specialized cloud providers expand their infrastructure to support growing AI workloads, according to an August report from Dell’Oro Group.
+The cloud market’s expansion is also reshaping which companies need infrastructure and how they compete. Amazon retained the largest share of worldwide cloud infrastructure revenue at 26%, followed by Microsoft at 19%, and Google at 16%, Synergy reported.
+“AI has totally transformed the cloud market in terms of service capabilities, customer demand, and growth opportunities,” Dinsdale said.
+Microsoft and Google grew faster than Amazon, while Oracle and neocloud providers, including CoreWeave, Crusoe, and Nebius, were among the fastest-growing companies outside the top three. Synergy said neocloud expansion is eroding the market shares of some established providers.
+For data center operators, that changing mix raises questions about tenant durability and contract stability, particularly if some fast-growing providers consolidate. Dinsdale said he expects the underlying infrastructure to retain value even if an individual neocloud’s prospects change.
+CBRE’s August report on North American data center trends found 7,481 MW under construction across eight primary markets in the first half of 2026, up 24.8% from a year earlier. More than 80% was preleased, up from 74.3% a year earlier. Power constraints continued to extend completion schedules, leaving customers competing for capacity that has yet to be delivered.
+Those commitments mean operators evaluating expansion must weigh construction schedules and tenant stability alongside cloud revenue growth.
+Dinsdale said he expects data centers, installed equipment, and existing customer contracts to find new owners if neocloud providers consolidate or fail. That suggests consolidation would redistribute infrastructure rather than leave large amounts of it unused, though the financial outcome would vary significantly by asset.
+“Whatever happens to a neocloud company and its prospects for carrying on as an independent entity, there will be valuable assets that will not go to waste,” he said. “Valuations will vary greatly, but I don’t imagine too many stranded assets being trashed.”
+Related: Cloud Region Migration: Optimize Costs, Latency, and Compliance
+Nathan Eddy covers data center trends and technologies across multiple industries. A graduate of Northwestern University’s Medill School of Journalism, he is also a documentary filmmaker specializing in architecture and urban planning. He currently lives in Berlin, Germany.
+Want more Data Center Knowledge stories in your Google search results?
+
+</details>
 
 ### Germany relaxes waste heat law for data centers - Foro3D
 
@@ -805,7 +870,71 @@ Deutschland lockert Abwärmegesetz für Rechenzentren Foro3D
 EU bereitet Mindeststandards für die Energieeffizienz von Rechenzentren vor pv magazine Deutschland
 
 
-## India (35 items)
+## India (37 items)
+
+### OpenAI promises to drop NDAs and increase community transparency, following anti-data center wave
+
+- **Jurisdictions:** United States, India
+- **Topics:** security-resilience, sustainability
+- **Document stage:** news
+- **Published:** 2026-11-05T13:03:45Z
+- **Source:** www.datacenterdynamics.com — https://www.datacenterdynamics.com/en/news/openai-promises-to-drop-ndas-and-increase-community-transparency-following-anti-data-center-wave/
+
+Publishes Compute Campus Policy and National Community Compact
+
+<details><summary>Full text</summary>
+
+Publishes Compute Campus Policy and National Community Compact
+OpenAI has detailed its community pledges for locations where it plans to build and operate data centers in the US.
+The move to reset its public image comes after voters came out overwhelmingly against data center projects and in favor of moratoriums. In midterm exit polls, 56 percent of voters said AI data centers were a crucial or major factor in their congressional vote decision.
+OpenAI has published a Compute Campus Policy and a National Community Compact laying out its vision for facilities. However, it only covers "sites owned and operated by OpenAI," so it is not clear whether this includes the majority of compute it leases or develops with partners.
+For the owned and operated data centers, OpenAI has promised to "listen and learn."
+The company said that it will give residents clear, regular opportunities to have input in project development. A point of contact will be designated for residents to reach out to throughout the life of the campus.
+More concretely, OpenAI said that it will no longer use non-disclosure agreements (NDAs) with public officials, with the "narrow" exception of legitimate security information, trade secrets, or proprietary or competitively sensitive information.
+The company will publish site-specific plans on the temporary effect of construction, including independent noise studies, water usage, energy costs, sustainability, and economic impacts.
+Earlier this month, it unveiled the 'Grid Protectors Program,' where it pledged to try to reduce electricity demand from its future data center campuses when the grid is under strain. It has also signed a national Ratepayer Protection Pledge.
+In its new pledges, it added a promise to keep the grid steady with load smoothing, and to supply power back to the grid where needed.
+It will also provide insurance against stranded assets, in case a project is delayed, reduced, or canceled.
+Less clear were the company's promises on community investments, where it said it "could support housing stability," "could invest in education," and "could expand access to capital, business advising, technology, and new markets" for local businesses.
+OpenAI has also promised to help communities plan for an influx of new tax revenue, a promise more geared towards highlighting that potential monetary source.
+This week, OpenAI also looked to rebrand its data centers as 'compute campuses' in hopes of differentiating them from other data centers.
+
+</details>
+
+### Cloud Revenue Hits $168B as AI Capacity Expands
+
+- **Jurisdictions:** United States, Germany, India
+- **Topics:** general
+- **Document stage:** news
+- **Published:** 2026-11-03T10:00:00Z
+- **Source:** www.datacenterknowledge.com — https://www.datacenterknowledge.com/cloud/cloud-revenue-hits-168b-as-ai-capacity-expands
+
+Cloud infrastructure revenue reached $168 billion in the third quarter as providers brought higher-priced AI capacity online, reinforcing demand for new data centers even as power constraints slow delivery.
+
+<details><summary>Full text</summary>
+
+Cloud infrastructure revenue reached $168 billion in the third quarter as providers brought higher-priced AI capacity online, reinforcing demand for new data centers even as power constraints slow delivery.
+Cloud providers are bringing data center capacity online for higher-priced AI services as enterprise cloud infrastructure spending accelerates, reinforcing demand for construction even as power constraints complicate delivery.
+Worldwide spending on cloud infrastructure services reached $168 billion in the third quarter of 2026, up 55% from a year earlier, according to a Synergy Research Group report . The market has doubled in eight quarters, and AI-specific services now account for roughly one-third of total revenue.
+John Dinsdale, chief analyst at Synergy, told Data Center Knowledge that three factors are driving the surge: additional capacity coming online, higher pricing, and a continued shift toward more expensive AI services.
+“A lot of the additional capacity that is coming online is specifically targeting more valuable, higher-priced AI services,” he said.
+That shift in pricing and service mix helps explain how cloud revenue can grow faster than the data center capacity supporting it. JLL’s August midyear report illustrated the construction demand behind that expansion.
+Related: Zombie Workloads Haunt Data Center Efficiency Efforts
+Hyperscalers accounted for 59% of North American data center tenant demand, while 28 GW of owner-occupied capacity was under construction, according to JLL. Neoclouds – specialized cloud providers offering GPU-as-a-Service to enterprise customers – represented another 11% of demand, while AI companies accounted for 7%, broadening the customer base competing for facilities.
+The buildout is expected to continue. Global data center capital spending is projected to exceed $3 trillion by 2030 as hyperscalers, sovereign AI programs, and specialized cloud providers expand their infrastructure to support growing AI workloads, according to an August report from Dell’Oro Group.
+The cloud market’s expansion is also reshaping which companies need infrastructure and how they compete. Amazon retained the largest share of worldwide cloud infrastructure revenue at 26%, followed by Microsoft at 19%, and Google at 16%, Synergy reported.
+“AI has totally transformed the cloud market in terms of service capabilities, customer demand, and growth opportunities,” Dinsdale said.
+Microsoft and Google grew faster than Amazon, while Oracle and neocloud providers, including CoreWeave, Crusoe, and Nebius, were among the fastest-growing companies outside the top three. Synergy said neocloud expansion is eroding the market shares of some established providers.
+For data center operators, that changing mix raises questions about tenant durability and contract stability, particularly if some fast-growing providers consolidate. Dinsdale said he expects the underlying infrastructure to retain value even if an individual neocloud’s prospects change.
+CBRE’s August report on North American data center trends found 7,481 MW under construction across eight primary markets in the first half of 2026, up 24.8% from a year earlier. More than 80% was preleased, up from 74.3% a year earlier. Power constraints continued to extend completion schedules, leaving customers competing for capacity that has yet to be delivered.
+Those commitments mean operators evaluating expansion must weigh construction schedules and tenant stability alongside cloud revenue growth.
+Dinsdale said he expects data centers, installed equipment, and existing customer contracts to find new owners if neocloud providers consolidate or fail. That suggests consolidation would redistribute infrastructure rather than leave large amounts of it unused, though the financial outcome would vary significantly by asset.
+“Whatever happens to a neocloud company and its prospects for carrying on as an independent entity, there will be valuable assets that will not go to waste,” he said. “Valuations will vary greatly, but I don’t imagine too many stranded assets being trashed.”
+Related: Cloud Region Migration: Optimize Costs, Latency, and Compliance
+Nathan Eddy covers data center trends and technologies across multiple industries. A graduate of Northwestern University’s Medill School of Journalism, he is also a documentary filmmaker specializing in architecture and urban planning. He currently lives in Berlin, Germany.
+Want more Data Center Knowledge stories in your Google search results?
+
+</details>
 
 ### AIB plans 50MW AI data center at former Spartanburg cryptomine to serve Nebius
 
@@ -2341,7 +2470,43 @@ The future of our alliance depends not only on the promises we make, but on the 
 </details>
 
 
-## Spain (157 items)
+## Spain (161 items)
+
+### Real decreto centros de datos: lo que cambia en tu factura si el Gobierno lo aprueba antes del 29N - Qué.es
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** Real decreto centros de datos: lo que cambia en tu factura si el Gobierno lo aprueba antes del 29N - Qué.es
+- **Published:** 2026-11-05T05:10:00Z
+- **Source:** Qué.es — https://news.google.com/rss/articles/CBMibkFVX3lxTE40akFpbE5QNk8tb1ZqbVEyYm1ZVnNadnd2VEhxckc5RUJtVlZrd2YzVzRVZFhqa0dGV3lOMnhVZVpyb3FpS0MwMUdoUXBPQkFWOVg4YnhqdUFQcmxFMXVMX3V4LXdtb2liSFZRRWFn?oc=5
+
+Real decreto centros de datos: lo que cambia en tu factura si el Gobierno lo aprueba antes del 29N Qué.es
+
+### Bruselas insta al Gobierno a revisar si debe notificar a la UE el real decreto de centros de datos - Demócrata
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** Bruselas insta al Gobierno a revisar si debe notificar a la UE el real decreto de centros de datos - Demócrata
+- **Published:** 2026-11-04T11:00:08Z
+- **Source:** Demócrata — https://news.google.com/rss/articles/CBMigAFBVV95cUxPdnVrZXpUTmdYdnVQN1hucTkxZkJsZy1rRk1XU1dabGxHYzRra0dUQTVLdXhJVnR5bDJCLXFQU19pSDhMa3NjRmxkOXBVaTJGdWRhQ2VaQjVoUm8zRUliWlYtdXNrV3dIVG1YOWdSbko2STJpSUxjMXdyeFF2Z2dyONIBhgFBVV95cUxOQmVIaUlVVUE5MVFVY21tQWRYdzAxeEV1M1BsV1B3NFg0cl9reFFaeDhYRlljV3VsYko5T0FPektsTGRjSkZrUjBDUjJuUnV0NGNqalF6eUdUblFDZm9YZGxYOVNNaGZJQXVrckZxb0IyeW1qUXBERTlZQ3lCR0daLTdla2V2dw?oc=5
+
+Bruselas insta al Gobierno a revisar si debe notificar a la UE el real decreto de centros de datos Demócrata
+
+### La Comunidad de Madrid presenta cuatro alegaciones contra el real decreto de los centros de datos - Economía Digital
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** La Comunidad de Madrid presenta cuatro alegaciones contra el real decreto de los centros de datos - Economía Digital
+- **Published:** 2026-11-04T03:55:00Z
+- **Source:** Economía Digital — https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMjRrb2NFd2pKLU5YbEFjQnJDQVlNa0lXWmdYT015TVdXSENKSHNTOGEwNUpaU0w1SlVtOXpVbU9CZmNhaXlhYU9fak1fR1E2N2dDVVZoVzR1VVJ6UGpHZ3ZaZ0NpMlN5bGc0RFNrQzZ6OGR4TUR4VFY2ZTVIbVExNEVBS2VTeEJveVRRRV9CWTROZ2RPR2IyZTU1aWhzVzB2QU9wVlBtamZ0aXhwcVN3Zk5WU29qd2t0ZFdVNUtuQWPSAcYBQVVfeXFMTmVEcnBOMkpWakl4a0RHaFZxYUJWWVRkMExxbFFoYnlnOG9KR0FrdUdYUzQ3dkdNZXZQZ05Rc3dnRlY2aURzSWUwSjZfSGhKcXd4UkFHMzQxaFRjY2dUbzFFWFNIZFh5eW1EUEo3RG1iRDNYLUhUWkMtZjFrZE9GcGRWYUtQZ25xanltQVBGNzRlT25SNmJJSVBxZUVqWDdlNU9mdHFVM04tMlRJX2dBcEZIbi1xdDNqVHpDbkdGZU1yZ3JLcmx3?oc=5
+
+La Comunidad de Madrid presenta cuatro alegaciones contra el real decreto de los centros de datos Economía Digital
 
 ### Microsoft no altera los planes de sus centros de datos en Aragón pese al real decreto del Gobierno de España - El Español
 
@@ -2712,6 +2877,18 @@ El Gobierno aprobará el real decreto de centros de datos antes del 29-N Capital
 - **Source:** El Correo — https://news.google.com/rss/articles/CBMioAFBVV95cUxOaXowREF1ZzI5MnhJVmgxN3JIZHh1bEFNNDkwVGs4OThEOFRYeXVGRDVVYXNlWS03VEpUbVIwdXRlcU1SMTB6MGdmYVJ6MmtQTjhVSFlTYmFXTWpIWG1CY0t6aXJwaWRZUUhpQVRla0ozNUFTcDA4RkkxS1R6VnlKOE1JN3ZrSnUzcHlxcXc5ejAxVFpJT251M0dWdDlmOUJT0gGmAUFVX3lxTFB0U3NwVTllRFRNR2VqSE9GQVdFRGNQYnBZbG9OVlVyT0s0S1M0YnBpRXNfVy13UVh0MzNKS1RtSHg0T183Q0Nsc2l2QTR0djRheWJjb05ZU256T1N2VFc3ZkxiMnlhMFFQSzU3eTIxVmU3dzRudld5Uy1GcHg4UnVDOGdYd1VzVEMxSERiSlFmR2RLRk1tT2xpTGVMTmlvWVNSbTRRdHc?oc=5
 
 López no fija fecha para el real decreto de centros de datos El Correo
+
+### López no fija fecha para el real decreto de centros de datos y garantiza que la norma asegurará las inversiones - El Periódico de la Energía
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** López no fija fecha para el real decreto de centros de datos y garantiza que la norma asegurará las inversiones - El Periódico de la Energía
+- **Published:** 2026-10-22T07:00:00Z
+- **Source:** El Periódico de la Energía — https://news.google.com/rss/articles/CBMi1wFBVV95cUxObDJFUkxlMF96bklOTzYzOEpvczJncHVGMm40LVlHam1OajJIU1VGcGtHeEtkZUF6cWh6V0VibUY2Wk1aa04tUHBBeXplTXEtSU91RkZUMVUzY2pFUGstVzJTTDRBZ0dZZjBOYlBoY05KbG1RQmJUNWpfR1V2cUR1WHFMZ01WeTU1cV9Bc2J5ZlhnU0NuM2wwVXpYSlVZZHFOSVVuVE5QYkROdHlVY1AzTmZFb2JKV3lqanFLXy1jMUJYdExaSU9Xd2hLQmtPbzMzcDFEYkVLRQ?oc=5
+
+López no fija fecha para el real decreto de centros de datos y garantiza que la norma asegurará las inversiones El Periódico de la Energía
 
 ### Paco González, CEO de CoreTech, sobre el real decreto de los centros de datos: «Si se aprueba, será un drama» - Economía Digital
 
@@ -4322,7 +4499,281 @@ Prime Minister scrambles to get data centre sector back on track after energy an
 Thailand’s Cloud Security Standard Is Now in Force: What Providers and CII Operators Must Review TechRepublic
 
 
-## Unattributed (763 items)
+## Unattributed (793 items)
+
+### Cromwell considers moratorium to pause new data center developments - KOLO | 8 News Now
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-11-05T12:10:18Z
+- **Source:** KOLO | 8 News Now — https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY0RKLTFWVTlTYS1oSkVzTW1GRVdWdnF2QTJ0X1hDOFMzVURvMHV0QXpFUnpnRWYyZ08weVhFaW9IeFBLRXBpRzBzaTk3S0l3WndBendVQTZCdG1mWDg0RDQwYkRTNUM1TlhDWGxoZjljRFNQVHQzejRiWDBGVEFvamVSdzgtWXFEVkZjQ1o4dVhDelRIVWhvYWNmcDNhblVIVmlkY3J3OTk?oc=5
+
+Cromwell considers moratorium to pause new data center developments KOLO | 8 News Now
+
+### Cromwell considers moratorium to pause new data center developments - WLBT
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-11-05T11:44:00Z
+- **Source:** WLBT — https://news.google.com/rss/articles/CBMipgFBVV95cUxPejVmbFFHQUZEVkd6b2g0RW90ejJLSHBiSUlWTjB2LVNvZkVCVDhKYWtPQTVyajFTdzRJaE5qVk8xSzBkLS1NUDByOHlxUHZJREZPeUJzQTl0WlpMMHBidUdfNWg3dXN1TUlQbGQtOHd3bWJoUUpKWUg0c0EtOXJDZ0ZPR3NZR0VmcjAtbndCSVdpd2FDb21ZbTJPY2ZmZ3lPVW5MQUpB?oc=5
+
+Cromwell considers moratorium to pause new data center developments WLBT
+
+### Cromwell considers moratorium to pause new data center developments - WCTV
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-11-05T11:43:00Z
+- **Source:** WCTV — https://news.google.com/rss/articles/CBMipAFBVV95cUxPVUNrdElWUDVDc0MyT2lZZmI4bWRSbU1yVVNCLWctc0NEMkc1RVNyV18wVEJFeDh0cGV3WXRwUm92S0FxVjRkSktVU2ZYVEkxMXgwQVJ3RHFXUmJmeVpha1laOHh5RFg0dXFvdDBtWFJjcmpBSEVKZ0VDd3hnMzVtMmJnU19rd0U0VkdNN1lGRUhvOXlHZjVuYUpUMUhIM0dzNXNFRw?oc=5
+
+Cromwell considers moratorium to pause new data center developments WCTV
+
+### Cromwell considers moratorium to pause new data center developments - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-11-05T11:42:28Z
+- **Source:** KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE — https://news.google.com/rss/articles/CBMiqgFBVV95cUxObkZ6dWFmOGFOTDRWb2N4cVdrS1FGRk5KNEhHSUJTNXpXeFZlOERGeUtyY1NJdHhXbXVIeldPUjQxbDhrSXd0Q3NuVmVGbzBsRF9NTEVJNWE3c0o1aWhzdm1QU19MVjlkTTM1blh3eWpCZTlyeE5qMGRQQjlSbGxTbFIzRFY0bmVtVEdvQTE2cFRvaHZxM2NQY3l6Q243U0Ywbjg1ckMwQ1NBZw?oc=5
+
+Cromwell considers moratorium to pause new data center developments KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE
+
+### Cromwell considers moratorium to pause new data center developments - WBAY
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-11-05T11:42:07Z
+- **Source:** WBAY — https://news.google.com/rss/articles/CBMipgFBVV95cUxPekN0RmNiRzlWOU1hWnYyQlo0LU5IcmxuX3hpbVpKNUJqbXdpX0JucWh4UlpUaW93aHdQMTUwTUZMeENzZ1ZqWXhSQ2ItdkU4U2JRbWt0LUktT3RicW9uTlhsZjR3aURrSV84ODlfclBMOTA2MklURkJDTUFwZmk4TFV6UF8tM3preVM4TlkyV3ptOHZmSm44ZWtHRjB0cWVzOHF2OFJB?oc=5
+
+Cromwell considers moratorium to pause new data center developments WBAY
+
+### Cromwell considers moratorium to pause new data center developments - KLTV.com
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-11-05T11:41:54Z
+- **Source:** KLTV.com — https://news.google.com/rss/articles/CBMipgFBVV95cUxQTFk3R2drZ0hEamdpdEFaajBtS0JWMWd3eG9XZXlfSzNrQ1dSOXJ5bjlPWm1GamFVRlJJdU1SUWsweWFkMmVlMlZTdkFxbkxPaEhReExxY1AwTjE3d2hPRWFHVnNGeEFRcV9rU2NDWGx1eHVGOGc1Xy1oTzJXYWY5dlRTQUV6UXA3SHFta1VaXzJWMFNuNXZVTUVDSG9VLWxJZWU5UG93?oc=5
+
+Cromwell considers moratorium to pause new data center developments KLTV.com
+
+### Cromwell considers moratorium to pause new data center developments - FOX5 Vegas
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-11-05T11:41:25Z
+- **Source:** FOX5 Vegas — https://news.google.com/rss/articles/CBMirAFBVV95cUxOQWUyYmpDNmd1OFlCZ1cxN3o5UllHSkZtbVJrMVRXdXhOY2JyMDBrUXBUWmNPU0h2ZkdveGFxZE9tWDF1YWgtRlZtOE54clFDUkpsQ1BaNGhSS3VCcmpjX1Vnd2dMbzY1MzY0T0p6WGZXSGNmZVJ1d3J5STM4WGJHekNfLWNoTUhKSmNreF90dzl6Z284TFdqTnFYOW1WZ3lIRzJBREQyRnd0SE4t?oc=5
+
+Cromwell considers moratorium to pause new data center developments FOX5 Vegas
+
+### Cromwell considers moratorium to pause new data center developments - WTOC
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-11-05T11:41:21Z
+- **Source:** WTOC — https://news.google.com/rss/articles/CBMipgFBVV95cUxOdkVfMVNkUnZUbzhSSEFRd0JDRFRpX01wZnJJdk56SDdWbXY4bzRNV0ZKU1FfNTZzLTNud0VqdWNjckkzVjRacEYxdjRMTGZtYjB5Wk5pZFItUmNPUjdwWlFNVV95THhsTHRxRGxrQTJIazZLSVVYelVLZnd3WW5fWHFoYlRLaXJONDhqV0pUWlN3aHo3UUdVMWxJazFIdkRIc3NKUzNB?oc=5
+
+Cromwell considers moratorium to pause new data center developments WTOC
+
+### Cromwell considers moratorium to pause new data center developments - WAFB
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-11-05T11:41:05Z
+- **Source:** WAFB — https://news.google.com/rss/articles/CBMipgFBVV95cUxNM1ZGWjhfc2s1RVlvODRzU3J6U014akFITEFmRUdCU1FXOTR1UzZjaFh4Yk1SQXlKdXhyZGNjeldpMWwta0Fab1pDSkxZUTJhWTVZdGlfYUg0a0hzbk9uakFKWktKYWZQbzk3emtxaW40dXVQamRQOVdlYTFXSHcyeWJoaEhBY3VQZGJpVjlJMWJvWW5yZ1U1RHJtSjJ3VG51VzBLMU9R?oc=5
+
+Cromwell considers moratorium to pause new data center developments WAFB
+
+### AWS European Sovereign Cloud: Architecture, Assurance, and Compliance - Techzine Global
+
+- **Jurisdictions:** unattributed
+- **Topics:** security-resilience
+- **Document stage:** news
+- **Published:** 2026-11-05T11:30:00Z
+- **Source:** Techzine Global — https://news.google.com/rss/articles/CBMivgFBVV95cUxQN25EbG5rMGZ0QzVWVWxESDkzdk5aMFFNWVVndFpPZ2VLeXljci1lWDdnNWIwZ3piQzZzaDliZDd1cm5PYkFrYVpDUjVQelRYT0NtV0xSSV9EUU04WE03OUdSOXZheUVQZGZfWUlGSkVOazhmNGhnR2ZnZmp5UWZRN2JPdUx2U3dKNDdYd19Tc2VGNXd3ZHhzbkFpZmYzdEFiM2lxbkJlbVZyZ1ktVF9KaDdod1d5aV9iRFlFZ2ln?oc=5
+
+AWS European Sovereign Cloud: Architecture, Assurance, and Compliance Techzine Global
+
+### OpenAI lays out new policy framework for data centers - Politico
+
+- **Jurisdictions:** unattributed
+- **Topics:** general
+- **Document stage:** news
+- **Published:** 2026-11-05T11:30:00Z
+- **Source:** Politico — https://news.google.com/rss/articles/CBMilAFBVV95cUxOZDJuYW9tNHA1Vnc3dC1mdms0c2VBdmpSZ3lqbVBXMFdhZmR6MWlnbzJheXVfRVV4VlRaMjFLR1NpTURGTFh3VUJSN25MUmF6cV96TVF0a1NQNUVEeWlIWFVVbHNLeTE5ZTEtc0FUcWZrZEZsY2ZjelZXcDhmZjdCUkxtQTlGaGxsQWpGUEZxR0ItR1lZ?oc=5
+
+OpenAI lays out new policy framework for data centers Politico
+
+### Cromwell considers moratorium to pause new data center developments - WFSB
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-11-05T10:08:00Z
+- **Source:** WFSB — https://news.google.com/rss/articles/CBMingFBVV95cUxQc0hDZkdUd3k5cmJ3MTUtRTFlMG9oeFhicmhSZi1XeTRCLUNEdWs4emVlWVk3NzNBM1R5Y1lZN0ZlcEZEVWlVLVZVQ1A0dzM4SFNUSWdMTmpWT09RV21EVGRnbUZIaGNGdjd2emF3czhyQWI1WllCanU4N2pVNHFWTXZybGsySUlxcS1DUXJxVkdvaEozVU9qbGg1YWE0dw?oc=5
+
+Cromwell considers moratorium to pause new data center developments WFSB
+
+### US midterms bring data centre restrictions as AI buildout faces backlash - ET Datacenters
+
+- **Jurisdictions:** unattributed
+- **Topics:** general
+- **Document stage:** news
+- **Published:** 2026-11-05T07:25:57Z
+- **Source:** ET Datacenters — https://news.google.com/rss/articles/CBMi6gFBVV95cUxQaWFBX3FybGVFZV9ZcmM0SzdUMUhOblhrb0VsbGI3M3VCMENYY1AzQVBGc0RfaVZMdFpZN3JIQkNlZi1qTkpCWkxFaGJfOFJkcUhkcWdEYzFmZHNSQjhqSENzeVdZV0tKRmJLV2pBUVJRLWNfUmJrMGxJU3QwZ1lSVGJJR0lyR3ktNjJJajdVTlowa3AtbUY5YzdDdnJQdWF3LU5BN0p2Ykg2blVHSlh1N2Ywa3NCMXhyV1FhcWIzMWg1Wmk0NVZHN2U0cFJIOXFYT2xaMmhQYTlkaHB6bkQ2OGhkRVRMS1poVFHSAe4BQVVfeXFMTzBoYXlWa2pyMENieG5ST1hDRWJ3MzYxSjBNYjdrZjVnX05YVXFxYkJMeWhBQkVIeVhaeDBlaWREc0N0YTVuTlRQWGxxU2h5WFpLaFFZUlN4QmtIU2x6eU54Ym1kcmZjWkdXWVNzUklkNmJ4S0owMjRpc2wzdnhhWHRkaDNoanN3TDZoMVhPdERtc1M0SFVUU3lWVHA4QkxuQUtGbEhNbjRHbVBMUkxZbklSM25QU0liS25Nc2FZVFNaeE5NaHJFLXdWZ0ZhRE9EZFBjY2lqZDVPcFdYTF9hYTR4VFBBeklnNHdBSm9GQQ?oc=5
+
+US midterms bring data centre restrictions as AI buildout faces backlash ET Datacenters
+
+### Data center operators need community trust, not just permits - ET Datacenters
+
+- **Jurisdictions:** unattributed
+- **Topics:** general
+- **Document stage:** news
+- **Published:** 2026-11-05T02:08:49Z
+- **Source:** ET Datacenters — https://news.google.com/rss/articles/CBMijgJBVV95cUxOYlRpXzBMZzNKZVNqNHctMmhoZHVqUndzbEttODJVYmdhUXBDNGlpMlRxREZRdkRVam4zdHljVjhYckgxZFZod1l3UG5LdlZxQzZOTUdpMVQ5eWFRTlJWMUYzWWZ1VGdiQkZKb19tUEs5TGxZTldta0Z3d0JzZ1ZEWXJhd0hxUUFwSzdmNlowb0p1LWpHbnh0T3lISVZyX3V3blFIMnoyQkN0Vm01NVZZRkdiVjBQSW1hcDJCOW9YUGN3MW9kVlRjSUttWDNBM0JQUXpPYmVicEJFNVJrYXdLMVBBR2loeENYanBtMC1Ga3dTRlA3WVJHbTRsSnpyeEtFVUlRWlE3RmJZTVdtckHSAdwBQVVfeXFMTjQzVk1WV3dTWldGN2tzSEl3dTEzb09ESWxVMEV6enV5dDU0OEZEalVDYUxDeE1ZekdnVHRRWlVqZFpWcS1WQ3lHRkxTSFhNTWEzTExKYk8xZnFDS3NwUk5hXzY5MjR4bHYxLUpGRkM4bEtkSUZ3c24zT0UzdnlVNWJnQXVHbng2blA5WWxuWXFxVFhyT0VQelhmWDNoMEFmdG9teWI5VmZuZ0RlU0FjN0swZlF2a2FaUG5wTTJRaVBYV282UV9oMVgxLUtiNjJVNWNsakNDTTc4OG1fLQ?oc=5
+
+Data center operators need community trust, not just permits ET Datacenters
+
+### Super Micro Sinks 6%, Flex Down 13% as Election Raises Fears of “Data Center Moratoriums” - TIKR.com
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-11-04T20:50:50Z
+- **Source:** TIKR.com — https://news.google.com/rss/articles/CBMitAFBVV95cUxQNm1CRDR2Ml9iekROc1piRkhTVGNObWdsaDlwNENIRm5ueXZnQVVZT2tnWnpNQVdLT0xYQzMxNW5oLTh2UHJhbV9kdUFWR1o4V3pBeEVKa3FndXl4UGdtUm9URzdPclcyM3lkTDNub0xiNWlBeG1yNmRXbWw3X2ZJcWRVa3l1ZlpGYmlaSmZWbFJlRDZoaGVFc3hlekw2bmZBQldQWVBSQlpBOEt2SWVZb013c2w?oc=5
+
+Super Micro Sinks 6%, Flex Down 13% as Election Raises Fears of “Data Center Moratoriums” TIKR.com
+
+### Lawmakers weigh AI regulations, data center oversight ahead of 2027 Legislative Session - McKenzie County Farmer
+
+- **Jurisdictions:** unattributed
+- **Topics:** general
+- **Document stage:** news
+- **Published:** 2026-11-04T16:55:49Z
+- **Source:** McKenzie County Farmer — https://news.google.com/rss/articles/CBMixgFBVV95cUxOeC1WYTNhZzFnUEhFY0VKRG5Ic0xaZng0YU03RlpPOG92OEV3aUxyczVPMzd5V3FnOU5vazFzdEZNR2cySXhHMnQwVDQweURReVEwd0Q3eWI1b1lHY2NmbHVWbERlWkhEdG82OVFNN0VObTY2MkpWbkFTM0t3ajhjanljeEVZXzR6amxrcVRlV2Jvd01JcWdUNGxBblA1Qm0wa0huMi1WdF9EamhIUHZsVnBWM2lmZ09WRks4U1Rad1NjWWlobEE?oc=5
+
+Lawmakers weigh AI regulations, data center oversight ahead of 2027 Legislative Session McKenzie County Farmer
+
+### New Legislature, Governor-Elect Crowley Must Act on AI Data Centers - Urban Milwaukee
+
+- **Jurisdictions:** unattributed
+- **Topics:** general
+- **Document stage:** news
+- **Published:** 2026-11-04T16:24:00Z
+- **Source:** Urban Milwaukee — https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbkpaOW9JS1FHUGNiR2VUd3hWU2ZsMUtHSy1RVzNvS25VODRkS0xjbHJHT2JyTlVla2JVOXJrZUk5WmNFQXZ5b2EzZXJ2MERvSFRrcXpCWUVLM3Z4eFJFR0RfOXBydmpfUmVIcFRjWDFaQVh6TjYzTG9TbFpvaERJRy0tVlZMWmtneVFaeUROeGdVMkVya1didHBYRUE2a1lhbXRaT2JhSkxiaWc?oc=5
+
+New Legislature, Governor-Elect Crowley Must Act on AI Data Centers Urban Milwaukee
+
+### Will Okaloosa County stop data centers? Potential moratorium advances - Mid Bay News
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-11-04T16:10:30Z
+- **Source:** Mid Bay News — https://news.google.com/rss/articles/CBMinAFBVV95cUxQaWdPdHotZlhILTY2bEFZTi1VU3R5Zm5OeWFpSzZLU0tISmNzUHFmajZwZ2VBVGJicVpELU1lUDIwUHFnVTZxdFUzd1A2TnhnbnNTaVIwblVRaGN2cHJvWURrRnpveTBmeVhaQk0yRER1eWh3MVlRNWRid3FPMC1EOHYyRlpaWVFsQXE0YWc2YzFfNEhWSWlfQlBtUEw?oc=5
+
+Will Okaloosa County stop data centers? Potential moratorium advances Mid Bay News
+
+### Midterm results create 'hostile' regulatory environment for new data center builds: Needham - Seeking Alpha
+
+- **Jurisdictions:** unattributed
+- **Topics:** general
+- **Document stage:** news
+- **Published:** 2026-11-04T15:10:19Z
+- **Source:** Seeking Alpha — https://news.google.com/rss/articles/CBMixAFBVV95cUxPUVBEZjZ4MW0yeUxRbHg0Z05jcnE5d193ZVZucDA3cTg3SnV2bnJkNkhZVzhGMzlRM2tESG9TNFU0aHVKejRZWHZESUp6b1lUM215N0tnMWxac3VsTkkyd1hNd0FVbklYVFVTbFdWQ01GNW5mdTNFSDRMM2FGWDdaTURaUzBrOHZiRWk2NnhQZU1uN29nU2dtd1FTWDR0bmZhOE5QeGNXdnp6dTBrcEcwMFVrWGxuYjBnNGVlQlJjbWpuZ2cy?oc=5
+
+Midterm results create 'hostile' regulatory environment for new data center builds: Needham Seeking Alpha
+
+### EDO calls for moratorium on Tasmanian AI data centre approvals - Pulse Tasmania
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-11-04T05:29:27Z
+- **Source:** Pulse Tasmania — https://news.google.com/rss/articles/CBMingFBVV95cUxQNEFZRVJ5bXJ6cjZXcFJHaXM4c0t6d0FZLUVjWDdyQjBPMkQ0UUl1V0txaWpzc1g5ZWViejNtR3Uyd09iNmc5a0xqSnVfYnktT2FJWTdVMFJSdnRRZFVLX3V4Z1lwQVNmazU2dWVFWGhGUThqN1dNOVV4WGR4MmtOV3lfLUpqeFAwV3BQM3YycVB4a1lEODFvSFdpbjd2UQ?oc=5
+
+EDO calls for moratorium on Tasmanian AI data centre approvals Pulse Tasmania
+
+### Councils Back Greens' Data Centre Moratorium Call - Mirage News
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-11-04T03:24:00Z
+- **Source:** Mirage News — https://news.google.com/rss/articles/CBMijAFBVV95cUxQRDMxWVFiRlVGdlFnZTkzdWRRU3JvM28xbXZhOVpyNWFzZXlJcWFKdmg0TTNEck8zVnEtZkc0TWY3d00yUVhYWmNpSXBrN0xEcmctSmtuU3NlelJfY1JEZlBWbnhOVjhxQlJIaDB0eUZyemtEbGtLdUlUS2VCUkJhckFPby1CYUFydzhZbg?oc=5
+
+Councils Back Greens' Data Centre Moratorium Call Mirage News
+
+### Clinton Township Board passes data center moratorium - C & G Newspapers
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-11-03T19:58:29Z
+- **Source:** C & G Newspapers — https://news.google.com/rss/articles/CBMipwFBVV95cUxOMk1CeDdMY2thRGVVM0Z1c2R5c0JWWWFYZ1ktTXZjR0JFTTNUc1FCYmxPdkZmRVpuWE1KZXBNSFhwRDJZQU9UbkhOSWktem5QMmRuMDY1Rjhtc1BKTzdMT01jMldoYkxzUHVYMzQ4ZWxJYWt1YkNSenBvNUw5TFAzUXY0eEFkZWF1NEIzaTJhTUhueGN2a0tabERLVWJLSnA4REoza3d0QQ?oc=5
+
+Clinton Township Board passes data center moratorium C & G Newspapers
+
+### St. Johns County unanimously approves data center moratorium - Jacksonville Daily Record
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-11-03T19:47:00Z
+- **Source:** Jacksonville Daily Record — https://news.google.com/rss/articles/CBMirAFBVV95cUxPNEVYWUt1UzB3ZXNJbzhJT09tVGJtX19KX0xMSzlueVk5NTVPQUdkR09XRXRWQzhpUTBMNF96WFNVQmtoTGRHYTFlSnl6TVhSRnNZRFJ4bmhLTFVCSkRpYlcxYUI3UURmTDJXZUU1ZGY4V01zLWVBQ0tPWXJtMTdoVFAyckFnMlp0TFhPSlp1cG9GMVdEN0ctczlGOURfRlZ1UEFvS0pRTmV5OE12?oc=5
+
+St. Johns County unanimously approves data center moratorium Jacksonville Daily Record
+
+### Government sets out ‘presumption of consent’ for proposed data centres in draft planning policy statement - ENDS Report
+
+- **Jurisdictions:** unattributed
+- **Topics:** general
+- **Document stage:** draft
+- **Published:** 2026-11-03T15:54:03Z
+- **Source:** ENDS Report — https://news.google.com/rss/articles/CBMizAFBVV95cUxNd2N4OTYzTEk1X3R5eDh0NWtjREZIVGtuSDZ2THVTMnloUWFORjlPWURTWV9wd3ZUa1BwSUJOYmJudkxzM2xXRlh3NWFPbHE2VXlWZU9zSWowN1EtTlQ2Rng1U1BmWjlfTUZNTnNRMG1GZTA4WDNYZERNbTNSNE44QlFhS3RveTg2RzV1Zk1vOXpuWFlRWEwtUkFLekpPaWZ4T0dheU02NFRlU1VtUG9pNDRHNkZoTk9zeTU2SHdXVHVxMVVsUGNCSkd1a08?oc=5
+
+Government sets out ‘presumption of consent’ for proposed data centres in draft planning policy statement ENDS Report
+
+### Por qué te afecta más de lo que crees la regulación de los centros de datos: tu factura de la luz puede dispararse - EL PAÍS
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Language:** es (untranslated)
+- **Original title:** Por qué te afecta más de lo que crees la regulación de los centros de datos: tu factura de la luz puede dispararse - EL PAÍS
+- **Published:** 2026-11-03T05:55:00Z
+- **Source:** EL PAÍS — https://news.google.com/rss/articles/CBMi6wFBVV95cUxNd2MzaG1KUHdzZW03N09jbGpUYmhXa0lDUW92eFQ4bXRkZlR2eUV2VEpabXZFcW5EYXRld081NnczVzQ2Q051MkZnRmpicUlaSG1hRXQ1b2dEa1RDaWtCWmpEVE1MZERWUHVFWVVEdWFGZEIzZzFlSnR2UVNGYWdOeDFsUWVpd3BCREtwb2RTQnZuWl8tR2t4LTRCZDRsTXpHaGpvTHhOeDE3QUtkYjdtb2x5OWFlVU9ydUk2Z014UjROMGxKS3A3ZXcxaV9xVXVpQkE3bHNwUWtQWHFpY29GMXEwTzhaLURnNnZr?oc=5
+
+Por qué te afecta más de lo que crees la regulación de los centros de datos: tu factura de la luz puede dispararse EL PAÍS
+
+### Morgan Stanley apuesta por Merlin: los centros de datos pueden generar 1.200 millones en 2032, pero la regulación amenaza sus planes - Merca2.es
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Language:** es (untranslated)
+- **Original title:** Morgan Stanley apuesta por Merlin: los centros de datos pueden generar 1.200 millones en 2032, pero la regulación amenaza sus planes - Merca2.es
+- **Published:** 2026-11-03T04:35:00Z
+- **Source:** Merca2.es — https://news.google.com/rss/articles/CBMieEFVX3lxTE16MzV6RjZNU09JUXFCVzdkdTlfT0dwbEM2blAzMi10OXJUbGU3SFowSkFzQ1YxLXpuV0Zmal9US3FLNVl6bS1YTldNQnhoWUVNMHVTMzB3VXZlZ2pDTmQxbE5XRXotMkZHYkQtTll1SzVwaHdORzVNQQ?oc=5
+
+Morgan Stanley apuesta por Merlin: los centros de datos pueden generar 1.200 millones en 2032, pero la regulación amenaza sus planes Merca2.es
+
+### Northampton data center moratorium: Planning Board, council committee unanimously back yearlong pause - Daily Hampshire Gazette
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-11-02T20:36:45Z
+- **Source:** Daily Hampshire Gazette — https://news.google.com/rss/articles/CBMizwFBVV95cUxNU0Raa0FSdGs0X05ncGpWZWh4MFVOdHF5a3JWbmlWUHgtOUJndi03THR3T0pzMHJVRnNjbGlTODQ3NmloTEZkWmFLaWRvZWV4akM4WUZsQ2hBX3Ffak1HWDB0NVFfNGVZZ3MzSll6SkZROXNQM0Jjb1NkQXFOWnItZDBWSUphV055UGh1Y1lBNVQ0ZU1XVmtxNFZKRVpZclgzNWtHSm9jZ2cyMUxWREhiWF9qcXJQS1VGeVdUeS1RSHVoUlBOeDlvUUNMTGk4MjQ?oc=5
+
+Northampton data center moratorium: Planning Board, council committee unanimously back yearlong pause Daily Hampshire Gazette
 
 ### Alpena County approves data center moratorium resolution - The Alpena News
 
@@ -4497,6 +4948,16 @@ Tampa City Council advances Alan Clendenin’s AI data center moratorium proposa
 - **Source:** The Yellow Springs News — https://news.google.com/rss/articles/CBMihgFBVV95cUxNVkJuWFZtY1duek9IV2dxWTlfd1dTNmdaTDc2d3NfcFZGb2g4dFNSdVBtY3F3cHl2ay1aWWdSNE41a2dJOXc1NGt4eUc1eW1DMzZqR0kwZDMteURSbkF6SjFTNmZpWG9GRGJxV0JwTW1FektKWXJrVEJHR2hCVmJKSzlfSFRIUQ?oc=5
 
 Township trustees extend data center moratorium The Yellow Springs News
+
+### Data centres for grids꞉ the potential impact of flexibility - Ember-climate.org
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-10-29T16:37:37Z
+- **Source:** Ember-climate.org — https://news.google.com/rss/articles/CBMiogFBVV95cUxOMXpFMTVFTENxdWtxSnRGVjFNblZwdXpaVE9PODd1THp4bWNKbkI5aXVhQVRiUldEelduNnFlVGhYNHkxTExJMk9yVGh3MnZUM0ExSGJVRVJWSUFfSmR5MFBtUnFEb1hLZDFOTEpOY1U1SkZ2Ui1xazF4STBRUXlUWU5XZEpGd3dQYjNBeGdtUl9IcC1pVmFHVU03RklManBMTFE?oc=5
+
+Data centres for grids꞉ the potential impact of flexibility Ember-climate.org
 
 ### Data center still under consideration as Martin County moratorium takes effect - WQCS
 
@@ -5334,6 +5795,16 @@ APC passes 12-month data center moratorium Chronicle-Tribune
 - **Source:** WINK News — https://news.google.com/rss/articles/CBMi7AFBVV95cUxPQWZ6dlJCQmJjTW9lM3pLSHhrdDR3TnpsbEJjUHR4UkRfVmxqLWc5aGVhZllxVDNwSVUtWTRmZzVuc0F1Y0FIOG44WDZWTzlXVVFsc3ZsYXFEYVV6a1RfU3g0cmV3Q2I2dEZWUlM0TEhEanpXY09HQ0J1MmRSTV9qWFNzMVNhYzdVYkQzRXN1THNWZkxxM0dxRFpZWC1KWERWb0FzVUVrMGcwUUtsNTJhcFRxZXRmUFU2MTluVGE3bktSSklMN09jMDN3T2hfcHVUemVBbjQ3ZU5kZVJsbTdLekFleS1zY0gyWWZuVA?oc=5
 
 DeSoto Planning Commission recommends stronger data center moratorium WINK News
+
+### Latest win protects southern conservation area from data centers - Southern Environmental Law Center
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-10-21T07:00:00Z
+- **Source:** Southern Environmental Law Center — https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbDZjQzJuN2xBZFRkOTk4Q3pmaWs5SFk1dHg1QmxiaDF6RnZUTTlYSnlTckhOcE56cjlNWTRKMjRQMzZ0YS1HR1NHVkhtMHpuWEFtR0RkZ0xxbWdib3pyNWxvb2kzbGhjVmJNak5GdXhTWGMzMHFqa1FUcmFXc291dDlaeE4zZXJNLXhSREJ6VFhHemxmcmUwVFBvXzk1MnVTM0JOZkczQjJ1UmQ1OTYtR2txaXpRYVdtc0hBR2hzcDludw?oc=5
+
+Latest win protects southern conservation area from data centers Southern Environmental Law Center
 
 ### Florence County Board approves data center moratorium, ends Flock camera use - Upper Michigan's Source
 
@@ -6209,6 +6680,16 @@ European datacenter boom threatens higher energy bills unless governments interv
 - **Source:** Omdia — https://news.google.com/rss/articles/CBMizwFBVV95cUxNU2lUMlp1RFBPNVQxdUp6TlF0NjBsVjlKbC1SRk9EWlBhNGRfZGt2UHdSN2RZVXlYbmNMVVJ0Z3BMeTkwVWJWQWFFZDlSUXhVc0VLanBNdktVUG1mUVdQTDExU2Zvc1AxbndmSDJsZ01FcHFmdEVLTkJrRHRJSFhTOEwyVWN6QlFubzhVZ0ZVa1hUNU5VTTdNQ1NheVo0VG14bXlWZVhTTUtCVWNpQmFkcWtqYkJnSDRLUDJfMGdrU0lTa0RJczBsNHJxcVB6SXM?oc=5
 
 Omdia: AI and cloud sovereignty policy discussions are moving beyond concerns about data residency Omdia
+
+### AI and cloud sovereignty policy discussions moving beyond concerns about data residency – Omdia - Light Reading
+
+- **Jurisdictions:** unattributed
+- **Topics:** security-resilience
+- **Document stage:** news
+- **Published:** 2026-10-13T07:00:00Z
+- **Source:** Light Reading — https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaEdqTUlGZk91c0JDOHRKVmFTanZzRDJQU21Id2hpUjhEcXg1bmpaRUN5TFVHaVZkOVJEdUc3Wmxwa3ZQb3k4S2VGS3ZWWWpNM25NczlHMlFxdXg2LS1OV0VoNVBVckFaek1fQTMzNW9LclVNQzJmS01IVWlwSVV0aGEyTUxydXluTkZpZ1I5RmtaOGozaG5DZkRrbXVvNG84V0o3MXdQLXhkM3BMS01pdDktQTdKUjRFT0dxQTJYZGhjQ2UzaWoxa2xTd0tlUzNpNlpxcEl6bWNQUQ?oc=5
+
+AI and cloud sovereignty policy discussions moving beyond concerns about data residency – Omdia Light Reading
 
 ### CDC Data Centres Raises AI Infrastructure Standards Concerns Following Firmus Partnership Termination - Kalkine
 
@@ -12613,7 +13094,158 @@ Government and Defense Data Center Asset Management Market to Reach $549.46 Bill
 Q&A: Why data centre cybersecurity can’t wait for new UK legislation Intelligent CISO
 
 
-## United States (96 items)
+## United States (102 items)
+
+### OpenAI promises to drop NDAs and increase community transparency, following anti-data center wave
+
+- **Jurisdictions:** United States, India
+- **Topics:** security-resilience, sustainability
+- **Document stage:** news
+- **Published:** 2026-11-05T13:03:45Z
+- **Source:** www.datacenterdynamics.com — https://www.datacenterdynamics.com/en/news/openai-promises-to-drop-ndas-and-increase-community-transparency-following-anti-data-center-wave/
+
+Publishes Compute Campus Policy and National Community Compact
+
+<details><summary>Full text</summary>
+
+Publishes Compute Campus Policy and National Community Compact
+OpenAI has detailed its community pledges for locations where it plans to build and operate data centers in the US.
+The move to reset its public image comes after voters came out overwhelmingly against data center projects and in favor of moratoriums. In midterm exit polls, 56 percent of voters said AI data centers were a crucial or major factor in their congressional vote decision.
+OpenAI has published a Compute Campus Policy and a National Community Compact laying out its vision for facilities. However, it only covers "sites owned and operated by OpenAI," so it is not clear whether this includes the majority of compute it leases or develops with partners.
+For the owned and operated data centers, OpenAI has promised to "listen and learn."
+The company said that it will give residents clear, regular opportunities to have input in project development. A point of contact will be designated for residents to reach out to throughout the life of the campus.
+More concretely, OpenAI said that it will no longer use non-disclosure agreements (NDAs) with public officials, with the "narrow" exception of legitimate security information, trade secrets, or proprietary or competitively sensitive information.
+The company will publish site-specific plans on the temporary effect of construction, including independent noise studies, water usage, energy costs, sustainability, and economic impacts.
+Earlier this month, it unveiled the 'Grid Protectors Program,' where it pledged to try to reduce electricity demand from its future data center campuses when the grid is under strain. It has also signed a national Ratepayer Protection Pledge.
+In its new pledges, it added a promise to keep the grid steady with load smoothing, and to supply power back to the grid where needed.
+It will also provide insurance against stranded assets, in case a project is delayed, reduced, or canceled.
+Less clear were the company's promises on community investments, where it said it "could support housing stability," "could invest in education," and "could expand access to capital, business advising, technology, and new markets" for local businesses.
+OpenAI has also promised to help communities plan for an influx of new tax revenue, a promise more geared towards highlighting that potential monetary source.
+This week, OpenAI also looked to rebrand its data centers as 'compute campuses' in hopes of differentiating them from other data centers.
+
+</details>
+
+### More than half of US hyperscale data center projects face 'regulatory friction' after 2026 midterm elections - report
+
+- **Jurisdictions:** United States
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-11-05T12:47:05Z
+- **Source:** www.datacenterdynamics.com — https://www.datacenterdynamics.com/en/news/more-than-half-of-us-hyperscale-data-center-projects-face-regulatory-friction-after-2026-midterm-elections-report/
+
+National moratorium remains a low-probability scenario, analyst report says
+
+<details><summary>Full text</summary>
+
+National moratorium remains a low-probability scenario, analyst report says
+More than half of the US hyperscale data center pipeline could face heightened regulatory friction following the 2026 midterm elections, analysts at BMI believe.
+But the firm said this is likely to take the form of political interventions, rather than a substantial policy shift, and that a broad national moratorium on new digital infrastructure projects remains unlikely.
+Tuesday’s elections saw the Democrats gain control of the House and the Senate from the Republicans, as well as flipping a number of gubernatorial results from red to blue. Local moratoriums and restrictions were backed across the country , with 56 percent of voters polled by NBC saying the AI data center build-out was a major factor in their voting decision.
+BMI believes regulatory friction for new data centers will intensify at the subnational level through the end of 2028, with roughly 53 percent of hyperscaler pipeline growth concentrated in “newly flipped governor states” such as Texas, Georgia, Ohio, and Pennsylvania.
+Texas, Georgia, and Ohio all elected Democrats with public anti-data center stances, while Pennsylvania re-elected Governor Josh Shapiro, who introduced a plethora of restrictions on data centers over the summer.
+In a new report on the impact of the elections, BMI analysts said: “Construction schedules for 2027 are largely locked in, placing the focus on 2028 and beyond.
+“With respect to hyperscaler buildouts, the markets commanding the largest pipelines from 2028 onwards are likely to be Texas, Georgia, Ohio and Pennsylvania. Given that the governor races have flipped in these states, we estimate that 53 percent of pipeline growth is now exposed to slowdown risk.”
+Texas is already under a data center construction pause imposed by outgoing governor Greg Abbott, and BMI believes this could “plausibly extend into late 2027” as new governor Gina Hinojosa gets her feet under the table.
+When it comes to hyperscaler capex, the impact of the elections “remains to be seen, as two opposing effects are currently in tension,” the BMI report said.
+“On one hand, a slowdown in the AI buildout would clearly exert downward pressure on our capex forecasts, as volumes compress and imposed moratoria push back 2028 project starts, though the vigor with which Democrats pursue tighter AI legislation remains to be seen,” the analyst company said.
+“On the other hand, should Democrats adopt a more measured approach, pursuing a slower but more expensive buildout via tax increases and bring your own power requirements, tighter regulation could actually exert upward pressure on capex figures, since the all-in construction cost of each facility, combined with power procurement costs, would ultimately add to the overall capex bill.”
+Market intelligence firm Cleanview foresees similar issues. Its analysis found that newly elected governors could pause 41 percent of planned US data centers.
+Writing on X , the firm's founder Michael Thomas said: "Tuesday’s results don’t signal the end of the data center boom. They will, however, likely bring a pause in some of the largest markets and new regulations across the country - even in traditionally laissez-faire states like Texas."
+Thomas said his firm's analysis shows that 159GW of planned data centers are in states where new governors back a pause.
+He said: "That's 41 percent of the country's planned data center pipeline. Another 69.2GW (18 percent) is in states where the winner wants to change tax breaks or other rules but hasn’t backed a pause."
+Clearview also foresees an impact on power projects. Thomas said there will likely be "more clean energy in some states and fewer on-site gas plants in others."
+He explained: "On-site gas plants will likely face new rules and delays. To build an on-site gas plant, a developer needs an air permit. That approval often goes through offices controlled by the executive branch, which means new Democratic governors could delay or block those permits."
+Developers may also be forced to buy more clean energy, with Thomas citing candidates such as David Crowley, the incoming governor of Wisconsin, who has called for 100 percent renewable energy as a condition for approving data center projects.
+
+</details>
+
+### Texas governor-elect Gina Hinojosa promises continued data center moratorium, further legislation
+
+- **Jurisdictions:** United States
+- **Topics:** sustainability
+- **Document stage:** draft
+- **Published:** 2026-11-05T10:52:00Z
+- **Source:** www.datacenterdynamics.com — https://www.datacenterdynamics.com/en/news/texas-governor-elect-gina-hinojosa-promises-continued-data-center-moratorium-further-legislation/
+
+Outlines 'Texans First Data Center Priorities'
+
+<details><summary>Full text</summary>
+
+Texas' next governor, Gina Hinojosa, has called for a longer data center moratorium in the state, followed by tighter regulation.
+The Democratic governor-elect wants to extend an existing de facto moratorium from outgoing Republican Governor Greg Abbott, which she called "a scam."
+Abbott was historically pro-data center but, amid record grid applications and a growing public anti-data center sentiment, began looking to limit the sector.
+In August, Abbott directed the Public Utility Commission of Texas (PUCT) and the Electric Reliability Council of Texas (ERCOT) to undertake a comprehensive audit of all data center projects currently advancing through ERCOT’s interconnection process.
+The following month, Abbott halted all new data center permits from the state’s environmental agency until the audit is completed.
+“We weren’t really expecting it,” Raul Martynek, CEO of Dallas-based data center developer DataBank, told DCD at the time.
+“The governor is addressing what you’re seeing in the country with pushback on data centers, and the fact that it is election season may have something to do with this because, from an issue perspective, it’s top of mind for voters."
+ERCOT has said that it expects the review to end in December, but Hinojosa has claimed that the election-gambit will be reversed.
+"A temporary moratorium is a scam because Abbott will likely lift it on November 4th, right after the election," she said ahead of the election (at time of writing, Abbott has not yet done this). "The only way Texans are protected is when real laws are passed."
+Hinojosa has instead called for "an immediate moratorium on data centers to last until the legislature can meet to put in place real protections so Texans can have a seat at the table to decide if and how data centers come into their communities."
+Ahead of the election, she said: "To show good faith after inviting data centers to Texas, Abbott must call a special session now. Otherwise, no one believes the arsonist will put out the fire."
+Hinojosa campaigned against data center projects, holding a press conference in Red Oak, where Diode Ventures plans to build an 800-acre, 900MW facility. Diode has since withdrawn a data center proposal in Henderson, Texas .
+“The people of Texas are being taken advantage of, in a big way, by corporations who are operating under no rules,” Hinojosa said in July.
+“Data centers are coming in and doing as they please – they are guzzling up all our water, guzzling up all our electricity – and the people have no say. They have no power. That is the Wild West of data centers that Greg Abbott has created in Texas. People need relief.”
+Hinojosa has outlined what she calls 'Texans First Data Center Priorities,' which will likely include legislation she hopes to pass following the moratorium.
+It would require American union jobs, stop data center companies from using NDAs, force data center companies to prove households won’t pay more for electricity or water, stop subsidies, and make any water contract with data centers unenforceable if it threatens a community’s water supply.
+Most critically, it would give local communities the right to vote on data center projects.
+Across the US, locals voted overwhelmingly against data center projects and in favor of moratoriums. In exit polls, 56 percent of voters said AI data centers were a crucial or major factor in their congressional vote decision.
+
+</details>
+
+### Finland data centre law to drive gas investment – ministry - Montel News
+
+- **Jurisdictions:** United States, Finland
+- **Topics:** general
+- **Document stage:** news
+- **Published:** 2026-11-04T12:37:48Z
+- **Source:** Montel News — https://news.google.com/rss/articles/CBMivgFBVV95cUxQNmpZTGNnVmhiSlExSDYteEtpbWZKWFdSeEdja2M1aVFnck5nMlhhQTZlN2pVT2hPWjR5TXltR0loMHpDcEV5b0tyZkJrRHFCZ2l6aXF4WTdZUWIyaFcycENrRlJDSVVmc3VqaVNneEh3enFIMENBdm05c1pTMUdUV0Y1Z2xzSUJCbzNCRmxoTy1WdVpFRFhidTE3UVFyYktTc05uWDNDTEstOEhJc3UteFdZeE5Na3lQcXRkMWR3?oc=5
+
+Finland data centre law to drive gas investment – ministry Montel News
+
+### Ohio just poured onto its existing 125 data center moratoriums. Transparency pushes and grid safeguards could now 'dominate policy agendas' nationwide - Fortune
+
+- **Jurisdictions:** United States
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-11-04T06:35:00Z
+- **Source:** Fortune — https://news.google.com/rss/articles/CBMiigFBVV95cUxQamUyem9XY3hHV0IwaU8za3l6d1ZXSDRTT2ZQc29NTUY0M0NwNDByM2RrWFpFZ0lCOUxVMXY0Y19XU0pzYWR0SW40MjZwM1lES2l1c0pLaHYtUE5VekxuMGFpUHBjakZvVDA5YWZMV2xVdVZjTm9tUVItLXV6NkYxcTNUSnBMVVpsMkE?oc=5
+
+Ohio just poured onto its existing 125 data center moratoriums. Transparency pushes and grid safeguards could now 'dominate policy agendas' nationwide Fortune
+
+### Cloud Revenue Hits $168B as AI Capacity Expands
+
+- **Jurisdictions:** United States, Germany, India
+- **Topics:** general
+- **Document stage:** news
+- **Published:** 2026-11-03T10:00:00Z
+- **Source:** www.datacenterknowledge.com — https://www.datacenterknowledge.com/cloud/cloud-revenue-hits-168b-as-ai-capacity-expands
+
+Cloud infrastructure revenue reached $168 billion in the third quarter as providers brought higher-priced AI capacity online, reinforcing demand for new data centers even as power constraints slow delivery.
+
+<details><summary>Full text</summary>
+
+Cloud infrastructure revenue reached $168 billion in the third quarter as providers brought higher-priced AI capacity online, reinforcing demand for new data centers even as power constraints slow delivery.
+Cloud providers are bringing data center capacity online for higher-priced AI services as enterprise cloud infrastructure spending accelerates, reinforcing demand for construction even as power constraints complicate delivery.
+Worldwide spending on cloud infrastructure services reached $168 billion in the third quarter of 2026, up 55% from a year earlier, according to a Synergy Research Group report . The market has doubled in eight quarters, and AI-specific services now account for roughly one-third of total revenue.
+John Dinsdale, chief analyst at Synergy, told Data Center Knowledge that three factors are driving the surge: additional capacity coming online, higher pricing, and a continued shift toward more expensive AI services.
+“A lot of the additional capacity that is coming online is specifically targeting more valuable, higher-priced AI services,” he said.
+That shift in pricing and service mix helps explain how cloud revenue can grow faster than the data center capacity supporting it. JLL’s August midyear report illustrated the construction demand behind that expansion.
+Related: Zombie Workloads Haunt Data Center Efficiency Efforts
+Hyperscalers accounted for 59% of North American data center tenant demand, while 28 GW of owner-occupied capacity was under construction, according to JLL. Neoclouds – specialized cloud providers offering GPU-as-a-Service to enterprise customers – represented another 11% of demand, while AI companies accounted for 7%, broadening the customer base competing for facilities.
+The buildout is expected to continue. Global data center capital spending is projected to exceed $3 trillion by 2030 as hyperscalers, sovereign AI programs, and specialized cloud providers expand their infrastructure to support growing AI workloads, according to an August report from Dell’Oro Group.
+The cloud market’s expansion is also reshaping which companies need infrastructure and how they compete. Amazon retained the largest share of worldwide cloud infrastructure revenue at 26%, followed by Microsoft at 19%, and Google at 16%, Synergy reported.
+“AI has totally transformed the cloud market in terms of service capabilities, customer demand, and growth opportunities,” Dinsdale said.
+Microsoft and Google grew faster than Amazon, while Oracle and neocloud providers, including CoreWeave, Crusoe, and Nebius, were among the fastest-growing companies outside the top three. Synergy said neocloud expansion is eroding the market shares of some established providers.
+For data center operators, that changing mix raises questions about tenant durability and contract stability, particularly if some fast-growing providers consolidate. Dinsdale said he expects the underlying infrastructure to retain value even if an individual neocloud’s prospects change.
+CBRE’s August report on North American data center trends found 7,481 MW under construction across eight primary markets in the first half of 2026, up 24.8% from a year earlier. More than 80% was preleased, up from 74.3% a year earlier. Power constraints continued to extend completion schedules, leaving customers competing for capacity that has yet to be delivered.
+Those commitments mean operators evaluating expansion must weigh construction schedules and tenant stability alongside cloud revenue growth.
+Dinsdale said he expects data centers, installed equipment, and existing customer contracts to find new owners if neocloud providers consolidate or fail. That suggests consolidation would redistribute infrastructure rather than leave large amounts of it unused, though the financial outcome would vary significantly by asset.
+“Whatever happens to a neocloud company and its prospects for carrying on as an independent entity, there will be valuable assets that will not go to waste,” he said. “Valuations will vary greatly, but I don’t imagine too many stranded assets being trashed.”
+Related: Cloud Region Migration: Optimize Costs, Latency, and Compliance
+Nathan Eddy covers data center trends and technologies across multiple industries. A graduate of Northwestern University’s Medill School of Journalism, he is also a documentary filmmaker specializing in architecture and urban planning. He currently lives in Berlin, Germany.
+Want more Data Center Knowledge stories in your Google search results?
+
+</details>
 
 ### Uptime Institute and Indonesia Ministry of Communication and Digital Affairs (KOMDIGI) Sign Letter of Intent (LOI) to Support Data Center Policy, Governance, and Industry Development - Morningstar
 
