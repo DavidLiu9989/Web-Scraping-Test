@@ -1,7 +1,7 @@
 # Data Center & Cloud Services Regulatory Corpus
 
-Generated: 2026-11-19T14:47:24Z  
-Articles: 1374  
+Generated: 2026-11-23T16:38:00Z  
+Articles: 1457  
 Scope: regulatory requirements for security & resilience and sustainability of data centers and cloud services, worldwide.
 
 Each item carries structured metadata (jurisdiction, topics, document stage, date, source) so an LLM can compare this corpus against other policy documents.
@@ -337,7 +337,17 @@ A version of this story appeared on Presidente Lula sanciona ReData no Palácio 
 Brazil's President Lula signs ReData data center bill into law Data Center Dynamics
 
 
-## Canada (7 items)
+## Canada (8 items)
+
+### Draft Rules Require Grid Tests for Large Ontario Data Centers - RTO Insider
+
+- **Jurisdictions:** Canada
+- **Topics:** sustainability
+- **Document stage:** draft
+- **Published:** 2026-11-22T20:44:09Z
+- **Source:** RTO Insider — https://news.google.com/rss/articles/CBMinAFBVV95cUxPSTdpd3pGZFVmLXNwbmQycXVYSEF0VFpKM2JoNkhmMzBJMjl1RC1CT29lcUJRNHk0eVhsR0hZYmlUYllTMnNwTW9md1VVblRXOEVnS1VrWklnbXR6UWJsUXVtcWtsNG93TzI4ektWYVNYSk41ZnZrNVJsM05RLXpDalRFaDlWV0YwSVlhMjNhM1JER1lPOENaYk1fdHk?oc=5
+
+Draft Rules Require Grid Tests for Large Ontario Data Centers RTO Insider
 
 ### Developers to fight Mississauga’s data centre moratorium at Ontario Land Tribunal - insauga.com
 
@@ -408,6 +418,21 @@ Ontario’s new AI data centre playbook is flawed. We can fix it. Policy Alterna
 - **Source:** McCarthy Tétrault — https://news.google.com/rss/articles/CBMijwJBVV95cUxPR0pIMWFmQWppVDNsaWMzOVBJSHRFZjFDUVZPMmdLVUZyaVBta3o1NGNqWng3Um1hOXBISXNmTnZnNkJyOTdMdF8yYzFnTE5tblU5dEo1Q3ZZZFNQMC1pWGY5Rm1Ub3MyVUhEN193c1FIdS1WZ0k5Tk1sZ1dMbVE3R3FiN2NRdk9ITmhJYTJIU3g5WXVUUnVXaUtuYlBNRXZRdWc2b0d6RmV4cmZBa1NMSEpQcXp4UWhVZ24tY0VnVFRZRUIxQkhIVEZqUTI1cTdVTUVEZnRKaTZSTGxVSnZ1Y2ZDaTFtblpETk1rQmw3OS1ldkpIYzdrZlFfQ2U3TVJoOTVRVlpzenF0VE00SF9B?oc=5
 
 Ontario Launches Data Centre Playbook: Proposed Framework for Grid Access, Electricity Costs and Project Approval McCarthy Tétrault
+
+
+## Chile (1 items)
+
+### El Gobierno aprueba el decreto ley de los centros de datos y la patronal anuncia que lo recurrirá - Diario de Santiago
+
+- **Jurisdictions:** Chile
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** El Gobierno aprueba el decreto ley de los centros de datos y la patronal anuncia que lo recurrirá - Diario de Santiago
+- **Published:** 2026-11-20T16:45:30Z
+- **Source:** Diario de Santiago — https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRUNGSDVSSUFpY1otbC1ycjBnVHdsRWdiNE1XQk1rMVNnMS0tQTdmaDE5NXdnTTlVd1AyQTUzT0o1UVY1b0hVVFhOblpRV01abWxpdUxTaGRNZi0yTC1WMmR5VE9ocHdKdVI3NUY4US1PMkIxWjVpN2x3OVgydzFvVGxDWHJsTWhQUG1Od3l1NXcxR3hDdGZ2aUtDYXpzVWwwNTF3Y1RFOXhTaDMxTTBxX09kWlQ4ZlRfU3BlSlFxX1phOG1KUFFSUDFTbVNnRVFZdnhZ?oc=5
+
+El Gobierno aprueba el decreto ley de los centros de datos y la patronal anuncia que lo recurrirá Diario de Santiago
 
 
 ## China (2 items)
@@ -878,7 +903,19 @@ Want more Data Center Knowledge stories in your Google search results?
 </details>
 
 
-## Germany (4 items)
+## Germany (5 items)
+
+### Bernie Sanders fordert Moratorium für Rechenzentren: Das kann der Kongress tatsächlich tun - Yahoo Finanzen Deutschland
+
+- **Jurisdictions:** Germany
+- **Topics:** sustainability
+- **Document stage:** news
+- **Language:** de (untranslated)
+- **Original title:** Bernie Sanders fordert Moratorium für Rechenzentren: Das kann der Kongress tatsächlich tun - Yahoo Finanzen Deutschland
+- **Published:** 2026-11-05T08:00:00Z
+- **Source:** Yahoo Finanzen Deutschland — https://news.google.com/rss/articles/CBMinwFBVV95cUxQTEU0Rl9VdkxuZmUzVU9GdVVyTk9KNUtzVERUamg5RUN4RGozMzhhMjJtdkxDZm5fTjhuaWp0YnZqTkNMYXlIcjZiZG4zV1lvem1DUTI2Q3NIVkx6WjBtSnVSTmk1QlpQSzVucjRneGh2WGlCRXlZVWJQOE5Zc0tNZnpGX0g3aFpxN0ZxbmZ1R0xNNnYwVnhOWnEzNmxmdEU?oc=5
+
+Bernie Sanders fordert Moratorium für Rechenzentren: Das kann der Kongress tatsächlich tun Yahoo Finanzen Deutschland
 
 ### Cloud Revenue Hits $168B as AI Capacity Expands
 
@@ -2144,7 +2181,19 @@ Japan considers shifting confidential government data to private‑sector cloud 
 Kenya Prepares New Regulatory Framework for Data Centres We are Tech
 
 
-## Malaysia (9 items)
+## Malaysia (10 items)
+
+### Malaysia plant Gesetz, das Stromverbrauch von Rechenzentren nutzt, um KI-GPU-Schmuggler zu fassen - news.lavx.hu
+
+- **Jurisdictions:** Malaysia
+- **Topics:** sustainability
+- **Document stage:** news
+- **Language:** de (untranslated)
+- **Original title:** Malaysia plant Gesetz, das Stromverbrauch von Rechenzentren nutzt, um KI-GPU-Schmuggler zu fassen - news.lavx.hu
+- **Published:** 2026-11-15T04:58:37Z
+- **Source:** news.lavx.hu — https://news.google.com/rss/articles/CBMixgFBVV95cUxQSUxvZUo2cVZGQmhLYnFsMW5BQ05aSXlUSVoyZHp5QW90ZloybWlfNDlsNm1sSzUyaFlwYXZKem10cjd3aU8zdWNCaHVBZHMycGpEcUN0RlBOMjdncjZOcDR2Nl9HcEk5TEU5WWlzMXB6M2ZhNDVVSTBsdXBkRExrUVQ0T1V5WFNmanlIcVQ0NnZqa0NmeHI1WkpxUF94V29KZ1pOUnk0Sk0xQTlfeUl4U0Fxa0VEbWU5R3VfZFpDRWhqUTg2clE?oc=5
+
+Malaysia plant Gesetz, das Stromverbrauch von Rechenzentren nutzt, um KI-GPU-Schmuggler zu fassen news.lavx.hu
 
 ### Digital Infrastructure Bill expected to be tabled in Parliament next year – Gobind - The Sun Malaysia
 
@@ -2382,7 +2431,17 @@ As DCD previously reported, TigerDC withdrew its separate $3 billion Project Spe
 NITDA brings government and industry together to implement Nigeria’s sovereign cloud strategy TechTrendsKE
 
 
-## Norway (2 items)
+## Norway (3 items)
+
+### Norway plans data center licensing amid surging power demand - ET Datacenters
+
+- **Jurisdictions:** Norway
+- **Topics:** general
+- **Document stage:** news
+- **Published:** 2026-11-12T08:00:00Z
+- **Source:** ET Datacenters — https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVW1IcGQzMVhDUGl4eDN0VW9BeHlCZnpDRnY4MDh6WkFzVC1TdEFfcHkzY2ZZYXE1NmFxdzc3bWFjZWNKVll0eFZTakViWDBwVmhfaElWT3ZMSXE4Yk4wU2VrWWRuNV9RSGdpRnVEckRfMXFpVU5UVVg4dnlqZHJPTC0xRmcyd0ZlcmRWY3RSdHdYcEFwM2RjM2NCY2s3eElCTThoTVZ2OTRaX2VHMFNRNlpqTHpUOEpIUmlqbmhWNnM2cnFPNDQyZXl4LVR1cncwbHNVRktWWG7SAd4BQVVfeXFMTVFNa1l2Sk5sdHNuZ0UxOWswcU9UVUxZWUlWUnl5dWZQWWpVeGNjYlFsaDlnTkNCcjJnazc5TUN0VS1JX0U3ZTZOMDAwNzRKRFVyV1NGcjdDT3lXN0luMTBMN0RUWFgzelAtRTBpNkpUdGplSTQxUGRMN1dBbkI0eU4tNWhRZWRNTWJGRDh3WHdqRS1LQjItSWVlTUxGcHplM1hQTzFobEpKUVhaaFBUYzI5QllqbURCckxhUHdmRGkzaHBIeURpWExrRUxQaG1JTWFuampESDJrVXlBWmh3?oc=5
+
+Norway plans data center licensing amid surging power demand ET Datacenters
 
 ### Norway pauses data centre grid access, plans licensing - ET Datacenters
 
@@ -2469,7 +2528,19 @@ Rackspace Joins NVIDIA Cloud Partner Program, Announces NVIDIA Blackwell-Powered
 Lawyers, lawmakers predict more data center regulations ahead Virginia Lawyers Weekly
 
 
-## Portugal (1 items)
+## Portugal (2 items)
+
+### Yolanda Gómez, sobre el decreto que regula centros de datos: "Nos puede costar mucho, lo que no se invierta aquí, podrán probablemente instalarse en Francia o Portugal y quedarnos fuera del negocio" - COPE
+
+- **Jurisdictions:** Portugal
+- **Topics:** sustainability
+- **Document stage:** news
+- **Language:** es (untranslated)
+- **Original title:** Yolanda Gómez, sobre el decreto que regula centros de datos: "Nos puede costar mucho, lo que no se invierta aquí, podrán probablemente instalarse en Francia o Portugal y quedarnos fuera del negocio" - COPE
+- **Published:** 2026-11-20T22:43:54Z
+- **Source:** COPE — https://news.google.com/rss/articles/CBMizwJBVV95cUxNVHhRTDlxSU9kMjdaenJqRDhTdjctd01za3dkU3pRclRST2hPUnp3UHUzcl9JbjRKNkxGX3hkSUc0Wk1YeVBDOEVMWU5ZalJ1MlZtZFNTc1U1Sy1jMVhkUV96ZXhsLTRiTXJiSlZkWEl0b040eDlIQjRyaGJsUDhPRXFQelVHc3dqek5RTEFOem5FQjBpNVNndDVZcHVrbXRnQTI1MzRhSWtTeW9ITW00WnladXAyUkRwMTdNOEQzRS1odHM3M3QzUkhJS2JqXzVfZnNmN2ZNcW5XMWw4VGpBcXAtRG9ybDMyaHhUazFFSmd5bkJlcHhFa2NLY1Vscmw0NEkxQ3haWGdGenFwbUdGZVJDemc4Y1BOWEw1aWtkSjZXNW9VeFRCNHVRM2N6ckctZ0NoSEkzd2Z3bmlHd3cwSWxkdFpSSUtfaWxDcEVjZ9IB1AJBVV95cUxNeHJxdGhOMkF1Z3lHV1VxYXh1d190ZTJtOU8xNEVxNERPSVNPdWJMS1VCUm5hR2I3ejloX0UyS2Q2YVUzV0pXS0QyU2ZUa01BOGVjeU1Od3N5ZkpvQ0lSNlFkRk9WanY5NV9tVDNmY1hMVVlvNWU5Wmhtb0pOTllqdG9TY1FWeWJYYlRmdThVR2RWZFFKa2tFNlRyMWxORExBSGx4a1Q1dk54bU0xVm1RT1dBSk9jSWpSeHRNOVZPcVJqLXNoUjdkdUNpNDR5ZklfQTdWN3RveVNsMXJkYnAtbkdzZDQ5bXdHbHdlZGdVME1ybnMxaFZTc3FBNmRyU2JZcF9kSG9nNHg4WEkzaVRmd3lWR1VVSDBPYmIwT0NFRVdqWHZWUVBIZUN0T1JQWUhVeUxFeVFjYnpicmxDR2UzT1lGZDB0UHBkekFycTFwWUo4dVBq?oc=5
+
+Yolanda Gómez, sobre el decreto que regula centros de datos: "Nos puede costar mucho, lo que no se invierta aquí, podrán probablemente instalarse en Francia o Portugal y quedarnos fuera del negocio" COPE
 
 ### Brazil's President Lula signs ReData data center bill into law
 
@@ -2704,7 +2775,546 @@ The future of our alliance depends not only on the promises we make, but on the 
 </details>
 
 
-## Spain (173 items)
+## Spain (217 items)
+
+### Spain approves decree on data centers to curb electricity costs
+
+- **Jurisdictions:** United States, Spain
+- **Topics:** security-resilience, sustainability
+- **Document stage:** draft
+- **Published:** 2026-11-23T16:00:20Z
+- **Source:** www.datacenterdynamics.com — https://www.datacenterdynamics.com/en/news/spain-approves-decree-on-data-centers-to-curb-electricity-costs/
+
+The approval comes after several months of debate between the government and companies in the sector
+
+<details><summary>Full text</summary>
+
+The approval comes after several months of debate between the government and companies in the sector
+The Spanish government has rubber-stamped new energy requirement rules around data centers in the country.
+Approved on Friday during a meeting of the Council of Ministers, the Royal Decree will regulate the energy sustainability, environmental, and digital sovereignty requirements applicable to data centers .
+The session also gave the green light to updating the electricity plan through 2030, two measures through which the government seeks to align the growth of digital infrastructure with the capacity of the energy system.
+The Third Vice President and Minister for Ecological Transition and the Demographic Challenge, Sara Aagesen, argued that the regulation will make it possible to anticipate the increase in electricity demand associated with these facilities and prevent those costs from being passed on to consumers as a whole. According to her estimates, without this regulation, the impact on electricity bills could reach €5 billion ($5.5bn).
+The approval comes after several months of debate between the government and companies in the sector, which have questioned the technical and economic feasibility of some of the proposed requirements
+Although the text includes modifications compared to the initial drafts, it maintains its main requirements regarding renewable energy consumption, water efficiency, and demand flexibility.
+The regulation will take effect upon its publication in the Official State Gazette (BOE).
+One of the main requirements of the royal decree is that data centers must cover at least 80 percent of their electricity consumption with energy from newly installed renewable sources. This requirement must be demonstrated through an hourly correlation between the facilities’ consumption and the associated renewable generation.
+The goal is to prevent growth in demand from data centers from depending exclusively on electricity available on the grid and to ensure that their development is accompanied by new renewable generation capacity.
+However, the approved text provides for an optional transitional regime that allows operators to gradually adapt their facilities to meet the hourly correlation requirement. In the initial phase, the required percentage will be 60 percent and will increase to 70 percent in 2029, reaching 80 percent in 2032. This temporary flexibility is one of the significant changes from the initial versions of the regulation.
+The decree thus retains one of the provisions that has generated the most opposition among operators : the possibility that data centers may have to accept power reductions or disconnections without financial compensation under certain circumstances. Consumer protection is one of the government’s central arguments for justifying the new regulation.
+According to the minister, this scenario would be linked to rising wholesale market prices, increased costs for capacity mechanisms, and an additional 25 percent rise in the cost of electricity for industrial consumers. The regulation also aims to limit pressure on water resources. Data centers must meet the requirements of the highest-level European water efficiency label, with adjustments based on the climate region. Aagesen noted that the consumption target is around 0.1 liters of water per kilowatt-hour.
+In terms of energy efficiency, the transitional regime allows for a maximum PUE of 1.25 for certain facilities during the adaptation period, which runs through the end of 2031.
+The scale of the planned development explains the government’s concern about the impact of this infrastructure on the electricity system. Aagesen confirmed that Spain has already granted 15GW in access permits for data centers: 6GW on the transmission grid and another 9GW on the distribution grid.
+The minister noted that approximately 3GW of that capacity has been granted in the last three months. In addition, there are more than 20GW of pending applications, a figure that reflects the volume of projects seeking to connect to the grid.
+These figures should be distinguished from currently operational capacity: the granted access permits represent authorized power to connect, not electricity consumption that is already installed or in operation.
+Along with the royal decree, the Council of Ministers has approved the update to the electricity transmission grid plan through 2030. The document calls for an investment of €17.142bn ($18.75bn), 146 percent more than the €6.964bn ($7.62bn) provided for in the current plan.
+The update addresses the growing connection needs of industry, electrification, renewable hydrogen, and digital infrastructure. In total, it is expected to meet 47.4GW of new demand, with data centers among the main sectors to benefit. To meet this growth, the plan calls for the construction of approximately 6,707 kilometers (4,168 miles)of new transmission lines, the repowering of another 8,164 kilometers (5,073 miles), and the addition of 193 substations.
+The 9.3GW allocated to data centers includes facilities that already have approved access to the transmission grid and projects incorporated into the 2024 planning amendment. Therefore, this does not represent an additional allocation separate from the access permits announced by the ministry.
+This piece was translated from DCD's Spanish site and edited by a member of DCD staff.
+A version of this story appeared on España aprueba el decreto de centros de datos para "contener" el coste eléctrico on November 23, 2026
+
+</details>
+
+### Aragón insiste sobre el decreto de regulación de los centros de datos: "Sitúa a Aragón y España fuera del terreno de juego" - Aragón Digital
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** news
+- **Language:** es (untranslated)
+- **Original title:** Aragón insiste sobre el decreto de regulación de los centros de datos: "Sitúa a Aragón y España fuera del terreno de juego" - Aragón Digital
+- **Published:** 2026-11-23T14:29:42Z
+- **Source:** Aragón Digital — https://news.google.com/rss/articles/CBMi8wFBVV95cUxNSTVtaVNKWUVVZjRRTnpYN3Y2LU45NHF1THlHRmtBUnBDLWtpZ2pEMWVlOHlxVU1xcmVmZUppa0lCWVpLWGl5N3k5bUEyY3dqd3h2TkpBNmdzUEQyeVRJX2hnR2xUcGF4cGRQU2phOHBDVkxHSUtUM0Y1WDd1aG92ZHA1dHg0SnBEdXQ3dXBzcjhYT215NktPQWNiTXRTMmI3ZXhtUlB1eXZZUldMbEltQ3N6Sy01Tmc0YWtSQVNnWS1iYUc2VUtnQnU0MDNnZEFxV1pkYkxTc2pOYW9ZdFE1dGFEVkhzWmhHSmJzWUpaRE1zRE3SAfgBQVVfeXFMTmdQZE41WHVVTVRkaDJLZWhkcW11WHItZ2FOblZqdENybnZxaW14eUFaLVVTdTlPTDJ2UzFwNGx4VW5tbEhNR0lOaWU2TU1rR0diSmN6ek1UbmV5MVkwaF9IcVozMkI0RDNNM2s3alU0b19iaUFGX3N1Tk8xbzBtV3hYVV9LTVNUNmJGZWt0WUJjN0ZRR091VG9la0dhZF8wM3RNNUwteXBmX1BlSFNpRWtpdFVxMThYWXZPcm13NHhTWTBqUjVhRTVjTmo0MVBOUnlHd1dhZ1NCVHZKM1BNcmRUOGlYemFLRkw5RUVQSDVMUTVqUUNKUG8?oc=5
+
+Aragón insiste sobre el decreto de regulación de los centros de datos: "Sitúa a Aragón y España fuera del terreno de juego" Aragón Digital
+
+### Claves del real decreto que regula el funcionamiento de los centros de datos en España - Newtral
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** Claves del real decreto que regula el funcionamiento de los centros de datos en España - Newtral
+- **Published:** 2026-11-23T12:15:19Z
+- **Source:** Newtral — https://news.google.com/rss/articles/CBMib0FVX3lxTE9XVVdydXUzbU1XTHV4M25NbzRIN2sxakwwbERhbnFLMGhEXzZkM2tkcjRwazg2aE5hRXUxRnlhWFJTOWlSVGpMcVNwWTVvV1BfTEtLZUEyYkFPMGVyZEh4YjZ0RUdBcjZoSEktazN2SQ?oc=5
+
+Claves del real decreto que regula el funcionamiento de los centros de datos en España Newtral
+
+### Emilio Díaz: "El Real Decreto significa prohibir el desarrollo de centros de datos en España" - Data Center Dynamics
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** Emilio Díaz: "El Real Decreto significa prohibir el desarrollo de centros de datos en España" - Data Center Dynamics
+- **Published:** 2026-11-23T12:02:17Z
+- **Source:** Data Center Dynamics — https://news.google.com/rss/articles/CBMi4gFBVV95cUxPekpoREJYMHZRS3VNZFNlTUNaenFBWU1hbmgxZmR6NWo3blJYOGwtdUwzd09xN1hzQ3pjUmd5eXZ4aWwxVzdTUDIxTnRPdTJual9zcTA2eG96UTU2UTBGMHJNLXJjdXpnLXBVRE82YmlCVTVnZ1VwTUJxbnlFSGp3RmVpRGNUYVhQQUJrcjNyS1pOM0R2TXMwZVVMd0tuY0QwRFVTMEJfdzFid1BPM1JSaEdWYVQtd1EtN1o5eS1NTGdWblpLbjdxYmdEdU5uUjJmRENvY2ZFcEdPd2NBQlhOdHNR?oc=5
+
+Emilio Díaz: "El Real Decreto significa prohibir el desarrollo de centros de datos en España" Data Center Dynamics
+
+### SpainDC pide la suspensión cautelar del nuevo real decreto sobre centros de datos - COMPUTERWORLD ESPAÑA
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** SpainDC pide la suspensión cautelar del nuevo real decreto sobre centros de datos - COMPUTERWORLD ESPAÑA
+- **Published:** 2026-11-23T10:51:28Z
+- **Source:** COMPUTERWORLD ESPAÑA — https://news.google.com/rss/articles/CBMiywFBVV95cUxQTXlhdzNNRWhqRjBGM0g4SFM3UldPOFpXR2tYTmhjZG1FX29oRGQ0Zk53d3JXTl80RXR6UGVHa2xTUExlLS05UmRJanhjS0tLbG5pUzBOWDFSX0xOdUlINjBHU285OHl3UFU1WS16cGhDNV9NcUdWdVVOaFcwNzk3TGJjYVZ0SE0zbW1ORC15YmdkdlNqbS10R3A1eG9kdmFLZ0ZlZ3huTmtqbEJZNGRZTXpWQlhQVVBXd0N2bVM5dTFueEdlaFBkazNhZw?oc=5
+
+SpainDC pide la suspensión cautelar del nuevo real decreto sobre centros de datos COMPUTERWORLD ESPAÑA
+
+### Real Decreto de centros de datos: todas las claves - BPS Channel Partner
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** Real Decreto de centros de datos: todas las claves - BPS Channel Partner
+- **Published:** 2026-11-23T09:41:34Z
+- **Source:** BPS Channel Partner — https://news.google.com/rss/articles/CBMijwFBVV95cUxObnRDRnNsZW1XMzJiQk1mOHRORmlFeWM3eHNFZE80M1VaZDN3djc3VUM4TFJOcFFWZTBRT1IwSTRicXFMNGMxZUkxVXJkeGhYOE5tc1pzVW1WRnNNRHM0YXJMMTNsMlhvNjFZS0Z5VEJkYjlfY29RUW1Mb1BMS2Z4TXQxLU9saWRIdzd0b3VQdw?oc=5
+
+Real Decreto de centros de datos: todas las claves BPS Channel Partner
+
+### Centros de datos: claves del Real Decreto 1032/2026 - Cuatrecasas
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** Centros de datos: claves del Real Decreto 1032/2026 - Cuatrecasas
+- **Published:** 2026-11-23T08:34:00Z
+- **Source:** Cuatrecasas — https://news.google.com/rss/articles/CBMijgFBVV95cUxQd2tiMnVPQ1JzWFZoUnJkRXpwekFpbllaNVI5T3NOX1VhWnBncGY1SzR3NFpNeHY0SGpGQ1hweVMyYzYyeVdsU1RvRV9wQ0ZjTklLVnN3N2g0bWx4V09ldXhCNEpneDlwZ0ZVbnk1M1JCenFnV0MwaG56dGVHVEtHdWVGNTJaMVBJdGx5c0JR?oc=5
+
+Centros de datos: claves del Real Decreto 1032/2026 Cuatrecasas
+
+### Ya está en vigor el Real Decreto que regula los nuevos requisitos de sostenibilidad energética y medioambiental de los centros de datos - Cadena de Suministro
+
+- **Jurisdictions:** United States, Spain
+- **Topics:** sustainability
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** Ya está en vigor el Real Decreto que regula los nuevos requisitos de sostenibilidad energética y medioambiental de los centros de datos - Cadena de Suministro
+- **Published:** 2026-11-23T07:15:00Z
+- **Source:** Cadena de Suministro — https://news.google.com/rss/articles/CBMihAJBVV95cUxQajNuTlZOVS15bFJhSnBpRUMyY0ZmQ1VXX3dlMTNsczdsT3ItNTEtVWlRbFF0ZzRKUkdnR29MelZxY1o4RUZ5cXRCRzZaOGVxNEZNWkl3R2MyQUo1Yk83SDNnUnFXeXNIY1VIeUMzY3pDXzFqOG5PeTdqandtN1JZR3RtRlFSSkpIZHpFRnU0WndtSHVZM3YteDhIMnpPQkJQdDNOOVZtNzg3OW5fQTV3T0V4V3RMQnJNc3VvY1RJaFBTU0ZRdTNJNXZvaTl6dkpiQXpMc24zbUZhZ1N0cjI2bEF4VzdqY0VYMmZReUVmQ3RhNGlEUFlGbXh6YmIzZTl5SGZZWQ?oc=5
+
+Ya está en vigor el Real Decreto que regula los nuevos requisitos de sostenibilidad energética y medioambiental de los centros de datos Cadena de Suministro
+
+### Nuevo real decreto exige a centros de datos un 80% de renovables - energelia.com
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** Nuevo real decreto exige a centros de datos un 80% de renovables - energelia.com
+- **Published:** 2026-11-22T17:01:48Z
+- **Source:** energelia.com — https://news.google.com/rss/articles/CBMijgFBVV95cUxOcENvSEl3OWJqRWdZOEw0ZV9ybWlmZ0RsWEp5VVdsQkpKZmNveENXNmlxR1RmVXJSMUhQZi1fbnVYREwwTkhaWUJPRWhZQVdYS19vVXkyUW9zb2lXdWZ3S2JrSW9yd01ydS03cGZ3SEtKM1NSUDlDbmM1SWhvTU1PSTFiTUc5d1hYWDI3bUF3?oc=5
+
+Nuevo real decreto exige a centros de datos un 80% de renovables energelia.com
+
+### Begoña Villacís, directora de Spain DC: el nuevo Real Decreto sobre los centros de datos es "una prohibición de facto" - Xataka
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** Begoña Villacís, directora de Spain DC: el nuevo Real Decreto sobre los centros de datos es "una prohibición de facto" - Xataka
+- **Published:** 2026-11-22T08:30:00Z
+- **Source:** Xataka — https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcVBLMFhEdi1PWngtUVBqVExjbE1YX0ZrdTdWc2tyOFRLRkswdy1pX2N2N0RRZFBaOVJ4VEJIUzFZcS1XdWs0eGhPQk1HaEgyQVoxTjMzRlNqQUlHODhtc245WlZqUzZhOHUxWE92M3NERFVqY2pCd1hqUFJGWVpjTTJnbWZqS29oVDR1Y2hiMWF0Wk1zM3dxQVNnalpvMDR0V0tMOWhqQkx6ZXZyMWNHT2Rnak9VSDNpdnRB0gHAAUFVX3lxTE5JckhsMnlSWk4wV2I3TndFQmowVWcwQ3BIMW9tU0hrc2tMWnRpdE9YRTRabFE0TmpFZzlfcnBZSkJLNUdyVzRhNFJlNlJnY18wU2E5T1hvaHVoeFZlaFFUUWtLRnhnWG5aUmZ6dnVEM3VSQ05mYTJSeHJOeDJqQ0xjYXFmSDhaSjFZdVZ5d1VLS3Z6dzZpZVhTQ004aTNGVGRfdE1aNXZaNThScWJOLWt0NV9WS3FXYkxyNjBSdXhFbA?oc=5
+
+Begoña Villacís, directora de Spain DC: el nuevo Real Decreto sobre los centros de datos es "una prohibición de facto" Xataka
+
+### El BOE publica nuevos requisitos de sostenibilidad energética para los centros de datos - Zamora24horas
+
+- **Jurisdictions:** Spain
+- **Topics:** sustainability
+- **Document stage:** news
+- **Language:** es (untranslated)
+- **Original title:** El BOE publica nuevos requisitos de sostenibilidad energética para los centros de datos - Zamora24horas
+- **Published:** 2026-11-22T05:09:00Z
+- **Source:** Zamora24horas — https://news.google.com/rss/articles/CBMirAFBVV95cUxNYmJ0MFpqclJTbEhPb1NfOUVDQVpzdjV3cEh0bllRbVd4TXdpSjRIZVUyc0ZFazkzMWNzQ3B1RmtOU0ZWa3B3a2JLTmZua3h1c3ZLY0pOeWF1bjJHNWljeUhjT2NQZ2x4ckxZbWNad3pYNWhqNkZQa0ZJei1QU053WG92a1RIdHdDR2NGZHpWLWJNemxacjFNOF9VZzVKTGd5dFJ2WnhqUW9qNEVu?oc=5
+
+El BOE publica nuevos requisitos de sostenibilidad energética para los centros de datos Zamora24horas
+
+### La patronal SpainDC y CCAA. como Madrid y Aragón, llevarán a los tribunales la regulación del Gobierno de los centros de datos - Law & Trends
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** news
+- **Language:** es (untranslated)
+- **Original title:** La patronal SpainDC y CCAA. como Madrid y Aragón, llevarán a los tribunales la regulación del Gobierno de los centros de datos - Law & Trends
+- **Published:** 2026-11-22T00:40:00Z
+- **Source:** Law & Trends — https://news.google.com/rss/articles/CBMi9wFBVV95cUxPaTR4V002MWxzbHNSS2ZkSjluQ19wSW1KUzVXcmdRS1BVTVRHUEczV1dhbGZJSTdWWWlmUjhQNXRldV8ydmRJS1F0ZVBHbE43UkhmVjdEOC1SaTA0NS1mcjV0RG5BMHZqV0xkcWE0OXJMV2sxM3gzdE5oM1V1b2ZTU3lZY2lWWmdjX25SdWpYSV84TW5tbVVkZXpISHktSWt3OGVqdXRwWmJ0ZTFQU2U0VWJlTV93U1NDQjR4a0RhYnVWTVN4T0FaUnhUM2I4RmRuUGprRkJKUzBRQmt5b1k1TDRHWjllNDFjZXdXZjhDTHZNRm9LQzRJ?oc=5
+
+La patronal SpainDC y CCAA. como Madrid y Aragón, llevarán a los tribunales la regulación del Gobierno de los centros de datos Law & Trends
+
+### El BOE publica los nuevos requisitos de energía y soberanía digital para los centros de datos - The Objective
+
+- **Jurisdictions:** Spain
+- **Topics:** security-resilience
+- **Document stage:** news
+- **Language:** es (untranslated)
+- **Original title:** El BOE publica los nuevos requisitos de energía y soberanía digital para los centros de datos - The Objective
+- **Published:** 2026-11-21T20:25:39Z
+- **Source:** The Objective — https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdnRVSUtpbVBWUktnQ3pXdUxBQ2RZXzgtWWhaWFl6WTJnWEtDRWNNSmdrU0RLQmUxZjBwNGp2dnVBTk5pTG1lWGxiemJvck9YLXhfOERhX004dEhWeVhJX2R1aHlYTmZVbU5WRGlVTFhCX0I5SHc5Mk5XVjJxTVRXX2NTaVhJelRW0gGOAUFVX3lxTE53LTBnVm9CdHc0SVRoYzFQOXp5LVZRVHAwMjhQbVJNRm9KNGpWeGZ1ZlJjYjJHVW5VWWxTN3czOURVVUhZakh3QWhYOW5jbEFXazZsMFRRVFBrX0pJWDdBS2JSbk13QXczcDhoZGdSOTlRU0VmMElPd01Uek80WEl0S0RWVjdmQVlqTmZ5N2c?oc=5
+
+El BOE publica los nuevos requisitos de energía y soberanía digital para los centros de datos The Objective
+
+### Le BOE diffuse le décret qui fixe de nouvelles exigences pour les centres de données en Espagne - Demócrata
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** news
+- **Language:** fr (untranslated)
+- **Original title:** Le BOE diffuse le décret qui fixe de nouvelles exigences pour les centres de données en Espagne - Demócrata
+- **Published:** 2026-11-21T14:52:00Z
+- **Source:** Demócrata — https://news.google.com/rss/articles/CBMizgFBVV95cUxOUXZKdlpRdEI1S0c4eUplcmFlZlVVTlV3LUpHSGUtVnNFdHljcElJLVc2RTVwWU45TTdBbG1FYW5yR1JLc0tSNjVoVXlFeTRLOExNN3JBeWNwRU5nV29fcllSOXJBVU1IdVJMd3FWbUczNEotVldsN0Q0S2tyX2lib3J6MkZoaElJbDQwUnRRcnhFSEdUaEdkYzdibXRSRlZyVHdnNGVxNlM5VUtKVWM1d1l5cDVNcTR3cWQ2UlZ4blZfcWItQWJOT1ZvSllEZ9IB0wFBVV95cUxPNjJiblB6VEJfeTE0QzdUNl9VN3lqLWN4bXlYUlZkUi03Y0EtMkdRUC1ONjYzRjh4MGYxbDVFM3dJbW1WZ3NmcmM3TE9ua3d4UlZtVTRwdmd3STR5NVVxVzljVVdhdm56Ylo5LTBwd3dXR2VoRFoybnZMZ2RBYURhem9OLTVqZGRWTEs3R1VMZ1RoTmhSTVlFUDl0T0hPQUdlZk54bk5QMFZqTnpNRWUzNTBySFdCWGN3b1drYkpoMXo4WnFHM1doWWtNUHE5c25hMzU4?oc=5
+
+Le BOE diffuse le décret qui fixe de nouvelles exigences pour les centres de données en Espagne Demócrata
+
+### El BOE publica el real decreto que establece nuevos requisitos para los centros de datos en España - Forbes España
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** El BOE publica el real decreto que establece nuevos requisitos para los centros de datos en España - Forbes España
+- **Published:** 2026-11-21T14:51:27Z
+- **Source:** Forbes España — https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRlNmbHRNUDh1SUd3R3E4Q3VHODYwYV9yZVp5d2xuQzcyTDhIYzlFSVJiWWNiS1ZsXzAyRl95dm94UDBhZXRqd2pCdE5WWFZXSEJjUHd0am9uQzFvcTNQTzhRZ1hmT3pIanNORTFWWnVsVzJuSVViRWs0QUg2ZVRVLVpSVXpLZDlYUERSQnhtZUVvOF9iUDNXOERIVlVtdF9JTlVwb2hxZ1l3NUpSMU0teHpOeDByblRpM29CV2xsN21LYUtpOWUwR2xFRXhKRzlHbzhv?oc=5
+
+El BOE publica el real decreto que establece nuevos requisitos para los centros de datos en España Forbes España
+
+### Ecologistas en Acción advierte de que el nuevo Real Decreto de centros de datos cuestiona los proyectos de Amazon en Huesca - diariodelaltoaragon.es
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** Ecologistas en Acción advierte de que el nuevo Real Decreto de centros de datos cuestiona los proyectos de Amazon en Huesca - diariodelaltoaragon.es
+- **Published:** 2026-11-21T11:43:50Z
+- **Source:** diariodelaltoaragon.es — https://news.google.com/rss/articles/CBMiiAJBVV95cUxOSWVMLWo4X1RHNkZYN21uUGRUNXNiRzlpdW4xbWROcTJkSlFiaGd1N1l5U2llQ3hnRGFhWjVtUDhEZTljN3dteUxzLUJrUzZaeHdGd1doLUFDVmRXYW8zOEhzTk0wdnRVUG5vRnpZdF85TElPNE9GTS1pVUdOLUJOZnM5aTJmclZlSG13a09QX2ZTRVU1YlcwT2hSTUtfdXQ5YUFWT2dwVE4ySGpyMnNSYS1FUVlFUTZPNlA3cHp5N2ViMW05UUhRLXlRSmpfM0JaOTdwOS1NWlRuVzNOTjhrZnpqSGlMUkUtcDBYQmh2UkVJTXBodF9MMDRTTmVWejU2VzBMdTMyRDQ?oc=5
+
+Ecologistas en Acción advierte de que el nuevo Real Decreto de centros de datos cuestiona los proyectos de Amazon en Huesca diariodelaltoaragon.es
+
+### La Junta rechaza el real decreto sobre centros de datos aprobado por el Consejo de Ministros - La Portada de Extremadura
+
+- **Jurisdictions:** United States, Spain
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** La Junta rechaza el real decreto sobre centros de datos aprobado por el Consejo de Ministros - La Portada de Extremadura
+- **Published:** 2026-11-21T07:52:28Z
+- **Source:** La Portada de Extremadura — https://news.google.com/rss/articles/CBMi9gFBVV95cUxORm41ZXVMYVd5LXBZZWZDTF84N1NyNm9qSm93M2V3TEVybHJkSS1wUktwSHd0dC10TEVjb1JERlJycnpIVEZxMGRWc1N6eGxUNjdkWHRGMm44QTBkNlhETW5lT2M5TlNiaXY3WUY1N2VjN2RnbTFTTEN0QV8wcGY2UEI3cDFPV3FYSmVPbHJPd2ZrdWJ6Q2FLdjlXODdjQWZVVDhyRi11S2t1NEJyVTZLM1BPeXNtbDN1akhtd0tNTXhtd25HMUZQWU9tNGNSMWRyVG5yWmRYeE41WjFfZ1NYU01rU2trMVBfU2xjUndkUnIxVVBFZnc?oc=5
+
+La Junta rechaza el real decreto sobre centros de datos aprobado por el Consejo de Ministros La Portada de Extremadura
+
+### Extremadura rechaza el Real Decreto que regula los centros de datos con condiciones que «perjudican» estos proyectos - Onda Cero Sur Extremadura
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** Extremadura rechaza el Real Decreto que regula los centros de datos con condiciones que «perjudican» estos proyectos - Onda Cero Sur Extremadura
+- **Published:** 2026-11-21T04:55:00Z
+- **Source:** Onda Cero Sur Extremadura — https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOGs4ZkhCb2JCbGxidGM3aDRUN0xQWmRSUXVEZTVabml6NmNHd2FiMGJsU1FQc1hmcVlqcnpxNEQ3WFZ6Tzc2TEFnWEYyZ3l1eVZOTV9pUWpTMVhYQmJzaGlaMTdsNHJZYWYzV0RHU2pNamJOWjNUQ3ZlaTl3VzN0eExabFlwazJTSUozT0wtMS15Z2hpSEVHeW51bjMweDlMbGJ0dnZUXy1mbzl3bFVnVlJPRV90cnMwUVlwanp6Z3lMbWFxd1U2VV9KdWZEdGVCSkFoZWhVV1BPRE5iUG4w?oc=5
+
+Extremadura rechaza el Real Decreto que regula los centros de datos con condiciones que «perjudican» estos proyectos Onda Cero Sur Extremadura
+
+### El Consejo de Ministros aprueba el real decreto que establece nuevos requisitos para los centros de datos - Radiotelevisión del Principado de Asturias
+
+- **Jurisdictions:** United States, Spain
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** El Consejo de Ministros aprueba el real decreto que establece nuevos requisitos para los centros de datos - Radiotelevisión del Principado de Asturias
+- **Published:** 2026-11-20T19:59:00Z
+- **Source:** Radiotelevisión del Principado de Asturias — https://news.google.com/rss/articles/CBMiggJBVV95cUxNSnpLcFplWWxHQU5fdldYajlHcmZqNU5qNDNNOThDcGxQV0NPbk9HYzNTbXRPT1p2eDJaNWZaX0NZRng1WnM1WUV1MHBtbGJicFZBYi00dVZNUkVybHU0RlBvTzBjZHN0YzRST0NaWWlOQk82TGlNaURVVTR2cEp5Q1Vsa3BXRFZ2VU5mY3g5VXZBRUttdk5WaHZRQXlITWNhdGpITFpUdnd2Rlk5US0wR29zX1VhYXE3TUI0ZnVyZ3VJMWRNNGJPM1gzSHRHZGhsYkxpYnMwaU5wWVQxbUxya3EyWUpORzBIekJTOWhULU1EMVIzVFMzY05iQ2o1M0VBanfSAYcCQVVfeXFMTjhuUU1DZkZNTVBGbUR4S1pldXVOMmFhY0s3ZEcybmY4U2lSam1FTzF1ZGxLWTEyX1dqMHl1OURUVzJBR0VGX3pfYm85bkliOHl2WGRTT3hkQWJWbi1uRExrQU9KclNpY29UY3lhZ0J1aDhxVHR2UjZmR0ZQOFRNZ3lBZ3pNU1Ftd0dWYWptTDdQLWQzRUtpLUxvRGJpNEE0bXRZZEV5TTRhbWtJSVVQaVJCN1VmQXZ2YUMxT1RraDRWNC16QVR4S2ZXWlRHVVNUZkNLNnhrTWJMakI4TkFuMG4yY3NsdmhrOHphYkt6WGdfOXo0TzdVZ09wWWNTLVFSaFdoaGxyX2c?oc=5
+
+El Consejo de Ministros aprueba el real decreto que establece nuevos requisitos para los centros de datos Radiotelevisión del Principado de Asturias
+
+### Aragón recurrirá el Real Decreto del Consejo de Ministros que regula los centros de datos: "No tiene ningún sentido" - COPE
+
+- **Jurisdictions:** United States, Spain
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** Aragón recurrirá el Real Decreto del Consejo de Ministros que regula los centros de datos: "No tiene ningún sentido" - COPE
+- **Published:** 2026-11-20T17:15:43Z
+- **Source:** COPE — https://news.google.com/rss/articles/CBMijwJBVV95cUxQa0ZaY2xkd0xjS095cC0tMnFkQklwa1lLMXJJU3prMUpZWmtrZlgzNWhxNkJmQ0M0R1lxSjZ0M3hCUUR1YmNIbnFmRkNQWWcxVEtxQkk2Q0NoTFFKd2hvQ1psTFo3NlRNcG84a3RFMHVPRWwzTjBaTERaLS1kRGxxTGlONldNcTllQWt3M1ktRHNpZ0FMSWZUX2JEdnRQSHc2WHZ2MGh0YWtlak9sZUNtS3Axc0dVZ2RxZ1g3cE5vNVlVUjZnQkxHemhGbUlhR21oS0V1OE0ySEs0TmpjTnlKSEFqSkw1Y0cwbDMzYkhTTXpNd1Rpc1JIU2VLN3NxNWo2b2xvYkxEVkhaSy1nT0dR0gGUAkFVX3lxTE1SbEIzaF9xNFUwX244RXJVNkhOUEwwNC0zODJNS1VEMDdEcFZvZ3BpQWh5T2Q0OXV5WW1KOFMtdlU4MzBBc0tleV9tNDFrQlhsSldHdm1pOGxmdTlWN2U0X0xfby1MVjVMZFNQSHV3ekJWemE0UTVfV0p6akg3dWpNTHNzM2JnUWhRaHRzaEI1RjJiNjcwYmwxX1o0QWJtRXBPbEU3SnRPRUstSEFCRmpEVlNuMVA3amlxLWFMQmk1cEtFV0Vqdldla25qTlZjVTNJT3NHWlJYTE5QZU02dFBXV1AtUWx6Y0tNY1I0MzlKOGRMVkJ2MnNpTjEtX0lPcnRBRWR6LV95eURYenAzbHZZVTRFdw?oc=5
+
+Aragón recurrirá el Real Decreto del Consejo de Ministros que regula los centros de datos: "No tiene ningún sentido" COPE
+
+### El Gobierno de Aragón recurrirá el Real Decreto de centros de datos - ABC
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** El Gobierno de Aragón recurrirá el Real Decreto de centros de datos - ABC
+- **Published:** 2026-11-20T16:57:43Z
+- **Source:** ABC — https://news.google.com/rss/articles/CBMiowFBVV95cUxQRi0tUWJVRkRBQmpWWkJKa3lPYnhhSkFVa1NMSXlSWjBqenNJaUxCSWdHMm0tcnlEMTlmQ0pHWnpRSWZOSkxqbTVpRFJyeGFJZ3Y4V2p2T3VLVHQybk1xVmM0dEJ6VFZmd0QtZEJUVENUNFZRb0xrZTdjaGlVRHZOV2tFdHVwRVBGRHlHYTllZ293bDdnWldnWGU0WXlSbDMwM25r0gGoAUFVX3lxTE9KSV9RcE1lemVkLWFuSWhzTVFib2pacUkzRHh5Mkg3T1dOZjJrUVN4UzMzbl9YT0tWMDJEWUhBVFh3MVhOc1VOZktDSHhhMnEySGhYLW9GWTlVRnRSOGZtX3JRb0ZBdWd2ZGlLVWR5ck9rX2JBdGNYc1dtZkQ3OVdFQ1ZMX3lqRTZfWlJnNkhPZUV6MXUwNUFEaWxVOXhVQWlTM3BXN1ZpRg?oc=5
+
+El Gobierno de Aragón recurrirá el Real Decreto de centros de datos ABC
+
+### SpainDC, la patronal de los centros de datos, recurrirá el real decreto y pedirá su suspensión cautelar - Valencia Plaza
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** SpainDC, la patronal de los centros de datos, recurrirá el real decreto y pedirá su suspensión cautelar - Valencia Plaza
+- **Published:** 2026-11-20T16:07:37Z
+- **Source:** Valencia Plaza — https://news.google.com/rss/articles/CBMi5AFBVV95cUxPX1VEN0NJT1ZuLU1JTVhmcHZwWFJJMEUyYlVQY0haOU5FTUxZc2ZDTG1PRzNTWFNkcS1TXzllalpGTGl5c2RVemgwemJEWGZ6TTlFcy1sMEs4NFh2SWdKVTB4cGVaOElxTnVLZDRzQ0E4ZE1qOGgtbUtYSWFwRXFWVWc3YUFVVlJMd3dCNWxsVDlfLUpZekhYemdKMTBadXFpeHlnLW1WZG5XN3hZSjY2YUIwODRaejdaNHBhNGZyeTdEbUxhTDlTbXdFeWxuczlWU2hqeUF5RFFpV1U2dlE4S0xXeDE?oc=5
+
+SpainDC, la patronal de los centros de datos, recurrirá el real decreto y pedirá su suspensión cautelar Valencia Plaza
+
+### Extremadura rechaza el Real Decreto que regula los centros de datos con condiciones que - Junta de Extremadura
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** Extremadura rechaza el Real Decreto que regula los centros de datos con condiciones que - Junta de Extremadura
+- **Published:** 2026-11-20T15:47:00Z
+- **Source:** Junta de Extremadura — https://news.google.com/rss/articles/CBMiZkFVX3lxTE0wc3dYd3J0aHFDeThLT2pHdEJaelBtdDZMOGdnNmNJdDJQeWlsVkNyZmFLRnB1UWlIQVFiQ2doUk9VOXJ3TVBYTTF4Tm9tUlZxWFczSHpuVHlGY0x6SGVXZVJLMkhsdw?oc=5
+
+Extremadura rechaza el Real Decreto que regula los centros de datos con condiciones que Junta de Extremadura
+
+### El Gobierno aprueba el real decreto de centros de datos y la planificación eléctrica 2030 - Valencia Plaza
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** El Gobierno aprueba el real decreto de centros de datos y la planificación eléctrica 2030 - Valencia Plaza
+- **Published:** 2026-11-20T15:45:10Z
+- **Source:** Valencia Plaza — https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVDRnal9sYlNBN05rX3piWkJzOENhaGkwZjB1VVBaNU5jS3BQWGJHU3JrYUltcG9ydDdyN19wdFRjSjZkQXJCaHVfZzJfSWNYck55MVpsa0NtcTg0VnJkYVNZbGIxeXFud2pfNEZHY1JPY1pVUmFTaVFTTjN6MGZJb2tuaUhiN010bU1TOHlxZVZMQ0QwbjRBY3k2SW1uaFBkb1RjcmM0UjB6UUZmcHhvNjlNZkpuMkpHb1Ywa2dCbm5XejB6OVhZM3RucFBFNXJDRTg4aw?oc=5
+
+El Gobierno aprueba el real decreto de centros de datos y la planificación eléctrica 2030 Valencia Plaza
+
+### SpainDC solicitará la suspensión cautelar del real decreto de centros de datos - El Periódico de la Energía
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** SpainDC solicitará la suspensión cautelar del real decreto de centros de datos - El Periódico de la Energía
+- **Published:** 2026-11-20T15:43:47Z
+- **Source:** El Periódico de la Energía — https://news.google.com/rss/articles/CBMitAFBVV95cUxObG5tQTM3dXRzZjNjczZrSVN4Zmk5bHQzSTNNNUxYa0xYTWJ6ZjlqalI1VGJoa0FfR3QxU0xMTjRiQmpEVWhZMnNrTnFfdFNHZnk0M1VtU3NPeUo2MVREcVBENzdEM05YaW5wTDZZbHYzTl9YVFdMYWVoYkxSN3NuR1BYX192U000VGZrOUtMMnE4R0FVN3gybVg4cVJmX0NPOER5dVQyTk5fODhubmZlckVadGI?oc=5
+
+SpainDC solicitará la suspensión cautelar del real decreto de centros de datos El Periódico de la Energía
+
+### El Gobierno aprueba el real decreto de centros de datos y la planificación eléctrica 2030 - infoLibre
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** El Gobierno aprueba el real decreto de centros de datos y la planificación eléctrica 2030 - infoLibre
+- **Published:** 2026-11-20T15:19:07Z
+- **Source:** infoLibre — https://news.google.com/rss/articles/CBMixAFBVV95cUxOOTEzSmFPOHRDMmwxbWdYLXhwZ3ZzYlhiU2hlc19nQkpDZVlfSzh5d3R0ZFpQTTVQSWItaFQzMDhSSmoyZGVadVg1NVNBQmlSa293V0RHbGpJOGpTcC1WN3RkdUVxRWhiNkwtdnBpeE5aRHdaWlZqS1lURkxpRi0yQ0ltSDhyMHcxWkJqdHZKMHQ3cmpLS0VrY01qWEE1Y3pnSnpzam56MHBMQWJjTFlJX1BIS2xVakExMUxESENCOEtQel8y?oc=5
+
+El Gobierno aprueba el real decreto de centros de datos y la planificación eléctrica 2030 infoLibre
+
+### El Gobierno de España aprueba el real decreto que regula los centros de datos - diariodelaltoaragon.es
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** El Gobierno de España aprueba el real decreto que regula los centros de datos - diariodelaltoaragon.es
+- **Published:** 2026-11-20T14:47:57Z
+- **Source:** diariodelaltoaragon.es — https://news.google.com/rss/articles/CBMipAJBVV95cUxQR1d1dnY0Y2xQaDBmdm91eWpRZ3VrM0RXRHpJMklTSDJRWFlnYkRURGZvQ2VEYTZRV0lWMXI3Rnl0ZVVpVUxrWlY2WHZyS2V3R3o2MW9lT3o1ZklNMi1qZ3Nzd0Zva1dFVmxYT18tbGVpaEVmbVFDSHBBNDBSanJONnR6bWUxQ3NlOHRfNEFLZF9mSlZESlVYWTRJZDN0RXRSV2JnSzZZZENhdVRNTVNOd29nOWVIWjFlQWVYcy1ITnBNc3BxMHZrWnpKTzNjcmRUaDdhMXZTeElZM3N0RE1CX2c3ZE8xQnRMSnZDQ0FWRFlNbEYxejRiOElJQml4aDVkZ3c0c1ZLaE1wTm55N1RKYXRfb0pMVTJQdU5LMWxkaGFFY1JJ?oc=5
+
+El Gobierno de España aprueba el real decreto que regula los centros de datos diariodelaltoaragon.es
+
+### El Gobierno aprueba el Real Decreto para la sostenibilidad energética, medioambiental y de resiliencia y soberanía digital de los centros de datos - Ministerio de Transición Ecológica
+
+- **Jurisdictions:** United States, Spain
+- **Topics:** security-resilience, sustainability
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** El Gobierno aprueba el Real Decreto para la sostenibilidad energética, medioambiental y de resiliencia y soberanía digital de los centros de datos - Ministerio de Transición Ecológica
+- **Published:** 2026-11-20T14:11:50Z
+- **Source:** Ministerio de Transición Ecológica — https://news.google.com/rss/articles/CBMi0wFBVV95cUxOemEzWWY2eS1UYXRZUWRHSjAxZGs5cmdzYXpWRnAxWDFYREs2cFVXRnVlcnNpN19tSmRaZkhxVXFPRXNMczhaNVdwUHFKM1hjY3BOb1dUbHJEbUMxU0l3SG1MTzNuZFhGeE5wQUp0RUFDYnNBZ20tSTRSb1kyOHhKUXFrVFlqNC02QzBTM3RacHpNalpBeW52S2V2eDdaTDBnWWF2aUt2Z2QzdzJvWnVzSHJUeUozTFdpdWRNUmZFT0MwZkthQTEzNjdvTjJkZEZUeThr?oc=5
+
+El Gobierno aprueba el Real Decreto para la sostenibilidad energética, medioambiental y de resiliencia y soberanía digital de los centros de datos Ministerio de Transición Ecológica
+
+### UPN rechaza el real decreto que regula los centros de datos, que califica como "la peor normativa de Europa" - Europa Press
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** UPN rechaza el real decreto que regula los centros de datos, que califica como "la peor normativa de Europa" - Europa Press
+- **Published:** 2026-11-20T13:51:01Z
+- **Source:** Europa Press — https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeXJYYmNDNmlvRnlxLUhXRElnTmlHS2YtSGt3eVpHX0ZvRkN2UkRoVkZCMjgwN2ZvbDhadWRTMWQ0SmdKVXM0djJpOUIwTTJpNVJ1bkJ4R2FwNVo0SlBucDh4SFBzS0RYa0tNZ3pfVWpFVDJRc2tXYzdsLUM0VU9aaXQ3ZTVITzRQaTNMODRUWEtOZW8tTmswanNCT29XajFzMEpHNWxmVllFOWMycHFoN2VXYjh2M1VIUEp2SXdoZE1RYVdBTkw5dkQ4R3hzRVVIdEJoUllR?oc=5
+
+UPN rechaza el real decreto que regula los centros de datos, que califica como "la peor normativa de Europa" Europa Press
+
+### Solaria, ACS y Merlin caen tras la aprobación del real decreto de centros de datos - Bolsamania
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** Solaria, ACS y Merlin caen tras la aprobación del real decreto de centros de datos - Bolsamania
+- **Published:** 2026-11-20T13:46:42Z
+- **Source:** Bolsamania — https://news.google.com/rss/articles/CBMivgFBVV95cUxQVURiNUdsYVg1S1R1LU1TZ2NTU28wMEgyaHdKSUlsWmt1MWVVOXUyU0dOYkhkTHlOcnFGcnJfYm5VUHdCX1pfcXdac3pxZ3Y5R2ZCdlY5MjY3MC05QU9vc0ZCTmp6b0dNX05BbjdOU0dEc0JRdkdSVGVQal9yMGRZMU5TS3h5ekE3a1BlYV9Yd3lacXJ2TURVMlFNVVNybk1SSi1GdGt1VElqV3hwQ2hrLU1jUXlWVUlNdElSNjZ30gHDAUFVX3lxTFA4cmRZQ2xXOF9SSmotMktTcHIwNHg1aVBPTURNZTU2OW5NTEJCUDh6LU0yNzZRSnhxUEJTakV2QjZhTFBsYXhoRWFUTzRhVm92MHRBOVJqZ3JsN0Y2UGFRSFhEdjJnVHhhdGY2VFh6SlBMdEJlcU8tenZxMGNlYl9zOVo2a2k3SGNkV2ZkSUhDMk1kNW5rSWJ1M2tlelh3dXl2N3NTMmhpbm85aWc5bEFDSk0wTWN0MVNuOHNPQzQxN3FPdw?oc=5
+
+Solaria, ACS y Merlin caen tras la aprobación del real decreto de centros de datos Bolsamania
+
+### España aprueba el decreto de centros de datos para "contener" el coste eléctrico - Data Center Dynamics
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** España aprueba el decreto de centros de datos para "contener" el coste eléctrico - Data Center Dynamics
+- **Published:** 2026-11-20T13:42:58Z
+- **Source:** Data Center Dynamics — https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSFV1RmM2TXpuQ0FxdEt4QWR0M213OEtPMWhMczNMVlRxbzgzTkc3ZXBzT2FUY1Azc0ZUeFhFRE43UVBhVXExTTZNUGZyVW8tdVB3dTFIanVNcVZfd0ZzbEtQOHBGamlQMy1USDZ2YXNnQ1JnRkNkY2hCQVZGQWgxZEREblc4bTNVb095LUxxR2ZCTmlJeFJ2R2RPcXpod0sxVmVaUnR0TEFKYWgtMDBsUVo5ZnU3OE1sLUR4dDNKS0RDYXVGZGhETE15RnFiVnZMN3c?oc=5
+
+España aprueba el decreto de centros de datos para "contener" el coste eléctrico Data Center Dynamics
+
+### El Gobierno aprueba el real decreto de centros de datos y la planificación eléctrica 2030 - ABC
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** El Gobierno aprueba el real decreto de centros de datos y la planificación eléctrica 2030 - ABC
+- **Published:** 2026-11-20T13:42:52Z
+- **Source:** ABC — https://news.google.com/rss/articles/CBMirAFBVV95cUxNU3ZhRlpLZnBub3d0VVR3TzduVlN4V1ExSnlIQ013WlQxcFo2UlFWZjNNVm1JcWxMdXlXV0RLd0ttaTJpanRkUkhXSlpOODhpRzBKUjMtWlpxa0plQ295WkctTU51dlg3VkNxV0QzdnJGbDVER1B6M1QxazdMOEFoeE1MQXl1M1VGSkt3UFZncGxKSzFfbUs2Sk00UFBXR01lX3U1cFBhVHRPenpW0gGyAUFVX3lxTFBHN1JPSUx3cXFxSTlMNUJNUDNpd2dtV3pHNVU4WXEybi13OTRzUmRfa1F3RGV2eUZNemNEQlRTZUNoMDNoeW1OVm96bTFDdC1CQ1pzMzd0NXVweXNFY0paUjdUQ0hOQk13c2RiMW1qVEVKX0NSbEQ4RTFsUGNudTFJaGJpQnRnSWRnamNOLWR5VFNLSjd5eG5CdW5qX3hLazQ0WFZUSDd2S0NJMkFvLVNtd1E?oc=5
+
+El Gobierno aprueba el real decreto de centros de datos y la planificación eléctrica 2030 ABC
+
+### UPN rechaza el Real Decreto que regula los centros de datos: “Es la peor normativa de Europa” - navarra información
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** UPN rechaza el Real Decreto que regula los centros de datos: “Es la peor normativa de Europa” - navarra información
+- **Published:** 2026-11-20T13:33:47Z
+- **Source:** navarra información — https://news.google.com/rss/articles/CBMi0gFBVV95cUxPamdnb0ZXMzVEbll5dkdLRTRoV2RjUGlUOHFvQ3drQTc3Q1FvS1hmLXRBM2dHejVzNHVFSGNpc1JsZWZEUGN6eTN6ZnBveGRKREZaUHBheUZRNUxhTmRFd2hyZER0Ukd2OVNtVWR0QUJqNldwalFNNXhqWjNuZ0dmU3BielBmaHBjOUcwU2phV3VmMDdfVU1JZUNvQS1TdktqZEZFaDFWQXVOdE9ZLTh2aGZmMTBPY1h4MzJhOHpYZEhndjNjSjloT0hld095a2dxb2c?oc=5
+
+UPN rechaza el Real Decreto que regula los centros de datos: “Es la peor normativa de Europa” navarra información
+
+### Spanish government pushes through data centre decree despite industry warnings of unviable rules - todoalicante.es
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** news
+- **Published:** 2026-11-20T12:53:20Z
+- **Source:** todoalicante.es — https://news.google.com/rss/articles/CBMilwFBVV95cUxNZk92amlkNnRhSUIyZk1aSVdoREMyUnc5ai0tYWFzRXRNYW5kTFVLbUdlTDRiYUpCOE4wMW1mdWJaeXl5c0pNZEoyWF96SktXQ2VtdzZwUUNvLVoyb1RMcHF2UU93bkJMMEktb3JNQVNPVVFRYTRVQjFRejQyTkp6aUpvN2Zxd3NBeUVrQllyT2lMMV9qNTBj0gGcAUFVX3lxTE44ZXlWSUd3eE4wNUNQLXpxLU9sTi1SMGtsNEFtMkwzbVlnOENBbXlXdmdwUDVwWndaeUt3eHVVZmNIUkdEal9MV21IX096MWY1ZnZIbUR5aEZwS25LOG1yTWdac2NEOElGaFZJNGVBVDRIRHkzR0hlb0hpeFgzbS1fSk9DRWZBeGlCTjNXM0MtWlZrazFVMGlKdExqMw?oc=5
+
+Spanish government pushes through data centre decree despite industry warnings of unviable rules todoalicante.es
+
+### L’Aragon alerte sur le fait que le décret sur les centres de données fixe des exigences inassumables pour les investissements - Demócrata
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** news
+- **Language:** fr (untranslated)
+- **Original title:** L’Aragon alerte sur le fait que le décret sur les centres de données fixe des exigences inassumables pour les investissements - Demócrata
+- **Published:** 2026-11-20T12:45:09Z
+- **Source:** Demócrata — https://news.google.com/rss/articles/CBMi9gFBVV95cUxQcmU3WmJPTm1tcXItU09iOXZ3YTE2c3VSQnBsS3FyQ2Y1cnFtbDBuRjVuX3AtTkpaUHEySUllRFlwWEp3cGNPNm5ZSXFxNGhkQmh6d09TOGdxcmZobnBiR0RTeHZhSkFQaXhhLVRwWEZtMnI1RkNSY0laSXJ1LVVWVDZDWnExQ2xMVEJNZmJNODdIYnlTc1V0NUNlSXZUUkR3UTN5OS1yWE9TV1VXTDgxeEJyNVVILVRSR2l1eHFYaWZnTTFBWGRlYlc3MDQyQWdQcUNfdEV3MDZLRWZ3UFVBYnJqWHVFV01xTzhYSU8wZ3hJRF9mSnfSAfsBQVVfeXFMT00tNU5ua0lWR0NUZW1UVHAtV1RUamFvckRXS2ZZUHdmbzVxcTZPWmZucEdzdjltWFpwNUVuelB1aEZYWnlqUjVFUFVFS0tHeGYtSm1wZE8tZl8xNl9xM2lrRDQwUnEtMmRJSGdfLVM4R2d1MjdDUFZUVzBCVHp1UmNWbG9OMU8ycnBKZkg4TXdCdzVhODVJXzZCcGtVdXQwZFY3S0xBZnN3ZGdGRnpFQUhFNEtzSEd2NG9Oa0RkSzhoQ0IxalBVNEQzVW1JMUlGNUtnR2JjaUNjNVJ2bVB0T2lndS1HZS1xUEtESGZvallLWENHLWs2NDNtTlE?oc=5
+
+L’Aragon alerte sur le fait que le décret sur les centres de données fixe des exigences inassumables pour les investissements Demócrata
+
+### El Gobierno de Aragón lamenta la aprobación del Real Decreto de Centros de Datos que impone condiciones “inasumibles para cualquier proyecto” - Aragón Hoy
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** El Gobierno de Aragón lamenta la aprobación del Real Decreto de Centros de Datos que impone condiciones “inasumibles para cualquier proyecto” - Aragón Hoy
+- **Published:** 2026-11-20T12:22:00Z
+- **Source:** Aragón Hoy — https://news.google.com/rss/articles/CBMikwJBVV95cUxQM1ZfeU9YOWlEeWpGc0ViUU1WXzFIUl9hcjBCOUhreU50bUJXQ2FVdm1wUXlyaVN5WmwtLXBMQzJuNFVjTVVPXzdMYzZ3OGFvVExFNkhLRlJocW10Z2lTckVZenRVbWNWODhNbXZabVk3UDJjOHdHUDVKZEgxdjMyZldjYWVaVlhnTDVrQ1lxTThVVldCQ2FsQ1lGMUhFVEhBUDhya0VrX1JuRGRTYnEta1h1RjUxS1Y1SExIbjRqOWt3NVE5NkJQVllDT1lQQldzQzZqRXJpbzZHLXdadlNNNXZUV2ZnX05PLXVodUxsc0hIYXBpbWM2RWJlNE4ydEpqZ3paZnFCTlEyOWcteTFvVWw0VdIBmAJBVV95cUxQNzVqNlhhWk9pZE42M1p5cnVuWHoxQWlwVVQ0Vi1tZU1ESFZiMS1nWXBncjQ3cXBxUDJZVzdEajBhUTNSOGV0eVRqdjBtNmc2MU0yVU5TWUFQdHZiSXFObUU0Y09rZldDM3BQcTBRUF8yWDFacjM0SkVHRGtUc1AyOUE4bndFdy04blJsVjdWdmczdzBBTUpHSVJlRmptMGVHMkRPMWZGWTdPQ0ZhQzZBbEFVWnpMVWNUUGlvUnlRbHBTWC1OaUFBcEg3WTdNZHA3VUFkNy15VTdkdnRaLVh0OHVlVW81clBmeElKeDl1ZFU2ZE5OdEZyUWdyUDVLUGZRa0Q4NFNrSXNGRXJFN1ZhR1BSQlFreHZm?oc=5
+
+El Gobierno de Aragón lamenta la aprobación del Real Decreto de Centros de Datos que impone condiciones “inasumibles para cualquier proyecto” Aragón Hoy
+
+### El Gobierno aprueba el real decreto de centros de datos, frente al rechazo del sector - EjePrime
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** El Gobierno aprueba el real decreto de centros de datos, frente al rechazo del sector - EjePrime
+- **Published:** 2026-11-20T12:22:00Z
+- **Source:** EjePrime — https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMkJua2ZkYlhCNU1qeEFKdlRqcE5RU2RUVW1KQlJ5bmdrZnZtaGFmcUFlRDBVa3ctOGlUZzhRNkw4UFl3YlpydEcxdzhNSFV3STkzc1hQOXRvNlFscWZJeXdNYWxlTjJwdUY3cm41ZVg2QmhVX1o1eFcyMDM1YS1fTE1DbzVHMnVyV2ExOHk3V2lnQXA0ME04WUt2aGh1RVQ1TjRFSWlIa04yd1lPVHZZZThYWWlvT2lYWWF0Y184azQ0QQ?oc=5
+
+El Gobierno aprueba el real decreto de centros de datos, frente al rechazo del sector EjePrime
+
+### El Gobierno da luz verde al Real Decreto que regula los centros de datos - Cadena SER
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** El Gobierno da luz verde al Real Decreto que regula los centros de datos - Cadena SER
+- **Published:** 2026-11-20T12:14:26Z
+- **Source:** Cadena SER — https://news.google.com/rss/articles/CBMixAFBVV95cUxNVW1BNnE4SGxEVU9hRG9yRVdSTlNQNzc1WF9CaHB4VllBMmRGZXdzamJiRjJyc3pWdmt3VHRVSkd1TzIwbHZiS1ZnMGdqY01aNUdmZ1I2LTdsN1VvaUwwSGpIemtQTHhOczJZMUNsZG41S094c3BPZFQtbDI2RHFCRkZJWU1taTVsSGxFc2p2dzEtbXdsczNNa2VoR0lhMW5CWUpsdmxfUGhhWHJDdjJKLVJBRVBhMEJNSloyUmJEdEVaQXdv0gHYAUFVX3lxTE5Qb1k3THhQWWxCZjFOdWRDalVHRTg5VlQtUGtwV1k2ekc4UzVhNHN5aGlGMnZqNGlVT0RrUHI3N1VHcDU1R05SNlkxWmJMTnFSbHNiazFVcnFybmkwZDEyc3Rpd2I3N3NfV3M5SS0ycXo1bmNMSGxVZEpPSXpPNUt0VW9FcFYteDFXTDB1NnlnVnR6Q2gweXJPSjV6RU9UMmFtakJuTW9QeTdnVHI4MnM4VFRZOUxCbXE4M3MxZnlVOE00dFFmdnBkd1RGcF9SSF9kOHIzMGlsaQ?oc=5
+
+El Gobierno da luz verde al Real Decreto que regula los centros de datos Cadena SER
+
+### El Gobierno aprueba el real decreto de centros de datos y la planificación eléctrica 2030 entre críticas de la DGA y el sector - Aragón Play
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** El Gobierno aprueba el real decreto de centros de datos y la planificación eléctrica 2030 entre críticas de la DGA y el sector - Aragón Play
+- **Published:** 2026-11-20T12:08:20Z
+- **Source:** Aragón Play — https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNkVWcEZfc0VzRDhjYUl3bkJlT2ZQdDJ5Zi04RHg3Y09EZEJEYjZQX2h4MkFHZ2hYbk1xaGpZS1pSLUg5UEhIWVNERThPZjhJZmhQLUQ4X3BpTUY3Zjk1ekpTZnJQZkp4VmZoUEVOekZRdTRiQjZndnZyYVhCUnVZWWpEQk1aYW5KQ0VBcnMtMEVxSGotZ29xanI2dXFjNVA5eFpKVjA0UkliX3RWNUFjWkU3Y3VRLW9MZGhKVkY0Z1Ewclk?oc=5
+
+El Gobierno aprueba el real decreto de centros de datos y la planificación eléctrica 2030 entre críticas de la DGA y el sector Aragón Play
+
+### Ecologistas en Acción celebra la aprobación del real decreto sobre centros de datos - Ecologistas en Acción
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** Ecologistas en Acción celebra la aprobación del real decreto sobre centros de datos - Ecologistas en Acción
+- **Published:** 2026-11-20T12:06:38Z
+- **Source:** Ecologistas en Acción — https://news.google.com/rss/articles/CBMixgFBVV95cUxPOFNteGwwUDBRMm51LWlUVVk5MUNRbWlheVJpaHhSOVZJeTVZUFFVYTZGZjhqWGNTd2ZJek42THpya2FOeVZwZlJpemZNbnl6TkljeURjNzNGSHFvMlpsRzhQZmUzOXd2N291ZTJXSTB5VWJ1QzhvaGg5amFhbS13TG0tSkpkclZwVmNjcTBwZFlNdThPR3Y3dVRUZXJnOFE4VGZuNVZJU1B1MVJWd2lkOXEtOEpiT01BcklYWmlFQXBqVjZyLVE?oc=5
+
+Ecologistas en Acción celebra la aprobación del real decreto sobre centros de datos Ecologistas en Acción
+
+### El Gobierno aprueba el real decreto de centros de datos: todos los detalles - Demócrata
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** El Gobierno aprueba el real decreto de centros de datos: todos los detalles - Demócrata
+- **Published:** 2026-11-20T11:44:00Z
+- **Source:** Demócrata — https://news.google.com/rss/articles/CBMiigFBVV95cUxOUmJZbnhRbDRVenNrXzVwcEp3a1NRcjdWOXdDRGF6M1FCbmptVkFJN0dqVWRRS2hzcnB5Z3BNbVdjSUdxM1JEOElHLTRvQ1d6OFVrcFpvMDZJMjJhRVM4ZVVtQVoxcTQ0VG0tU1pTRWc5UGlIekNoSW9OVC1YOWNyVUo3ZXJKOEF4REHSAY8BQVVfeXFMUHROM3R3dllJMmZBRjVTR2xFdTV4cjZkQlVCV0tSTmZxSC02N2VKMmdvM1NJZXFtc1JGM2dZQnZpeENQcUhoOTVtdUljRGFoeG9aMHRHWU9KZ1ptR1lXMVg2VFh0eVRWTDZzYXNhRk9acXFUdXpGdzB5MndrOEExeXVkTHVRR29kV1dPNFJtNU0?oc=5
+
+El Gobierno aprueba el real decreto de centros de datos: todos los detalles Demócrata
+
+### Aprobado un real decreto para los centros de datos: exigencias en ahorro de agua y energía renovable - Canal Extremadura
+
+- **Jurisdictions:** Spain
+- **Topics:** sustainability
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** Aprobado un real decreto para los centros de datos: exigencias en ahorro de agua y energía renovable - Canal Extremadura
+- **Published:** 2026-11-20T11:33:47Z
+- **Source:** Canal Extremadura — https://news.google.com/rss/articles/CBMiygFBVV95cUxOcUR0RjltVDh5d3AtYnVkNnB6alQtZU1vTW52ZnkwQW5nbXhnc0RZckVqLWw1aFUzSjZpc0RxM001cUZ3ZEdZQXdlcXhoYW01eFNZc0xMRUZwdjhDVXhUVE80NXZIcDRyaDBhUUZQNkdya3pnNnJnYzBCbnJCaGRBWDBWT3psM2VLTi1BUGtQNHVoSHdIV2IxV3ZlNVlieGl2endsUG1FUlBnRHVwNHY4d3c1SWxYYUJodUN3WXpHdDU3UmNPU0JNb21n?oc=5
+
+Aprobado un real decreto para los centros de datos: exigencias en ahorro de agua y energía renovable Canal Extremadura
+
+### El Gobierno aprueba el real decreto de centros de datos y la planificación eléctrica 2030 - Antena 3 Noticias
+
+- **Jurisdictions:** Spain
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** El Gobierno aprueba el real decreto de centros de datos y la planificación eléctrica 2030 - Antena 3 Noticias
+- **Published:** 2026-11-20T11:27:05Z
+- **Source:** Antena 3 Noticias — https://news.google.com/rss/articles/CBMi9gFBVV95cUxQME5aejlYLWlOcjY0WmktcWpaakpFVXdBbDNRZ3pyaFdPcGZQRXQxRHI3eXkxMGpMNnJjZ2EwaENYR2dvTkljbDQ4dDVjTjBjbkNvNUkxaFM1YkMyYzUzc09kaENMSHUzNkRKUnVNb3h1VDJfREpEalhjMVpYdlA5MWI2eVNLVXppT3B3QjRRbnJvRi0wVXQ1SHdHWHJuQVdnUFl6NDk4YzVKZFhvVmxWUWxlZU1KVW81Z3ZWYTRRTlhfVjM2RlZRQ1djODJ2LXVWUmg1REFQUXpsNWw3UDdfVXZuOGZybHNyaGJsUXhZdUhNbkpwb1HSAfYBQVVfeXFMUG5GSmxNWTg4Y1BVX044VDFWRjRleVkwWVJDcWxOU0NHanJzY0lsem55dlNSNi1jVURrYjVmOS1LZXh6OXFraTJIZHBpalp2NXRieFd1Rm1TclFUeTluS25VUllMVF8wM042c1h0TWVSQ3VVXzFMVXg4Y2lmSG53WU94QS05akU4cDc3QzdYLVpJUnpYRUxhMG5XMy1EdWZUR3FoLTlDdmZCVWdBbTA1Y2xaUnJHMUdkZmgtVzdYLUxwR25oZERsZWhVVEJfelNZZU1xQ3E0cGdwNEsydldIT3JZcTlsT1I1TW92aktqd1Rfd1NLMnN3?oc=5
+
+El Gobierno aprueba el real decreto de centros de datos y la planificación eléctrica 2030 Antena 3 Noticias
 
 ### Spain's data center decree becomes an election fight that puts billions of investment in doubt - MLQ.ai
 
@@ -2727,6 +3337,18 @@ Spain's data center decree becomes an election fight that puts billions of inves
 - **Source:** El Español — https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdXFMN3o5OHc0Q0NMVDdRU3ZXUXlibU9WM1llcGV2bXFUaHM5NVV2QlRqZWppSEYxNGt4RzVkVTRXcFRDLVFmTmtITzJseFpWaXVKemZqQ3pJdWs4cURvZXhmc3RqVnZyOUxsSU9SU2t1b2JGTXJIaG45RzVfSGI3WDNvMEtWU25ta0hoWWJfbnJrRklqbkpORGMydm5RSmM3QmZ3XzFWVEI1T2xTelFlRjJMU1BQZko4QlpES1N5WG5DenhzTzRvcTVacHhTU1ptUXA4TkhvdzNfZjNZQnfSAeMBQVVfeXFMTnhRTzZDYkVqbmIyeXpPSU9lOTZPemU5MlpCOExFSHZIVWF0UUlVZzhVeW1FZmpvRWE3VDJlUEdjV3pla0tXQjA4OEc1SDQ1Rmx0My11Zm1UdjktTFY4dUN1cFhCNXU2TjNPTm9QbGlFeUNHVWNuQWtFeWdTYzNfS1V2NXVad2tEb3MyR2V3NXhEWG15NDRtZmpibWtqN01Qa0hWVlNiRVVPLXhXSUpYRUkzT0dFUWlYcjhqVXRMRWwzakNlUE5laDlfdHhXZ0NvdHVMS0pCRlpJMkFqV1NOWi1ZU2c?oc=5
 
 La promotora del centro de datos de Botorrita, entre las empresas más expuestas al real decreto del Gobierno El Español
+
+### Conferencia: Aproximación a algunas novedades que pretende incorporar el Proyecto de Real Decreto por el que se regulan los requisitos de sostenibilidad energética, medioambiental y de resiliencia y soberanía digital aplicables a los centros de datos - Ilustre Colegio de la Abogacía de Barcelona (ICAB)
+
+- **Jurisdictions:** Spain
+- **Topics:** security-resilience, sustainability
+- **Document stage:** draft
+- **Language:** es (untranslated)
+- **Original title:** Conferencia: Aproximación a algunas novedades que pretende incorporar el Proyecto de Real Decreto por el que se regulan los requisitos de sostenibilidad energética, medioambiental y de resiliencia y soberanía digital aplicables a los centros de datos - Ilustre Colegio de la Abogacía de Barcelona (ICAB)
+- **Published:** 2026-11-16T12:07:45Z
+- **Source:** Ilustre Colegio de la Abogacía de Barcelona (ICAB) — https://news.google.com/rss/articles/CBMingNBVV95cUxNLUtOSVc3bmMxSlRlWUpWb3VVNFhXTlctVk5sdnE1djdXTFF4eEdvcE5pREVKQ2R3QmZtd3hoYWRQXzhzUDluR3ZBNVFoUURlVVViUEhTS0YwY2QycGRVOTlDY0ZtekRvTkFQU25ZbldBZHY2cml4QTNfMXhENXVseUUxX3Y2bDQ5MTFkMUNPc0VDOUxyUlVtMlNFanhhZlhfbXJybUZvY3JCWHdpdFRSeUZzT25uTkFLOTAxX2NWU204RGdjYjFQeGpiUnZHMWNpYVltdnB3VkFpa2pWNkw0YlhGTnRuOXp4TU04RVJGWXhFNUcyY3hmcjJ5MVFKRnJ2enBsRkduOFV2Ymgza2tnMlMwM2dkYTdtNUJNcTI5U2twM0ppc0ZveFlNeVVhcGlGemYxNGRramNVVVlPaDhNOVIwVnJZUjhKalhFZWtvRTVPTEo5QnpSS25PNHp1WXRJMGZUUXF3WVBfREFyQWh2WWoyRjBTLS1OZXMyRGN3YzZsc3BSVHBQdzBSU2FjQm9Ga1ZyYUVmNGU1d0psTEE?oc=5
+
+Conferencia: Aproximación a algunas novedades que pretende incorporar el Proyecto de Real Decreto por el que se regulan los requisitos de sostenibilidad energética, medioambiental y de resiliencia y soberanía digital aplicables a los centros de datos Ilustre Colegio de la Abogacía de Barcelona (ICAB)
 
 ### Madrid recurrirá el real decreto estatal sobre centros de datos por su impacto en las inversiones - IT User
 
@@ -4885,7 +5507,254 @@ Prime Minister scrambles to get data centre sector back on track after energy an
 Thailand’s Cloud Security Standard Is Now in Force: What Providers and CII Operators Must Review TechRepublic
 
 
-## Unattributed (927 items)
+## Unattributed (958 items)
+
+### Rechenzentren-Moratorium: Sanders will US-Baustopp, Wähler sagen in 40 von 41 Orten Nein - Was heißt das für Nasdaq 100 und KI-Aktien? - AktienCheck.de
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Language:** de (untranslated)
+- **Original title:** Rechenzentren-Moratorium: Sanders will US-Baustopp, Wähler sagen in 40 von 41 Orten Nein - Was heißt das für Nasdaq 100 und KI-Aktien? - AktienCheck.de
+- **Published:** 2026-11-23T12:33:44Z
+- **Source:** AktienCheck.de — https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS1F2REtDeGVRUjJhZUhrVjl3a0U4dXZ3RFNsQWZSZEZxdXlFYzF2VTRfQldydmxFY1FURTFmSDR2MTNTcVpWX204NHFpMUtkeFQtRlpiM0JRdURYRUVnMGhVNmRVb1YydXY4ZEdnR3ZuRU5fcWJDMWFvQWprdi1iZTd3U2J2MHdYWTJFb3ZzODVHbkNfZV9ycTdJY0NyQk5JWElGc1lKSS1sLUU?oc=5
+
+Rechenzentren-Moratorium: Sanders will US-Baustopp, Wähler sagen in 40 von 41 Orten Nein - Was heißt das für Nasdaq 100 und KI-Aktien? AktienCheck.de
+
+### Details shared of AWS' 300MW data center in Kozani, Greece
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** enacted
+- **Published:** 2026-11-23T12:30:37Z
+- **Source:** www.datacenterdynamics.com — https://www.datacenterdynamics.com/en/news/details-shared-of-aws-300mw-data-center-in-kozani-greece/
+
+Environmental Impact Assessment reveals information about planned campus
+
+<details><summary>Full text</summary>
+
+Environmental Impact Assessment reveals information about planned campus
+An environmental impact assessment (EIA) has revealed information about Amazon Web Services' (AWS) planned data center in Kozani, Greece.
+As reported by OT.gr , the data center campus will offer 300MW of power capacity (and 240MW of IT capacity) across four buildings with 20 data halls. It will have the potential to scale up to 1GW of capacity.
+The campus is being developed in partnership with the Public Power Corporation (PPC), and will be located at the former Agios Dimitrios coal-fired power plant in Kozano.
+The campus itself will occupy around 45 hectares, with the four buildings totaling 77,360 sqm (832,695 sq ft).
+Each building will be identical, reaching 36 meters (118 feet) in height, and will have aluminum composite panel facades, with landscaping around the perimeter.
+AWS and PPC intend to make use of some of the infrastructure left behind by the former coal power station, including connecting to the existing 400 kV substations at Agios Dimitrios via two new underground cable lines. The campus will make use of transmission capacity that was once needed by the 1.55GW coal plant.
+According to the EIA, between 60 and 90 percent of the cooling load will use water, depending on the ambient climate in the area. The rest will rely on air cooling. Annual water consumption is estimated at approximately 203,000 cubic meters.
+PPC is expected to receive the terms for connecting to the national electricity system soon, and the 300MW agreement is expected to be finalized by the first quarter of 2027. Following this, equipment will be ordered, and construction is hoped to begin in the summer of 2027, finishing by the end of 2028.
+PPC is investing €1 billion ($1.1bn) in the project, with AWS to contribute a similar amount for the IT infrastructure. AWS has the option to expand the campus to 1GW and has exclusivity for this capacity until May 2027.
+Kozani is a city in northern Greece in the western part of Macedonia. The Agios Dimitrios Power Station, owned by PPC, was the largest of Greece's power plants, but was shut down earlier this year.
+AWS does not have an existing cloud region in Greece, but launched a Local Zone in Athens in July 2026. The company signed four Power Purchase Agreements in the country in November 2024, covering the 44.4MW Vermio wind farms, 35.4MW Mesokorfi, and 29.5MW Koukouras wind farms.
+
+</details>
+
+### Shelby commissioners to consider data center regulations - WREG.com
+
+- **Jurisdictions:** unattributed
+- **Topics:** general
+- **Document stage:** news
+- **Published:** 2026-11-23T11:23:19Z
+- **Source:** WREG.com — https://news.google.com/rss/articles/CBMijgFBVV95cUxNOTNROUxreERaS0lrYnhqOHRXYm5RRGRfR0hDRFRnVElKU0ZLR2MyMEJiYnNmOXYyQ0dYYm42czFtcVFVRGI0UXZNMlhtdWNiaHZRcTM0bUxUeE5MVnZ1YU40bWxFbGQyLUlwTVM0ZEtQTUREQ1VIeFBPNnJ6QWljQnlPaDZuUHRkR2lQRVR30gGTAUFVX3lxTE4xRXBUTkJLMHVDVDM3T3BoZWdiRm5XbEFiYzdBZXc5QkRCQnM4NmZob1BraWlvbTBjQmQ1UDd3MlNrTTdORUxERU1vNkJFTURnaEo2MTZTNW8zdEFKQk1CSWpTdTBReTl0bl9KcVlhdThFX2tFSFFKTjdyUk9CUjBsbnhreGN6QkoxZ2d4T09LRERLSQ?oc=5
+
+Shelby commissioners to consider data center regulations WREG.com
+
+### El Gobierno fija nuevos requisitos de consumo de agua y energía renovable para los centros de datos - RETEMA
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Language:** es (untranslated)
+- **Original title:** El Gobierno fija nuevos requisitos de consumo de agua y energía renovable para los centros de datos - RETEMA
+- **Published:** 2026-11-23T11:05:32Z
+- **Source:** RETEMA — https://news.google.com/rss/articles/CBMitgFBVV95cUxONmdoS29lVUJNNGdtWlRzTFRxbmV5UTR6QXBvUjR1Z29HRmJVSDk5U3FHN2VFb0dqckQ4a1ZaVTFGdjVUNVFwM1ZZbDhOZEg5d0VqaGZmR3dhY2prdF8tdTU3d0JjV1NmblJ6cUtCNnBjV1N1Qy1lNXJuSVh3ZE1lVm01eEdGVF9KazVIT01qdXFiNE51bEVZdzB5UHdkLS0wRkpxODN5X3JZN01xXzI4S0Y1dnN2Zw?oc=5
+
+El Gobierno fija nuevos requisitos de consumo de agua y energía renovable para los centros de datos RETEMA
+
+### El Gobierno aprueba el decreto que fija nuevas exigencias de sostenibilidad para los centros de datos - Brains Real Estate News
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** El Gobierno aprueba el decreto que fija nuevas exigencias de sostenibilidad para los centros de datos - Brains Real Estate News
+- **Published:** 2026-11-23T09:22:57Z
+- **Source:** Brains Real Estate News — https://news.google.com/rss/articles/CBMifEFVX3lxTE9jWDBVQ25ibGZpMHpmeFFQMWRHcGNmQ2xLMy1uWFYtajNneTNNY2t2bjVvV3BaSDVFQkhOWURjNDBISzJ2eFZTcTlxZjNXOU9QXzZqWEs4RFI3WWFDTmRrZmdERWNWanZEeDBseWU3NU9xMEctZDRQbGVzRDI?oc=5
+
+El Gobierno aprueba el decreto que fija nuevas exigencias de sostenibilidad para los centros de datos Brains Real Estate News
+
+### Broken Arrow extends data center moratorium - Broken Arrow Sentinel
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-11-23T05:07:44Z
+- **Source:** Broken Arrow Sentinel — https://news.google.com/rss/articles/CBMidkFVX3lxTFBhQ0xOQjRFT25xZTlHdlg0Z1NteVYxMTJkS2k1Njg0SC1xQmNpZ2YwcFdwOFlkT2FIcmVsdXAyNmNpNjk3MzRpV0s0ZENzbE5Ed09zMEV6RlNNVV96VFdTSzExMV9MX29aZlgtVWZLeF84S2NLOUE?oc=5
+
+Broken Arrow extends data center moratorium Broken Arrow Sentinel
+
+### As data center moratoriums expire, some Metro Detroit cities hit pause again - The Detroit News
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-11-23T05:02:00Z
+- **Source:** The Detroit News — https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUzJnQ3ZYMkVab001cU1Hc2h2Y3VNMnFnVTQ3NFNGMXI1ZDcyYmNrbzhQdVR2M0tBSGluX2VGUUhqTFdQOXBqTmhmUF9DeTZNNXpORFoxX21RWnVyZnJjVnJNTWRZaG5mV2o4d1Fzc0pGR2Vqa0pwVUgtQjZIUmpOMWFORnlnMVFRSXhkWUNuWG9xVGNyaVctSDExWXZlUjZjZW95Y0dHM2N3R0U1MjRINHo1ZzU2NW84bndjT2s3SFNYdmZ6YzhKNHdMMUdweElCVmFrYVhPeUtXSUk?oc=5
+
+As data center moratoriums expire, some Metro Detroit cities hit pause again The Detroit News
+
+### Alton City Council data center moratorium faces legal hurdle - Alton Telegraph
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Language:** la (untranslated)
+- **Original title:** Alton City Council data center moratorium faces legal hurdle - Alton Telegraph
+- **Published:** 2026-11-22T22:20:14Z
+- **Source:** Alton Telegraph — https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNlVfZVlaRnBQYS1tVmFlODZOajBhOUZVdlN4R0ZIaUY4ZWI5OHlKcFpheFV3Unh3ZTJSWEZIa01VVXYxQXEtblJIY0ZxLXY2TXM0ZHpRc2dERThmdDNyNzBDNm9aWmxDVy1ZTTh4VUFfVENSV0pOMmVldUFnSzVCb1REUmxraDZlYll1R0I1SmdWOXZKRW9GRDhUd3BHUndYSmFpLTAtalM?oc=5
+
+Alton City Council data center moratorium faces legal hurdle Alton Telegraph
+
+### Draft bills take aim at water, electricity and impact funds for data centers - Wyoming Public Media
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** draft
+- **Published:** 2026-11-22T02:32:00Z
+- **Source:** Wyoming Public Media — https://news.google.com/rss/articles/CBMizgFBVV95cUxPdkl0Q19ralozRW5pX21iVFp2a3psc2dUTXN0UDNEcVV2TzBpVkN0aG1FcElsS3JId093TU1oQWN3aUFnRlhYUlVLckt5SThacUNjWVBJbE43akVvR0pIbm56eFRRRE4xZXdUYk11VXZBUWp0cWpFZmE1eDBWNXUyQm9ZczhHSTZ4c3lEbnR0ZWtKQnBXZm0wNUFETWk5SmNMcTkyS090OUItQnlscFFKNzVUMjlkb0VaQ2xsbDJ4dDhER2tPZWR6Y09sallLUQ?oc=5
+
+Draft bills take aim at water, electricity and impact funds for data centers Wyoming Public Media
+
+### Christian Lipperheide alerta de que la nueva regulación puede frenar inversiones en centros de datos - Canal Extremadura
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Language:** es (untranslated)
+- **Original title:** Christian Lipperheide alerta de que la nueva regulación puede frenar inversiones en centros de datos - Canal Extremadura
+- **Published:** 2026-11-21T08:00:46Z
+- **Source:** Canal Extremadura — https://news.google.com/rss/articles/CBMivAFBVV95cUxPenlLZUt3RDFTbzRlSk5PWXRSUV96SXNncG9maXVkM3ltNUhMRWdwRHM1aGNKbW5vMGN2UHFKdU9yT0lBamphRENwSllwRW9sanFmMExJV0d2ZVVGS3pTNGhvZlpEeEtDemVOVDBkUUFjT04zV2JoaUVoY1NoUlR1LTBFdzFqNGNVWV9wNFoxTWJEdXNzNE1GSTc5YXdtSWx3YzlGa0UxRGRvLTI0RXNnMGQ2cU0ya29URmU3LQ?oc=5
+
+Christian Lipperheide alerta de que la nueva regulación puede frenar inversiones en centros de datos Canal Extremadura
+
+### Residents address proposed data center ordinance in Fayette County - Herald-Standard
+
+- **Jurisdictions:** unattributed
+- **Topics:** general
+- **Document stage:** guidance
+- **Published:** 2026-11-21T03:27:48Z
+- **Source:** Herald-Standard — https://news.google.com/rss/articles/CBMixAFBVV95cUxQaURua3hUdU5pZHpqTkRvdHM2UmVpR3R4b01VU2JidDZtbDZ0THZTSUtCVFZfS2ktYlFTTU9YeUFnYW94Q2hyUG14WXhBaFdOWm5nWld1SUsxUUMxYklVMzQzeGh6RVVwNWNoNVJnamtadV9uLTBOeGZySUJVYmVHVnphRkxjN2JGeWN5RU9yRUw3YzJpUV90MlNOeFUwRUl0V1MyazBRdXl1dkdsSnFfTExuOU1TQ3JRVzE1SXZlV1ZXZFRX?oc=5
+
+Residents address proposed data center ordinance in Fayette County Herald-Standard
+
+### El Gobierno aprueba el decreto ley de los centros de datos y la patronal lo recurrirá - Infobae
+
+- **Jurisdictions:** unattributed
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** El Gobierno aprueba el decreto ley de los centros de datos y la patronal lo recurrirá - Infobae
+- **Published:** 2026-11-20T16:48:00Z
+- **Source:** Infobae — https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdnZxM2FZbGZ5c3dLR3FLUmF2SEVtR1dPWkJyX1Q5VmI0dDk2bThyY25sOUdndGNxS1F5TjhZU3Q5UUZhSlhMazd5eGhGN0EyUUVwYnp3aG9iNnJYbHRuT2J5eGhjdGc4OEVXd1pSVUkzeTE2czVfYUsxRE9zamx3V0plNjJXX1RvRGI4UWJoM2lJczMySkFlcnpaVXFKWEpOekdWYzlHNWlHdzV4SEVCdThkQzJubnpsLWhtbFkxdDE1ZjJuVjVVM19TeFhhTE5FT2Zz0gHuAUFVX3lxTE1wLWhNLTZVVm9DQ1QyX2E3Q3p5eEkzRTV4bkRDZ3cxWXRsbUxNOGI0bHR3UzNsSDcycU9pQ1FaTXVuYndmMVEtZGRxS1JZVzFJUXJlQ212QzFTVWZYTV9kSHVRcmlDdVFUSXVGd0dFNHVuQXNzNFNtNnpPc3A5RVZ6NUZYRC1ORGdEV2RqNjdVLTVuTXEyQWFSWmFCbUFsSXZycks1MEpYU1pxcjQ2eVJ1cXV4MlROdEZhRmNSVHRVLU9MTmxybTBPdWgxc3VhVUFqUmpaYkJSYnBEV042dlpFLXFjWXRmTFh0d0tmYUE?oc=5
+
+El Gobierno aprueba el decreto ley de los centros de datos y la patronal lo recurrirá Infobae
+
+### 550+ FedRAMP cloud services must rethink how they rank flaws - MarketScale
+
+- **Jurisdictions:** unattributed
+- **Topics:** general
+- **Document stage:** news
+- **Published:** 2026-11-20T16:19:00Z
+- **Source:** MarketScale — https://news.google.com/rss/articles/CBMi1wFBVV95cUxObWpMWFVnMGNsclpLc0kzVFFHOWozbnc2dXdyd1dFYXZGRVZxc1dWVjdkM1lvX1doMUpTT2Y4UkVVN3kyb0hwNmV4V1l0VDUwZ3gzcFhBMVNzZS1QT042R3RkQXhGTXpLalJPQ2xBWWtjdmo2akVTVjZwajFVdUVTdllxVmc0WUFFUGNQNTR1TEduS1pIRTF2bFp5RlZlLVByQVVnZ0dybUpwaUh5NUhoaFBHVjQ4bnd6elc0WFJFSDRXUWNvbGR3TkFfcDlxVkhSWlRBYmJqdw?oc=5
+
+550+ FedRAMP cloud services must rethink how they rank flaws MarketScale
+
+### El PP derogará el decreto de centros de datos si llega al Gobierno y plantea otra regulación - Data Center Dynamics
+
+- **Jurisdictions:** unattributed
+- **Topics:** general
+- **Document stage:** news
+- **Language:** es (untranslated)
+- **Original title:** El PP derogará el decreto de centros de datos si llega al Gobierno y plantea otra regulación - Data Center Dynamics
+- **Published:** 2026-11-20T16:02:22Z
+- **Source:** Data Center Dynamics — https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSEIwNG9hel9SNXB2TXhYX1RLOTBhX3pPWVBzNlMyTF9rcnNKUS0tR053X3ZRLVBiTGhMV29seTJBbUoyamxoX2ZTalVvZTNhczJ3b2xVTEtrTGFjeF83Q3RMamlzMkF0dkV6WWpwdnQ1ZlB6M09RcDlmRDQzS2ZvUUF4RDBqeERhY0xzd0xRazc3bDN3Wm5jZU92UmhQdFpINFJKTjQzN09TUExkTnVrM1NyekVoRlVyWV9hWW11Tjlkc1cwOW5QU0FJVHpiZlI1Um8wZTk1dDc2YUlNelZ2WWVoSUI?oc=5
+
+El PP derogará el decreto de centros de datos si llega al Gobierno y plantea otra regulación Data Center Dynamics
+
+### Les multinationales avec l’Espagne demande de revoir l’impact du décret sur les centres de données et davantage de dialogue avec le Gouvernement - Demócrata
+
+- **Jurisdictions:** unattributed
+- **Topics:** general
+- **Document stage:** news
+- **Language:** fr (untranslated)
+- **Original title:** Les multinationales avec l’Espagne demande de revoir l’impact du décret sur les centres de données et davantage de dialogue avec le Gouvernement - Demócrata
+- **Published:** 2026-11-20T15:04:33Z
+- **Source:** Demócrata — https://news.google.com/rss/articles/CBMijwJBVV95cUxQYzR2QVJJSHhTYU9NRHZmZDZDUzByc1hTbVRhWmFuS2FmRUp5VnZ2d244aU8wTTNfc2NhbWpOVnlPRzNGQ0p0OWdtRlZyaGtPRGtVZEhtZFlaODhGejhYTnN2dWJoQmxmSVNUeDJNeVVYbzk5YllBa3YzRElQU0RNMjhZeVZkOV9tRFM3MVM1MnVFd0pScndkX2R1MklxeGVDNEIzUk5sU0FzU0x5Wjd3SFBGRGlyelNMcE1hdWx6eFcwTHBXV0hsekhCMXF0bHliekV2aDd5S0oxN3JvbHlmZTNYMUl0YVVPbWJ1Ulp2LURHOXhMbTZEVURGdGNTOVlJYVRVQzEwMUczbU1fTndr0gGUAkFVX3lxTE9kY1RabGVhV0RnQ1NHVWI0Wm4weUJJWEdHeG4tY0JEOXRwWGQtOU15Y2VGUkpqNENNTkJEZmtvMXJhT1YwdWxYTDhDWjJmOHN2eHRwMVdoa0hTMi1hS3oxeE5udm50S24zdFNnT3QxbUxvRm40Rm5MZ1JZYWxyQ2tqZVE1b3VoZ1Q0UjhYdllYZjU1QzdILUEzandFdVVTLVRQczN6SjdGbTgtOHdXN3RMUHBMUkhCdXEzVkJRU0p3Qi1kUl9xQ3NqdHVsODBVUGxSYWhGUU9KdWYyOXZNdHZHR3cxS3ZBLWpDbGg2RmtfVkJURFRLdFpuanZuRWxWa0JaWTJ4TlpYUHRQV2JwMXRhQkhIRw?oc=5
+
+Les multinationales avec l’Espagne demande de revoir l’impact du décret sur les centres de données et davantage de dialogue avec le Gouvernement Demócrata
+
+### Implementation of New Regulatory Regime for Data Centers - The National Law Review
+
+- **Jurisdictions:** unattributed
+- **Topics:** general
+- **Document stage:** news
+- **Published:** 2026-11-20T14:39:46Z
+- **Source:** The National Law Review — https://news.google.com/rss/articles/CBMiigFBVV95cUxNb2dOS0h1TzBrRTlyd3lZc2YyT1NvZjJmY1RIaWVseGNPLVVObll0SlUtU3VzSElDNE80U3E4Uk5nYnB0SXU2UWwtVXhYaVhDWE5HNGloQ285TkFnbFB6T09kS2laMzBhN213Zzd1MEwwVExkZUxCQ0lhZlgzeHJ6SkRCYlRQdTc2T3fSAY8BQVVfeXFMTWtVdDZMSER6T0poa0FmdkFVTzNmdWE3US1sREJXcUl5UTdoVEhYN1RUVVREN3QtUTdUSEsxWkpHMWhESi1kMlZyYzcwZVNQYlh1T1RxR2JkcE1EQ1FPV3Q3RHEwX0hPYWVkbnJFMk90Z0prOGFHalVFVERJRG5GcjdnTDJaNko3dDVGQUplMUk?oc=5
+
+Implementation of New Regulatory Regime for Data Centers The National Law Review
+
+### Así son los requisitos que deben cumplir los centros de datos según el nuevo decreto - El Periódico de la Energía
+
+- **Jurisdictions:** unattributed
+- **Topics:** general
+- **Document stage:** news
+- **Language:** es (untranslated)
+- **Original title:** Así son los requisitos que deben cumplir los centros de datos según el nuevo decreto - El Periódico de la Energía
+- **Published:** 2026-11-20T14:08:42Z
+- **Source:** El Periódico de la Energía — https://news.google.com/rss/articles/CBMivAFBVV95cUxNZXoyZ1VaMWJ0RG1aOGJvaUhMUS1lNFd4dXd2MlFGMml2cGFUQzlhN2s4NktYMHFkVzV6b3VEeW11cXY0NXJqdDBZTllCUVZfdDVWQTg5bzc4RzdJN2FhRUU0Rk1nYUJncUNZYnV3UkplLTBIVEoyQkRIY0V2aDRpVDlhU2lOU2MzR19QcXFLYXhUYW9OQWN6MHFMVC13RXJDNDVGcEV0cXJHVWNvVzBNYURuSWltNTJxaER6VA?oc=5
+
+Así son los requisitos que deben cumplir los centros de datos según el nuevo decreto El Periódico de la Energía
+
+### El Gobierno aprueba la regulación de los centros de datos que exige estándares de sostenibilidad - Bolsamania
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** El Gobierno aprueba la regulación de los centros de datos que exige estándares de sostenibilidad - Bolsamania
+- **Published:** 2026-11-20T12:45:10Z
+- **Source:** Bolsamania — https://news.google.com/rss/articles/CBMizgFBVV95cUxNdmQ3Nk52UXc4NTNUVXJFR1lDMFlxblRHVkVuUmZVWm40a3o5RjZ3MGkyWHQ1bkRaaDJsNjlaRFlUSU1zMGRlTFlESUFlV2hDOW9HdmJxX0xBZnZNamxzeC1Na3VzcENRMWxsQkJ6eV9kOVZ5REF3bDZSdUZsWUdxUExTaU9sSEU4aFFhc3UydEFXQkp4aFYzdlRQOE93ZV9ZRHFma3ZGSEFEOXVRbWxrbjNxNk02am5CVFpFaFBIVHRfMFhOU0pGX1BqVGZGQdIB0wFBVV95cUxQTVZFc0RwbjE5X1ZRTmVPWHZHX3JrOUJjNVJzWEZFX3M2b0Ezc1FPSjNVZ18tc2o4RjByeHhjdERHMUx1VVJIcjNCZDhsQ3JkODEzdEdKMGVqMnU1R0JxNHJneGRlY01ZU2VDdVpsa09ybXVoRV91OThmWVVYcHFVS2d5UkVtNld6ZmJrRWtncGZzQlBXaXdPQ1cxcFRFWnpvRmt3M3dIZXRRZkVTaVVWVF8zcENoM0tsaUkwZXoybWQwU2pxcVFnSlRmV00zWUFpSTk4?oc=5
+
+El Gobierno aprueba la regulación de los centros de datos que exige estándares de sostenibilidad Bolsamania
+
+### The Government approves the royal decree on data centers: all the details - Demócrata
+
+- **Jurisdictions:** unattributed
+- **Topics:** general
+- **Document stage:** news
+- **Published:** 2026-11-20T11:44:00Z
+- **Source:** Demócrata — https://news.google.com/rss/articles/CBMirwFBVV95cUxNRWc0ZjhqUjVQMDkwTVhSUkJYWEFmR3NRUS1LeWhQLV9OTmE3V1ZxaEJycFAxcGJ5UG1LQXRDeTZkRy1hRG1XR1Bvcjd3dy00dFU0YWJ6UWxrbmhkVDlzdXZ0R0ZNTXdab1pnekdDcDlsMGtWcTc1bU9uNVFrUG12Q3dWMEZtdDh1V1ZwMmZoS1hVNkg2bjdyb3U4TXA3YlRGaFlJbjNnVEtBWGZSbHAw0gG0AUFVX3lxTFBoT0JXS2w2clFTT2NQclY3cFl4YjhhR1BuVEo0OUR6RzlyX0UzWExFY0pIZEJydmxJcXJEdWNzaTlIaHpwa3lHN1prMENZSzJQbmZWYmh4UUNLSnRrY1hjeTRWOHE5Yi1ZNnJISWJaV1JYb054Z1hFdEY5NHAycjVTQWdHNnljbU5xUzdCWlA5UVhvVy0tLXJtSTM2OXVhWW9DaUpQc3BCY1lHSDFKQWFKOTRUNw?oc=5
+
+The Government approves the royal decree on data centers: all the details Demócrata
+
+### Washington County Quorum Court approves 12-month moratorium on data centers - Northwest Arkansas Democrat-Gazette
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-11-20T03:00:00Z
+- **Source:** Northwest Arkansas Democrat-Gazette — https://news.google.com/rss/articles/CBMilwFBVV95cUxPWVMxTXdoRUZScHZlSENHUTB4YWlwU3FCZF96dWRfNVltQVlkMVp0SlNHd3YyRWV1R0xmRGhoMGdqa1kxV0JOaEZVV20wTTBvYkQ5bERqcndfeFNwNWlZQVZxMFJxUFpjc2prWkNWU0d6TlRlUXk5bzhsMmdZWW4xV1dMY3hkeDUwNGtUcVJ2UXkwZEoxVmVZ?oc=5
+
+Washington County Quorum Court approves 12-month moratorium on data centers Northwest Arkansas Democrat-Gazette
+
+### Moné Holder, Jimmy Peluso move for Jacksonville data center moratorium - Florida Politics
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-11-19T15:45:24Z
+- **Source:** Florida Politics — https://news.google.com/rss/articles/CBMitAFBVV95cUxOR1BkNjNuU0ZWT3JTUlJrUU1JallKYTBpTTY0bzVoendmeW92ZW80bnpiZzl3Q0hKeUdIYkwyN3VPUDdCNVNHejBOeWtkYzA2S29jbmhiRFBEdmRXY3RyR1J2cTJKbEltdGFUMUhoUWhscnh5RC05dGdHZTJUWWt3SF9EbjZfZGxSMzZ1OTk1Y0Rrd05RSGJCc09VUkN1S1RwNlM4cW9QNlVOYVJUekpKQWZUV0U?oc=5
+
+Moné Holder, Jimmy Peluso move for Jacksonville data center moratorium Florida Politics
 
 ### Democrats Plan Grid Rule Overhaul; Data Centers Could Pay $35 Billion More in Power Bills Over a Decade - BigGo Finance
 
@@ -4976,6 +5845,18 @@ Tulsa’s data center moratorium expected to be extended Tulsa World
 - **Source:** Aurora Sentinel — https://news.google.com/rss/articles/CBMivAFBVV95cUxQMDlvNHNkcF94ZnJ0bTF6N0JwbXc5eVlVaXp6eEFlZnd5YXJHTTVqTWZXcXFnQ05pZEVGR0hFUlJ1elZ0cnpBLVlydUJMMXZPcFVuSDVoV1dibzRUQWloUmVGLWM2aDNZUnlzb2gtaVZHUjlUZ3JBdEVYcmNDN0NhbTdmVmY2OGRaeF9FUV9jRW82ZHZQSDVTUlRtdjlBalRldnh6aDJTTnhUNkJMU2hLWkZKdzlwTUdCV0wzRg?oc=5
 
 Another proposed Aurora data center moratorium and Trident relocation rule face vote Aurora Sentinel
+
+### Moreno Valley Council Adopts Initial 45-Day Data Center Moratorium - The Riverside Record
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Language:** la (untranslated)
+- **Original title:** Moreno Valley Council Adopts Initial 45-Day Data Center Moratorium - The Riverside Record
+- **Published:** 2026-11-18T20:54:46Z
+- **Source:** The Riverside Record — https://news.google.com/rss/articles/CBMic0FVX3lxTE1fZHlfTW1uUEZIekFoY2paVVVFbURWdTFudXVvNG9qa2JzNnVndXEzWk5MRW9sXzFQS01FTnNnaTR5dmlfbGVwZ3hVQ1lNQWhvWWg5bXNkemo2MUZCSjdNZW82bWZlTDBxVHhWVGRfR2U4VkE?oc=5
+
+Moreno Valley Council Adopts Initial 45-Day Data Center Moratorium The Riverside Record
 
 ### Town Council Rejects Data Center Moratorium, Ban Still Under Consideration - Amherst Indy
 
@@ -5159,6 +6040,16 @@ Bloomington mayor says data center moratorium cannot be idle time WGLT
 
 Commissioners readopt UDO in face of calls for data center moratorium The Rant | Sanford, N.C.
 
+### Turek targets data center regulations in first 100 days, outlines policy proposals - KGAN
+
+- **Jurisdictions:** unattributed
+- **Topics:** general
+- **Document stage:** draft
+- **Published:** 2026-11-17T22:13:30Z
+- **Source:** KGAN — https://news.google.com/rss/articles/CBMiswFBVV95cUxOUGoyLWwycHRSb0wxWFB0MzdTUHJDYUdWOTlxTm1ORDh4WXhwUElhVUJFR095dmRPYjIyN002dzctT1NiVkdjUGxxZ1J6S0dhbTVOTUZmRlJ6NTNRVzFMU2h5a3A3TWtoSmJ3SFM0TDU1RmltTjlsY1BDaFNYVkRCMk5DNU1EMVk1WC1sNDZ3VTk1ZU9tbEhwbWs2dGVBZ3I0MmJPWHpsZHZJemd0SDlud0xpWQ?oc=5
+
+Turek targets data center regulations in first 100 days, outlines policy proposals KGAN
+
 ### Data Center Construction in Pennsylvania: A Changing Regulatory Landscape - Engineering News-Record
 
 - **Jurisdictions:** unattributed
@@ -5208,6 +6099,16 @@ Eau Claire County Planning and Development committee advances 12-month data cent
 - **Source:** WEAU — https://news.google.com/rss/articles/CBMiowFBVV95cUxNUVlibEdmN04yNmxoLWswWE05cXpFRm9WWld0MnR5Uk5FWDFRcUFzYzVKcTl2YUFfdGpZVmF3TGxsWEpXNmZjY2V4R0ZTcnRYVTEtY3BSdFdtM2J2dmZCUzVnRWNWYWJjX2N3WUJLWVhSd3hxd0pmcGhsREJoYVdHMnZmZlhvb20xVFVqbDVUTTRwTEFOZXlxMGJ4ZkxWampZckhR?oc=5
 
 Eau Claire County Planning committee to consider data center moratorium WEAU
+
+### Grid Reliability Regulator Eyes New Standards for Data Centers - Morgan Lewis
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** guidance
+- **Published:** 2026-11-17T19:56:58Z
+- **Source:** Morgan Lewis — https://news.google.com/rss/articles/CBMivAFBVV95cUxNdzRkSVRUbFkxLTF1MnZrQjAzd2M1WXFESWYzREhhMElST0M4Mm9aejdQWkNwajJZZG1fTlBRZXE1MFNIT0V4bkJKWXBBeDJLSGRfQktGcXhPUDdGN2t6d0JnSXdLSEF5Z2JJWmNIMU1hVXV3MF9lSm9FSl93UUJHdEVQZThtOV9EU1VwQVNPUUVyQ1BKYjZCUDAtTFFTMFlDX2VucVRHdlFRM3FLc0VnWG9EeUpNcUdSR0NqVQ?oc=5
+
+Grid Reliability Regulator Eyes New Standards for Data Centers Morgan Lewis
 
 ### Bloomington Planning Commission recommends extending data center moratorium by a year - NPR Illinois
 
@@ -5455,6 +6356,26 @@ Headlines: Oklahoma aerospace industry, data center moratorium & Thunder back-to
 
 Hillsborough County commissioners delay vote on AI data center moratorium WMNF
 
+### Hawley backs data center moratorium as Washington weighs new restrictions - WTVC
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-11-12T08:00:00Z
+- **Source:** WTVC — https://news.google.com/rss/articles/CBMijwJBVV95cUxPUmtYTHVld2ZBNWxqM3BoSGdOTl80aEM0by1VT1JnYUppbXozZnM1SEJBSHg4ZlBsVVhzTklDTWJkUS1wWUVySUdpWXRDU1U2bXJtUWRNaW9pUklJU0swVHRrMExRN0lMMXlDdTk5Q3BqNXVTbjBXdjRtTFNpLWxObldUMEd3dk14NDNDd29GUERHZWdmWjlTbWc5WEpwRF92aDlWcmc0N2dvYUd6V2NFb2RKNm1Pcm01MVRucTFLMUhHcXhKSmstbEpEb2hmemJnVy1pZzRMdl9UNURFb2tmRm1KdnltT08tQ2paam8yNXRSMnBkb01UWjhrbjM1aEk5cE16R3A2SnU5dmVfQzUw?oc=5
+
+Hawley backs data center moratorium as Washington weighs new restrictions WTVC
+
+### Hawley backs data center moratorium as Washington weighs new restrictions - 13WHAM-TV
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-11-12T08:00:00Z
+- **Source:** 13WHAM-TV — https://news.google.com/rss/articles/CBMihwJBVV95cUxOTG9YS1FFN2JVNUJqckdHT0E5a1hrSmMxTUt0dHNIa0dpMGxhVDFhNW5VUDRaMUVOcmFhTnBTR2h4Vlp2bWMzQ3BnbTdILXFUMHZ3SjJuTEU2S2ZmYjMyb05GQ3NkRTdYa2VRUV9YWWFfazJxMXJ0X05UMXh3Y3pkaUh4R0ZlUk5MemVKZS0zcUxMczFUSHNBeHJTd2VvQTI2Nkh0T0J5MHVoZzZteERRdlpqemN2TzNnNWZFbXBZaEVUOVQ3OTA3YW1rZy1BemtoQ1ZRSHQ2V1NxRVVxYmlBdi1yVEJMZ0hPY2RhVVNoZFc4cGpsTVpJQTVuakVRWHZEODZMdGhnVQ?oc=5
+
+Hawley backs data center moratorium as Washington weighs new restrictions 13WHAM-TV
+
 ### October city council recap: Biennial budget, housing follow-up, data center moratorium - The Rocky Mountain Collegian
 
 - **Jurisdictions:** unattributed
@@ -5527,6 +6448,16 @@ Data center moratorium approved in Hagar Township Moody on the Market
 
 Potawatomi data center in Milwaukee plans to request expansion despite moratorium WISN
 
+### Hagar Township Trustees approve data center moratorium - News/Talk/Sports 94.9 WSJM
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-11-11T23:01:49Z
+- **Source:** News/Talk/Sports 94.9 WSJM — https://news.google.com/rss/articles/CBMikAFBVV95cUxPWlJtVDloYjFlMUpGZ2RtbENZZmwxVWlUYWZUdDZ3UVBJWGVORTVscGxFREdPbUxrZnhiU2RtWTY1cG5WaE15UHc0U3lQRWpneC1QTm1SazZzTlZEN3Q5MVZnenRoQ0h3VmNWclZTb1hXeEduQnc0ZldGSEtuWjl4NGlxUmQ0QmVna2pvVnc0dFk?oc=5
+
+Hagar Township Trustees approve data center moratorium News/Talk/Sports 94.9 WSJM
+
 ### Fairfield enacts temporary moratorium on data centers - The Vallejo Sun
 
 - **Jurisdictions:** unattributed
@@ -5556,6 +6487,16 @@ SF to Consider Extending Data Center Moratorium as Oakland Approves 10-Month Ext
 - **Source:** Digital Watch Observatory — https://news.google.com/rss/articles/CBMiekFVX3lxTE1YZU5nNGRKOXlTU29TOXpGeDV0di1MSnQzbXcwb044dmJUZzd2MkV3RmxEREc2UnpzN3licXhZckJOdmppTjNWMzBFLVVhbWlvc1ZhYlVoVXFJNXdSZlFTMWk2QnE2XzlGRnZQV20yWDZxU1hwa0Q0RFFR?oc=5
 
 US Oklahoma city council extends large data centre moratorium Digital Watch Observatory
+
+### New Jersey advances bill banning data center NDAs - ET Datacenters
+
+- **Jurisdictions:** unattributed
+- **Topics:** general
+- **Document stage:** news
+- **Published:** 2026-11-11T17:15:00Z
+- **Source:** ET Datacenters — https://news.google.com/rss/articles/CBMiywFBVV95cUxQek9IUUZTV2dtelJUSV9zQWk1dlVFWkZtajAtczQyWVd3M0p4V0Nsbm1LNURFUG0wdEhYcEROZWRnX1hLbmN4Vmp4dkR5NUI5aURHLVM3ZUNScFAtRjJBdVRwN091RHYzajkyNW04TlV6d1ExLTZfc21lWGlEMUt1U01yTXRrNy1QMjJneFBMN2h5ODJ3cUJiMElLcTBqdm51YTVwTlNDVGdaZkpEVEJadHhzV0Zhb28wcFNzcHlVVlBrTXJkMVUwX2lNONIBzwFBVV95cUxQMC1rMC1zS2xzSVZuNTNtWlNOT0hYOHYyQ1huXzVKWUJ1MnhCc2s4YnFZUHViZGtMYndRREE0bUI0ZGppR1BvU01WZl9RcGw4LWdBT3ZNVlQ1d08waEhwUEUtWExFUmc5Z3dQenhId3NrcTN5bl9LS3R0WDhaZm5aNzJkalRDQ0gwamUyRC12RVY5b2NzSnA5QmVjUHJONkc3bndmZWhNNElmdEE1VlJRTjBIcWhoMVlPYW40LXRNaE04cjd0czNnX080aTJTZVk?oc=5
+
+New Jersey advances bill banning data center NDAs ET Datacenters
 
 ### Hochul expands AI oversight, but data center moratorium gaps remain a Finger Lakes concern - Fingerlakes1.com
 
@@ -5908,6 +6849,16 @@ Want more Data Center Knowledge stories in your Google search results?
 - **Source:** WGRV.com — https://news.google.com/rss/articles/CBMinAFBVV95cUxQSjVvRGxiVzRsRktJUmtPQ2I5N2dpa3djUy1ZMmZydnh4YjF5enpUQnB2M0VXMUoxSUNlU1QzaHVBdi15SXptSVJpZm9tUFJ5X1pFS2I1WGpuU1E2ZzRmRm9pbjJibkFmVWdxWHc5UFpZY0xpNElBTHBjZlFQSkNVSkZXNTFhOE5mWTFHWW5fbFZWMVV4cVVCWkpyMlU?oc=5
 
 Greeneville Municipal Planning To Consider Recommending Data Center Moratorium WGRV.com
+
+### McHenry County Board to take up data center moratorium - Shaw Local
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Published:** 2026-11-09T08:00:00Z
+- **Source:** Shaw Local — https://news.google.com/rss/articles/CBMirgFBVV95cUxNekdUTUxsRjVpcU5wUFc4YS04cWgxQW95dkpscU1GVFZremM2eExwYTJlSFBrOFJMVFFRRGc0Yl9yenlRNjI0TjY3bTZFS0txcXJHUkVPN21FVnpGR3h6NlYwRno4dFNxMWdkU3NxN0pXbUltaEdDdWxQanNMTU1BVFpSMXV3MDlOZ1hMaG1NWktCdlNzb2luV1JmRmtYeGdUUkpwa09zUTg3YmQtV1E?oc=5
+
+McHenry County Board to take up data center moratorium Shaw Local
 
 ### ハイパースケールデータセンタープロジェクトの半数以上が、中間選挙後「規制上の障壁」に直面する見通し - Data Center Cafe
 
@@ -6487,6 +7438,18 @@ St. Johns County unanimously approves data center moratorium Jacksonville Daily 
 
 Government sets out ‘presumption of consent’ for proposed data centres in draft planning policy statement ENDS Report
 
+### Las organizaciones ecologistas exigen al Gobierno mantener la ambición ambiental en la regulación de los centros de datos - Greenpeace
+
+- **Jurisdictions:** unattributed
+- **Topics:** sustainability
+- **Document stage:** news
+- **Language:** es (untranslated)
+- **Original title:** Las organizaciones ecologistas exigen al Gobierno mantener la ambición ambiental en la regulación de los centros de datos - Greenpeace
+- **Published:** 2026-11-03T08:00:00Z
+- **Source:** Greenpeace — https://news.google.com/rss/articles/CBMiigJBVV95cUxPWG5XcnhOTUc0cDgxVk1uSzgxcUkwRTl0U3RYMXBCMkIyalEtZGIxdkNYQUxtVlloYWJXdGg5d1ltaWlZcnlNWEp6ek9xSFE5X3pSV3ZmS2gtRGYtd3E0c3hDLVB2TEdnTWEwSGlMVGFISnFObmFRVVFta0ZMTDBaU01ORE5SRkdQVUM2eEp5U2cwV2NvTHB3Q3lfRDVnaGkzSUJHYkFIbVh3cU5WbnZETWMza1d4M2MtdXNxYmg2ajlaTkVsQjRiUUtKVDFrMkNZUllEWl9CeUFRclhrODBnanc5RW10NFpoZjNUR0txaFFjZ19JNTIwaVBWOGZDSXIzaC1XX2dkdFF4QQ?oc=5
+
+Las organizaciones ecologistas exigen al Gobierno mantener la ambición ambiental en la regulación de los centros de datos Greenpeace
+
 ### Por qué te afecta más de lo que crees la regulación de los centros de datos: tu factura de la luz puede dispararse - EL PAÍS
 
 - **Jurisdictions:** unattributed
@@ -6734,6 +7697,16 @@ Ellington Moves Data Center Moratorium Hearing To November Patch
 - **Source:** The National Law Review — https://news.google.com/rss/articles/CBMikAFBVV95cUxQekVZb3k5OWFJTldoa000WlQ0dG5jRTU2N3JXX284SmRKUWcwcnJ5OW9aaE5Kb25rNTV6OUxLT3JrZnlYbjZRejhzTElHdnNDZWVGTXA4TDE5QUhyOTluMmhDeFVsMjdrYkxKMU8xbEtTZmtPYnlaV01jR21HaHZneEZuSXhqVlY2TmduNXpDaTPSAZYBQVVfeXFMTWw1RWgzZ3Q0bUJHQWd6RDhFWTZzcnQxT0ZmbGY2VV9hNndJbFpBaHY1QWdzbTlWVkxQazRldFhUUjQzaUk1RWV5b25jUkRrUl8wNXJpVnNPX3RWejdfQTZpX2hLNmxBWEpadnFScTBMOEZiQS1NYjk0MVpzY0hLbXhza1c1RXJsSmZBS3M5TGZZeGpBMGlB?oc=5
 
 Victoria - Sustainable Data Centre Action Plan Published The National Law Review
+
+### McCormick introduces Common-Sense Cloud Security Act to strengthen cloud defenses, protect critical infrastructure - Industrial Cyber
+
+- **Jurisdictions:** unattributed
+- **Topics:** security-resilience
+- **Document stage:** news
+- **Published:** 2026-10-29T07:00:00Z
+- **Source:** Industrial Cyber — https://news.google.com/rss/articles/CBMi-AFBVV95cUxPcVJVTWNLRjhGQlhIMmFsUUIyaWlhT3dGbDhicHZUME5QM3I5eV9zQ19zMGNYcTgtYVVCTzJia3lmdE9HUU0zMkxzODFTTnIyd29kZEhYdkR3cFNWZXdNVlBwT25PLW9tMXZiSkltekVKa2JWd1VDTklvbWdXMzhmR2FLMmhGZlY5M3NuaURWVFJWRHV4R1dya2ZJb1Rlem1sVDlRQTRzM05ZTmYwaE9PN05vSkUzaVBqbVVGMWFHTWJzWWVjQkRqT2E0dmVyU0RQRDNvNUFmNkZNWHZSZUdSUmZzWE5wcW1EV2dJTzVfWkVtaEEtM0kxYQ?oc=5
+
+McCormick introduces Common-Sense Cloud Security Act to strengthen cloud defenses, protect critical infrastructure Industrial Cyber
 
 ### Tailandia prepara una regulación de centros de datos ante su consumo de agua y energía - Infobae
 
@@ -14928,7 +15901,114 @@ Government and Defense Data Center Asset Management Market to Reach $549.46 Bill
 Q&A: Why data centre cybersecurity can’t wait for new UK legislation Intelligent CISO
 
 
-## United States (119 items)
+## United States (127 items)
+
+### Spain approves decree on data centers to curb electricity costs
+
+- **Jurisdictions:** United States, Spain
+- **Topics:** security-resilience, sustainability
+- **Document stage:** draft
+- **Published:** 2026-11-23T16:00:20Z
+- **Source:** www.datacenterdynamics.com — https://www.datacenterdynamics.com/en/news/spain-approves-decree-on-data-centers-to-curb-electricity-costs/
+
+The approval comes after several months of debate between the government and companies in the sector
+
+<details><summary>Full text</summary>
+
+The approval comes after several months of debate between the government and companies in the sector
+The Spanish government has rubber-stamped new energy requirement rules around data centers in the country.
+Approved on Friday during a meeting of the Council of Ministers, the Royal Decree will regulate the energy sustainability, environmental, and digital sovereignty requirements applicable to data centers .
+The session also gave the green light to updating the electricity plan through 2030, two measures through which the government seeks to align the growth of digital infrastructure with the capacity of the energy system.
+The Third Vice President and Minister for Ecological Transition and the Demographic Challenge, Sara Aagesen, argued that the regulation will make it possible to anticipate the increase in electricity demand associated with these facilities and prevent those costs from being passed on to consumers as a whole. According to her estimates, without this regulation, the impact on electricity bills could reach €5 billion ($5.5bn).
+The approval comes after several months of debate between the government and companies in the sector, which have questioned the technical and economic feasibility of some of the proposed requirements
+Although the text includes modifications compared to the initial drafts, it maintains its main requirements regarding renewable energy consumption, water efficiency, and demand flexibility.
+The regulation will take effect upon its publication in the Official State Gazette (BOE).
+One of the main requirements of the royal decree is that data centers must cover at least 80 percent of their electricity consumption with energy from newly installed renewable sources. This requirement must be demonstrated through an hourly correlation between the facilities’ consumption and the associated renewable generation.
+The goal is to prevent growth in demand from data centers from depending exclusively on electricity available on the grid and to ensure that their development is accompanied by new renewable generation capacity.
+However, the approved text provides for an optional transitional regime that allows operators to gradually adapt their facilities to meet the hourly correlation requirement. In the initial phase, the required percentage will be 60 percent and will increase to 70 percent in 2029, reaching 80 percent in 2032. This temporary flexibility is one of the significant changes from the initial versions of the regulation.
+The decree thus retains one of the provisions that has generated the most opposition among operators : the possibility that data centers may have to accept power reductions or disconnections without financial compensation under certain circumstances. Consumer protection is one of the government’s central arguments for justifying the new regulation.
+According to the minister, this scenario would be linked to rising wholesale market prices, increased costs for capacity mechanisms, and an additional 25 percent rise in the cost of electricity for industrial consumers. The regulation also aims to limit pressure on water resources. Data centers must meet the requirements of the highest-level European water efficiency label, with adjustments based on the climate region. Aagesen noted that the consumption target is around 0.1 liters of water per kilowatt-hour.
+In terms of energy efficiency, the transitional regime allows for a maximum PUE of 1.25 for certain facilities during the adaptation period, which runs through the end of 2031.
+The scale of the planned development explains the government’s concern about the impact of this infrastructure on the electricity system. Aagesen confirmed that Spain has already granted 15GW in access permits for data centers: 6GW on the transmission grid and another 9GW on the distribution grid.
+The minister noted that approximately 3GW of that capacity has been granted in the last three months. In addition, there are more than 20GW of pending applications, a figure that reflects the volume of projects seeking to connect to the grid.
+These figures should be distinguished from currently operational capacity: the granted access permits represent authorized power to connect, not electricity consumption that is already installed or in operation.
+Along with the royal decree, the Council of Ministers has approved the update to the electricity transmission grid plan through 2030. The document calls for an investment of €17.142bn ($18.75bn), 146 percent more than the €6.964bn ($7.62bn) provided for in the current plan.
+The update addresses the growing connection needs of industry, electrification, renewable hydrogen, and digital infrastructure. In total, it is expected to meet 47.4GW of new demand, with data centers among the main sectors to benefit. To meet this growth, the plan calls for the construction of approximately 6,707 kilometers (4,168 miles)of new transmission lines, the repowering of another 8,164 kilometers (5,073 miles), and the addition of 193 substations.
+The 9.3GW allocated to data centers includes facilities that already have approved access to the transmission grid and projects incorporated into the 2024 planning amendment. Therefore, this does not represent an additional allocation separate from the access permits announced by the ministry.
+This piece was translated from DCD's Spanish site and edited by a member of DCD staff.
+A version of this story appeared on España aprueba el decreto de centros de datos para "contener" el coste eléctrico on November 23, 2026
+
+</details>
+
+### Oregon lawmakers are racing to regulate data centers. Their plans are all over the map - OregonLive.com
+
+- **Jurisdictions:** United States
+- **Topics:** general
+- **Document stage:** news
+- **Published:** 2026-11-23T14:02:00Z
+- **Source:** OregonLive.com — https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbFR3bDQ5Z09QS2dyemxBcC1YQktrXzZLdk1iQWdyT1ltVWhrcVdESlQ4blJxNU5id1ZDbzVhMVB3U1NTZUxQRXNkcXJjYVhTTmNWUDRVWV9NSmpZQVVVNkNrSTNmOXhEZ1gtamJ4VDRvZGVvTldodmNhby1Wd2RzOEFGX2hnbHd1TmpKS2otTXBEQWRzTENPWmtxbW9FVW5xS2NNcGE2a2pUQVhEdmhKXzJLUG5jWWZsSE93TzEtZ2liVy1pa2x1VWxxS2FHdFJpcU51Uy1Iaw?oc=5
+
+Oregon lawmakers are racing to regulate data centers. Their plans are all over the map OregonLive.com
+
+### Ya está en vigor el Real Decreto que regula los nuevos requisitos de sostenibilidad energética y medioambiental de los centros de datos - Cadena de Suministro
+
+- **Jurisdictions:** United States, Spain
+- **Topics:** sustainability
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** Ya está en vigor el Real Decreto que regula los nuevos requisitos de sostenibilidad energética y medioambiental de los centros de datos - Cadena de Suministro
+- **Published:** 2026-11-23T07:15:00Z
+- **Source:** Cadena de Suministro — https://news.google.com/rss/articles/CBMihAJBVV95cUxQajNuTlZOVS15bFJhSnBpRUMyY0ZmQ1VXX3dlMTNsczdsT3ItNTEtVWlRbFF0ZzRKUkdnR29MelZxY1o4RUZ5cXRCRzZaOGVxNEZNWkl3R2MyQUo1Yk83SDNnUnFXeXNIY1VIeUMzY3pDXzFqOG5PeTdqandtN1JZR3RtRlFSSkpIZHpFRnU0WndtSHVZM3YteDhIMnpPQkJQdDNOOVZtNzg3OW5fQTV3T0V4V3RMQnJNc3VvY1RJaFBTU0ZRdTNJNXZvaTl6dkpiQXpMc24zbUZhZ1N0cjI2bEF4VzdqY0VYMmZReUVmQ3RhNGlEUFlGbXh6YmIzZTl5SGZZWQ?oc=5
+
+Ya está en vigor el Real Decreto que regula los nuevos requisitos de sostenibilidad energética y medioambiental de los centros de datos Cadena de Suministro
+
+### La Junta rechaza el real decreto sobre centros de datos aprobado por el Consejo de Ministros - La Portada de Extremadura
+
+- **Jurisdictions:** United States, Spain
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** La Junta rechaza el real decreto sobre centros de datos aprobado por el Consejo de Ministros - La Portada de Extremadura
+- **Published:** 2026-11-21T07:52:28Z
+- **Source:** La Portada de Extremadura — https://news.google.com/rss/articles/CBMi9gFBVV95cUxORm41ZXVMYVd5LXBZZWZDTF84N1NyNm9qSm93M2V3TEVybHJkSS1wUktwSHd0dC10TEVjb1JERlJycnpIVEZxMGRWc1N6eGxUNjdkWHRGMm44QTBkNlhETW5lT2M5TlNiaXY3WUY1N2VjN2RnbTFTTEN0QV8wcGY2UEI3cDFPV3FYSmVPbHJPd2ZrdWJ6Q2FLdjlXODdjQWZVVDhyRi11S2t1NEJyVTZLM1BPeXNtbDN1akhtd0tNTXhtd25HMUZQWU9tNGNSMWRyVG5yWmRYeE41WjFfZ1NYU01rU2trMVBfU2xjUndkUnIxVVBFZnc?oc=5
+
+La Junta rechaza el real decreto sobre centros de datos aprobado por el Consejo de Ministros La Portada de Extremadura
+
+### El Consejo de Ministros aprueba el real decreto que establece nuevos requisitos para los centros de datos - Radiotelevisión del Principado de Asturias
+
+- **Jurisdictions:** United States, Spain
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** El Consejo de Ministros aprueba el real decreto que establece nuevos requisitos para los centros de datos - Radiotelevisión del Principado de Asturias
+- **Published:** 2026-11-20T19:59:00Z
+- **Source:** Radiotelevisión del Principado de Asturias — https://news.google.com/rss/articles/CBMiggJBVV95cUxNSnpLcFplWWxHQU5fdldYajlHcmZqNU5qNDNNOThDcGxQV0NPbk9HYzNTbXRPT1p2eDJaNWZaX0NZRng1WnM1WUV1MHBtbGJicFZBYi00dVZNUkVybHU0RlBvTzBjZHN0YzRST0NaWWlOQk82TGlNaURVVTR2cEp5Q1Vsa3BXRFZ2VU5mY3g5VXZBRUttdk5WaHZRQXlITWNhdGpITFpUdnd2Rlk5US0wR29zX1VhYXE3TUI0ZnVyZ3VJMWRNNGJPM1gzSHRHZGhsYkxpYnMwaU5wWVQxbUxya3EyWUpORzBIekJTOWhULU1EMVIzVFMzY05iQ2o1M0VBanfSAYcCQVVfeXFMTjhuUU1DZkZNTVBGbUR4S1pldXVOMmFhY0s3ZEcybmY4U2lSam1FTzF1ZGxLWTEyX1dqMHl1OURUVzJBR0VGX3pfYm85bkliOHl2WGRTT3hkQWJWbi1uRExrQU9KclNpY29UY3lhZ0J1aDhxVHR2UjZmR0ZQOFRNZ3lBZ3pNU1Ftd0dWYWptTDdQLWQzRUtpLUxvRGJpNEE0bXRZZEV5TTRhbWtJSVVQaVJCN1VmQXZ2YUMxT1RraDRWNC16QVR4S2ZXWlRHVVNUZkNLNnhrTWJMakI4TkFuMG4yY3NsdmhrOHphYkt6WGdfOXo0TzdVZ09wWWNTLVFSaFdoaGxyX2c?oc=5
+
+El Consejo de Ministros aprueba el real decreto que establece nuevos requisitos para los centros de datos Radiotelevisión del Principado de Asturias
+
+### Aragón recurrirá el Real Decreto del Consejo de Ministros que regula los centros de datos: "No tiene ningún sentido" - COPE
+
+- **Jurisdictions:** United States, Spain
+- **Topics:** general
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** Aragón recurrirá el Real Decreto del Consejo de Ministros que regula los centros de datos: "No tiene ningún sentido" - COPE
+- **Published:** 2026-11-20T17:15:43Z
+- **Source:** COPE — https://news.google.com/rss/articles/CBMijwJBVV95cUxQa0ZaY2xkd0xjS095cC0tMnFkQklwa1lLMXJJU3prMUpZWmtrZlgzNWhxNkJmQ0M0R1lxSjZ0M3hCUUR1YmNIbnFmRkNQWWcxVEtxQkk2Q0NoTFFKd2hvQ1psTFo3NlRNcG84a3RFMHVPRWwzTjBaTERaLS1kRGxxTGlONldNcTllQWt3M1ktRHNpZ0FMSWZUX2JEdnRQSHc2WHZ2MGh0YWtlak9sZUNtS3Axc0dVZ2RxZ1g3cE5vNVlVUjZnQkxHemhGbUlhR21oS0V1OE0ySEs0TmpjTnlKSEFqSkw1Y0cwbDMzYkhTTXpNd1Rpc1JIU2VLN3NxNWo2b2xvYkxEVkhaSy1nT0dR0gGUAkFVX3lxTE1SbEIzaF9xNFUwX244RXJVNkhOUEwwNC0zODJNS1VEMDdEcFZvZ3BpQWh5T2Q0OXV5WW1KOFMtdlU4MzBBc0tleV9tNDFrQlhsSldHdm1pOGxmdTlWN2U0X0xfby1MVjVMZFNQSHV3ekJWemE0UTVfV0p6akg3dWpNTHNzM2JnUWhRaHRzaEI1RjJiNjcwYmwxX1o0QWJtRXBPbEU3SnRPRUstSEFCRmpEVlNuMVA3amlxLWFMQmk1cEtFV0Vqdldla25qTlZjVTNJT3NHWlJYTE5QZU02dFBXV1AtUWx6Y0tNY1I0MzlKOGRMVkJ2MnNpTjEtX0lPcnRBRWR6LV95eURYenAzbHZZVTRFdw?oc=5
+
+Aragón recurrirá el Real Decreto del Consejo de Ministros que regula los centros de datos: "No tiene ningún sentido" COPE
+
+### El Gobierno aprueba el Real Decreto para la sostenibilidad energética, medioambiental y de resiliencia y soberanía digital de los centros de datos - Ministerio de Transición Ecológica
+
+- **Jurisdictions:** United States, Spain
+- **Topics:** security-resilience, sustainability
+- **Document stage:** enacted
+- **Language:** es (untranslated)
+- **Original title:** El Gobierno aprueba el Real Decreto para la sostenibilidad energética, medioambiental y de resiliencia y soberanía digital de los centros de datos - Ministerio de Transición Ecológica
+- **Published:** 2026-11-20T14:11:50Z
+- **Source:** Ministerio de Transición Ecológica — https://news.google.com/rss/articles/CBMi0wFBVV95cUxOemEzWWY2eS1UYXRZUWRHSjAxZGs5cmdzYXpWRnAxWDFYREs2cFVXRnVlcnNpN19tSmRaZkhxVXFPRXNMczhaNVdwUHFKM1hjY3BOb1dUbHJEbUMxU0l3SG1MTzNuZFhGeE5wQUp0RUFDYnNBZ20tSTRSb1kyOHhKUXFrVFlqNC02QzBTM3RacHpNalpBeW52S2V2eDdaTDBnWWF2aUt2Z2QzdzJvWnVzSHJUeUozTFdpdWRNUmZFT0MwZkthQTEzNjdvTjJkZEZUeThr?oc=5
+
+El Gobierno aprueba el Real Decreto para la sostenibilidad energética, medioambiental y de resiliencia y soberanía digital de los centros de datos Ministerio de Transición Ecológica
 
 ### North Carolina utility Duke Energy secures regulatory approval for new data center rate class
 
@@ -15323,6 +16403,16 @@ Uptime Institute and Indonesia Ministry of Communication and Digital Affairs (KO
 - **Source:** The National Law Review — https://news.google.com/rss/articles/CBMioAFBVV95cUxPaWV3NHJDM29rd0syd215T0R1eW5OWDUzc1RaSHYxbWdBcTFhUEh5QW80Q2JSaWR4TU91VzhLQ0RkNzd4bkZEU3VSdHRmVzNxR1RrZnh1TGNBMVhhVThJR053bWVHZzJBYjZ5akU3dm9CUEZaaVRuUGFTZS0zbk9jTnZ2end5QWFxaUFCTWd1amFqUFRBQTNLc0dpT2ZFRWZn0gGmAUFVX3lxTE83LWlGem44VlUtRnRwYjBJR2lKc1dmNXdQcFJnSFd0bXlneDB2MzN4QjRkYUFLS2toZjVCS0taOHBhQ1djY2FQWmstcEhYcXotU0VfdzJWZy1PSVVCRmc0TTdSMGpfckYzTVhQOGh4WG9MOTZZNDVTTFFqX094eVo5U3BwZ0pMa3lhd19hc3hWMmNrTlhsbFhIVWJsa2xLNlpJQXFqZ1E?oc=5
 
 Data Center Water Use Legislation in Michigan, Illinois, and California The National Law Review
+
+### Texas Data Center Grid Contract Sets Security, Water Rules - The Texas Dispatch
+
+- **Jurisdictions:** United States
+- **Topics:** security-resilience, sustainability
+- **Document stage:** news
+- **Published:** 2026-10-30T12:22:35Z
+- **Source:** The Texas Dispatch — https://news.google.com/rss/articles/CBMimAFBVV95cUxNSURsaUtNc1hKa0VkaHVNUFE3UUU1SUh6bUF2QjIydm1McjRaTTFBTDRSZTVXYk0tbERicVlsblJwWWZyaGZwYTRSTUc0Nl9CUnE1YmFmNzgtemtxTGFiNklnSFRxR1cwRC04Qkd5a3VET2xzRHlWMWExaXk0d3ljNDZZa25TeEVjRFlUb2hzaWZLSXZvRWRmSA?oc=5
+
+Texas Data Center Grid Contract Sets Security, Water Rules The Texas Dispatch
 
 ### Lake Township extends data center moratorium through 2027 - Your Ohio News
 
